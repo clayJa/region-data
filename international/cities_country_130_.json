@@ -1,0 +1,114 @@
+[
+  {
+    "id": "country_130__city_1",
+    "text": "奥绍博",
+    "zone": 1,
+    "lng": 4.55,
+    "iana": "Africa/Lagos"
+  },
+  {
+    "id": "country_130__city_2",
+    "text": "乌约",
+    "zone": 1,
+    "lng": 7.93,
+    "iana": "Africa/Lagos"
+  },
+  {
+    "id": "country_130__city_3",
+    "text": "索科托",
+    "zone": 1,
+    "lng": 5.23,
+    "iana": "Africa/Lagos"
+  },
+  {
+    "id": "country_130__city_4",
+    "text": "拉各斯",
+    "zone": 1,
+    "lng": 3.35,
+    "iana": "Africa/Lagos"
+  },
+  {
+    "id": "country_130__city_5",
+    "text": "奥韦里",
+    "zone": 1,
+    "lng": 7.03,
+    "iana": "Africa/Lagos"
+  },
+  {
+    "id": "country_130__city_6",
+    "text": "哈科特港",
+    "zone": 1,
+    "lng": 7.02,
+    "iana": "Africa/Lagos"
+  },
+  {
+    "id": "country_130__city_7",
+    "text": "阿贝奥库塔",
+    "zone": 1,
+    "lng": 3.35,
+    "iana": "Africa/Lagos"
+  },
+  {
+    "id": "country_130__city_8",
+    "text": "扎里亚",
+    "zone": 1,
+    "lng": 7.7,
+    "iana": "Africa/Lagos"
+  },
+  {
+    "id": "country_130__city_9",
+    "text": "贝宁城",
+    "zone": 1,
+    "lng": 5.63,
+    "iana": "Africa/Lagos"
+  },
+  {
+    "id": "country_130__city_10",
+    "text": "阿布贾",
+    "zone": 1,
+    "lng": 7.48,
+    "iana": "Africa/Lagos"
+  },
+  {
+    "id": "country_130__city_11",
+    "text": "埃努古",
+    "zone": 1,
+    "lng": 7.52,
+    "iana": "Africa/Lagos"
+  },
+  {
+    "id": "country_130__city_12",
+    "text": "伊巴丹",
+    "zone": 1,
+    "lng": 3.9,
+    "iana": "Africa/Lagos"
+  },
+  {
+    "id": "country_130__city_13",
+    "text": "迈杜古里",
+    "zone": 1,
+    "lng": 13.15,
+    "iana": "Africa/Lagos"
+  },
+  {
+    "id": "country_130__city_14",
+    "text": "马库尔迪",
+    "zone": 1,
+    "lng": 8.53,
+    "iana": "Africa/Lagos"
+  },
+  {
+    "id": "country_130__city_15",
+    "text": "卡杜纳",
+    "zone": 1,
+    "lng": 7.43,
+    "iana": "Africa/Lagos"
+  },
+  {
+    "id": "country_130__city_16",
+    "text": "卡诺",
+    "zone": 1,
+    "lng": 8.53,
+    "iana": "Africa/Lagos"
+  }
+]

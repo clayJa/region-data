@@ -1,0 +1,44 @@
+[
+  {
+    "id": "country_84__city_1",
+    "text": "塔朱拉",
+    "zone": 3,
+    "lng": 42.88,
+    "iana": "Africa/Djibouti"
+  },
+  {
+    "id": "country_84__city_2",
+    "text": "多拉",
+    "zone": 3,
+    "lng": 42.48,
+    "iana": "Africa/Djibouti"
+  },
+  {
+    "id": "country_84__city_3",
+    "text": "阿里萨比",
+    "zone": 3,
+    "lng": 42.7,
+    "iana": "Africa/Djibouti"
+  },
+  {
+    "id": "country_84__city_4",
+    "text": "吉布提",
+    "zone": 3,
+    "lng": 43.15,
+    "iana": "Africa/Djibouti"
+  },
+  {
+    "id": "country_84__city_5",
+    "text": "奥博克",
+    "zone": 3,
+    "lng": 43.28,
+    "iana": "Africa/Djibouti"
+  },
+  {
+    "id": "country_84__city_6",
+    "text": "迪基尔",
+    "zone": 3,
+    "lng": 42.37,
+    "iana": "Africa/Djibouti"
+  }
+]

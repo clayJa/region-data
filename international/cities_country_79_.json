@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_79__city_1",
+    "text": "圣佩德罗苏拉",
+    "zone": -6,
+    "lng": -88.02,
+    "iana": "America/Tegucigalpa"
+  },
+  {
+    "id": "country_79__city_2",
+    "text": "乔洛马",
+    "zone": -6,
+    "lng": -87.95,
+    "iana": "America/Tegucigalpa"
+  },
+  {
+    "id": "country_79__city_3",
+    "text": "特古西加尔巴",
+    "zone": -6,
+    "lng": -87.2,
+    "iana": "America/Tegucigalpa"
+  },
+  {
+    "id": "country_79__city_4",
+    "text": "拉塞瓦",
+    "zone": -6,
+    "lng": -86.78,
+    "iana": "America/Tegucigalpa"
+  }
+]

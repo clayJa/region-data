@@ -1,0 +1,93 @@
+[
+  {
+    "id": "country_28__city_1",
+    "text": "阿瓦萨",
+    "zone": 3,
+    "lng": 38.48,
+    "iana": "Africa/Addis_Ababa"
+  },
+  {
+    "id": "country_28__city_2",
+    "text": "拉利贝拉",
+    "zone": 3,
+    "lng": 39.03,
+    "iana": "Africa/Addis_Ababa"
+  },
+  {
+    "id": "country_28__city_3",
+    "text": "阿达玛",
+    "zone": 3,
+    "lng": 39.27,
+    "iana": "Africa/Addis_Ababa"
+  },
+  {
+    "id": "country_28__city_4",
+    "text": "季马",
+    "zone": 3,
+    "lng": 36.83,
+    "iana": "Africa/Addis_Ababa"
+  },
+  {
+    "id": "country_28__city_5",
+    "text": "贡德尔",
+    "zone": 3,
+    "lng": 37.47,
+    "iana": "Africa/Addis_Ababa"
+  },
+  {
+    "id": "country_28__city_6",
+    "text": "内格默特",
+    "zone": 3,
+    "lng": 36.55,
+    "iana": "Africa/Addis_Ababa"
+  },
+  {
+    "id": "country_28__city_7",
+    "text": "德塞",
+    "zone": 3,
+    "lng": 39.63,
+    "iana": "Africa/Addis_Ababa"
+  },
+  {
+    "id": "country_28__city_8",
+    "text": "德卜勒伯尔汉",
+    "zone": 3,
+    "lng": 39.53,
+    "iana": "Africa/Addis_Ababa"
+  },
+  {
+    "id": "country_28__city_9",
+    "text": "亚的斯亚贝巴",
+    "zone": 3,
+    "lng": 38.75,
+    "iana": "Africa/Addis_Ababa"
+  },
+  {
+    "id": "country_28__city_10",
+    "text": "阿巴门奇",
+    "zone": 3,
+    "lng": 37.55,
+    "iana": "Africa/Addis_Ababa"
+  },
+  {
+    "id": "country_28__city_11",
+    "text": "巴赫达尔",
+    "zone": 3,
+    "lng": 37.38,
+    "iana": "Africa/Addis_Ababa"
+  },
+  {
+    "id": "country_28__city_12",
+    "text": "德雷达瓦",
+    "zone": 3,
+    "lng": 41.87,
+    "iana": "Africa/Addis_Ababa"
+  },
+  {
+    "id": "country_28__city_13",
+    "text": "默克莱",
+    "zone": 3,
+    "lng": 39.47,
+    "iana": "Africa/Addis_Ababa"
+  }
+]

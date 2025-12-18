@@ -1,0 +1,128 @@
+[
+  {
+    "id": "country_22__city_1",
+    "text": "费尔德巴赫",
+    "zone": 1,
+    "lng": 15.88,
+    "iana": "Europe/Vienna"
+  },
+  {
+    "id": "country_22__city_2",
+    "text": "德意志兰茨贝格",
+    "zone": 1,
+    "lng": 15.22,
+    "iana": "Europe/Vienna"
+  },
+  {
+    "id": "country_22__city_3",
+    "text": "格里斯基兴",
+    "zone": 1,
+    "lng": 13.83,
+    "iana": "Europe/Vienna"
+  },
+  {
+    "id": "country_22__city_4",
+    "text": "布雷根茨",
+    "zone": 1,
+    "lng": 9.75,
+    "iana": "Europe/Vienna"
+  },
+  {
+    "id": "country_22__city_5",
+    "text": "菲尔斯滕费尔德",
+    "zone": 1,
+    "lng": 16.08,
+    "iana": "Europe/Vienna"
+  },
+  {
+    "id": "country_22__city_6",
+    "text": "菲拉赫",
+    "zone": 1,
+    "lng": 13.85,
+    "iana": "Europe/Vienna"
+  },
+  {
+    "id": "country_22__city_7",
+    "text": "因斯布鲁克",
+    "zone": 1,
+    "lng": 11.4,
+    "iana": "Europe/Vienna"
+  },
+  {
+    "id": "country_22__city_8",
+    "text": "格明德",
+    "zone": 1,
+    "lng": 14.98,
+    "iana": "Europe/Vienna"
+  },
+  {
+    "id": "country_22__city_9",
+    "text": "莱塔河畔布鲁克",
+    "zone": 1,
+    "lng": 16.78,
+    "iana": "Europe/Vienna"
+  },
+  {
+    "id": "country_22__city_10",
+    "text": "艾森施塔特",
+    "zone": 1,
+    "lng": 16.52,
+    "iana": "Europe/Vienna"
+  },
+  {
+    "id": "country_22__city_11",
+    "text": "圣帕尔滕",
+    "zone": 1,
+    "lng": 15.62,
+    "iana": "Europe/Vienna"
+  },
+  {
+    "id": "country_22__city_12",
+    "text": "林茨",
+    "zone": 1,
+    "lng": 14.28,
+    "iana": "Europe/Vienna"
+  },
+  {
+    "id": "country_22__city_13",
+    "text": "弗赖施塔特",
+    "zone": 1,
+    "lng": 14.5,
+    "iana": "Europe/Vienna"
+  },
+  {
+    "id": "country_22__city_14",
+    "text": "维也纳",
+    "zone": 1,
+    "lng": 16.37,
+    "iana": "Europe/Vienna"
+  },
+  {
+    "id": "country_22__city_15",
+    "text": "萨尔茨堡",
+    "zone": 1,
+    "lng": 13.05,
+    "iana": "Europe/Vienna"
+  },
+  {
+    "id": "country_22__city_16",
+    "text": "埃弗丁",
+    "zone": 1,
+    "lng": 14.02,
+    "iana": "Europe/Vienna"
+  },
+  {
+    "id": "country_22__city_17",
+    "text": "格拉茨",
+    "zone": 1,
+    "lng": 15.43,
+    "iana": "Europe/Vienna"
+  },
+  {
+    "id": "country_22__city_18",
+    "text": "克拉根福特",
+    "zone": 1,
+    "lng": 14.3,
+    "iana": "Europe/Vienna"
+  }
+]

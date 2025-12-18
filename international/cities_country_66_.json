@@ -1,0 +1,51 @@
+[
+  {
+    "id": "country_66__city_1",
+    "text": "圣克拉拉",
+    "zone": -5,
+    "lng": -79.97,
+    "iana": "America/Havana"
+  },
+  {
+    "id": "country_66__city_2",
+    "text": "圣斯皮里图斯",
+    "zone": -5,
+    "lng": -79.45,
+    "iana": "America/Havana"
+  },
+  {
+    "id": "country_66__city_3",
+    "text": "哈瓦那",
+    "zone": -5,
+    "lng": -82.37,
+    "iana": "America/Havana"
+  },
+  {
+    "id": "country_66__city_4",
+    "text": "奥尔金",
+    "zone": -5,
+    "lng": -76.27,
+    "iana": "America/Havana"
+  },
+  {
+    "id": "country_66__city_5",
+    "text": "卡马圭",
+    "zone": -5,
+    "lng": -77.92,
+    "iana": "America/Havana"
+  },
+  {
+    "id": "country_66__city_6",
+    "text": "比那尔德里奥",
+    "zone": -5,
+    "lng": -83.7,
+    "iana": "America/Havana"
+  },
+  {
+    "id": "country_66__city_7",
+    "text": "圣地亚哥-德古巴",
+    "zone": -5,
+    "lng": -75.83,
+    "iana": "America/Havana"
+  }
+]

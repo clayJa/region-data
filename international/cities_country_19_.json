@@ -1,0 +1,65 @@
+[
+  {
+    "id": "country_19__city_1",
+    "text": "都柏林",
+    "zone": 0,
+    "lng": 6.27,
+    "iana": "Europe/Dublin"
+  },
+  {
+    "id": "country_19__city_2",
+    "text": "毛罗赫达",
+    "zone": 0,
+    "lng": 6.35,
+    "iana": "Europe/Dublin"
+  },
+  {
+    "id": "country_19__city_3",
+    "text": "莱特肯尼",
+    "zone": 0,
+    "lng": 7.73,
+    "iana": "Europe/Dublin"
+  },
+  {
+    "id": "country_19__city_4",
+    "text": "沃特福德",
+    "zone": 0,
+    "lng": 7.12,
+    "iana": "Europe/Dublin"
+  },
+  {
+    "id": "country_19__city_5",
+    "text": "斯莱戈",
+    "zone": 0,
+    "lng": 8.48,
+    "iana": "Europe/Dublin"
+  },
+  {
+    "id": "country_19__city_6",
+    "text": "戈尔韦",
+    "zone": 0,
+    "lng": 9.05,
+    "iana": "Europe/Dublin"
+  },
+  {
+    "id": "country_19__city_7",
+    "text": "基尔肯尼",
+    "zone": 0,
+    "lng": 7.25,
+    "iana": "Europe/Dublin"
+  },
+  {
+    "id": "country_19__city_8",
+    "text": "利莫瑞克",
+    "zone": 0,
+    "lng": 8.63,
+    "iana": "Europe/Dublin"
+  },
+  {
+    "id": "country_19__city_9",
+    "text": "科克",
+    "zone": 0,
+    "lng": 8.48,
+    "iana": "Europe/Dublin"
+  }
+]

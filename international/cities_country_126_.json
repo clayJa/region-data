@@ -1,0 +1,86 @@
+[
+  {
+    "id": "country_126__city_1",
+    "text": "卑尔根",
+    "zone": 1,
+    "lng": 5.33,
+    "iana": "Europe/Oslo"
+  },
+  {
+    "id": "country_126__city_2",
+    "text": "奥斯陆",
+    "zone": 1,
+    "lng": 10.73,
+    "iana": "Europe/Oslo"
+  },
+  {
+    "id": "country_126__city_3",
+    "text": "桑讷菲尤尔",
+    "zone": 1,
+    "lng": 10.22,
+    "iana": "Europe/Oslo"
+  },
+  {
+    "id": "country_126__city_4",
+    "text": "桑维卡",
+    "zone": 1,
+    "lng": 10.52,
+    "iana": "Europe/Oslo"
+  },
+  {
+    "id": "country_126__city_5",
+    "text": "奥勒松",
+    "zone": 1,
+    "lng": 6.15,
+    "iana": "Europe/Oslo"
+  },
+  {
+    "id": "country_126__city_6",
+    "text": "拉尔维克",
+    "zone": 1,
+    "lng": 10.03,
+    "iana": "Europe/Oslo"
+  },
+  {
+    "id": "country_126__city_7",
+    "text": "海尔格松",
+    "zone": 1,
+    "lng": 5.27,
+    "iana": "Europe/Oslo"
+  },
+  {
+    "id": "country_126__city_8",
+    "text": "德拉门",
+    "zone": 1,
+    "lng": 10.2,
+    "iana": "Europe/Oslo"
+  },
+  {
+    "id": "country_126__city_9",
+    "text": "斯塔万格",
+    "zone": 1,
+    "lng": 5.73,
+    "iana": "Europe/Oslo"
+  },
+  {
+    "id": "country_126__city_10",
+    "text": "朗伊尔城",
+    "zone": 1,
+    "lng": 15.63,
+    "iana": "Europe/Oslo"
+  },
+  {
+    "id": "country_126__city_11",
+    "text": "特罗姆瑟",
+    "zone": 1,
+    "lng": 18.95,
+    "iana": "Europe/Oslo"
+  },
+  {
+    "id": "country_126__city_12",
+    "text": "特隆赫姆",
+    "zone": 1,
+    "lng": 10.4,
+    "iana": "Europe/Oslo"
+  }
+]

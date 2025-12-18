@@ -1,0 +1,51 @@
+[
+  {
+    "id": "country_101__city_1",
+    "text": "瓦尔米耶拉",
+    "zone": 2,
+    "lng": 25.42,
+    "iana": "Europe/Riga"
+  },
+  {
+    "id": "country_101__city_2",
+    "text": "里加",
+    "zone": 2,
+    "lng": 24.1,
+    "iana": "Europe/Riga"
+  },
+  {
+    "id": "country_101__city_3",
+    "text": "利耶帕亚",
+    "zone": 2,
+    "lng": 21.02,
+    "iana": "Europe/Riga"
+  },
+  {
+    "id": "country_101__city_4",
+    "text": "叶尔加瓦",
+    "zone": 2,
+    "lng": 23.72,
+    "iana": "Europe/Riga"
+  },
+  {
+    "id": "country_101__city_5",
+    "text": "古尔贝内",
+    "zone": 2,
+    "lng": 26.75,
+    "iana": "Europe/Riga"
+  },
+  {
+    "id": "country_101__city_6",
+    "text": "文茨皮尔斯",
+    "zone": 2,
+    "lng": 21.58,
+    "iana": "Europe/Riga"
+  },
+  {
+    "id": "country_101__city_7",
+    "text": "道加瓦皮尔斯",
+    "zone": 2,
+    "lng": 26.52,
+    "iana": "Europe/Riga"
+  }
+]

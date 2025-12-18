@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_106__city_1",
+    "text": "加尔恩加",
+    "zone": 0,
+    "lng": 9.47,
+    "iana": "Africa/Monrovia"
+  },
+  {
+    "id": "country_106__city_2",
+    "text": "蒙罗维亚",
+    "zone": 0,
+    "lng": 10.8,
+    "iana": "Africa/Monrovia"
+  },
+  {
+    "id": "country_106__city_3",
+    "text": "哈泊",
+    "zone": 0,
+    "lng": 7.72,
+    "iana": "Africa/Monrovia"
+  },
+  {
+    "id": "country_106__city_4",
+    "text": "卡卡塔",
+    "zone": 0,
+    "lng": 10.35,
+    "iana": "Africa/Monrovia"
+  }
+]

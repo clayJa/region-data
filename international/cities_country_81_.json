@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_81__city_1",
+    "text": "贾拉拉巴德",
+    "zone": 6,
+    "lng": 73,
+    "iana": "Asia/Kabul"
+  },
+  {
+    "id": "country_81__city_2",
+    "text": "比什凯克",
+    "zone": 6,
+    "lng": 74.58,
+    "iana": "Asia/Bishkek"
+  },
+  {
+    "id": "country_81__city_3",
+    "text": "卡拉科尔",
+    "zone": 6,
+    "lng": 78.4,
+    "iana": "Asia/Bishkek"
+  },
+  {
+    "id": "country_81__city_4",
+    "text": "奥什",
+    "zone": 6,
+    "lng": 72.8,
+    "iana": "Asia/Bishkek"
+  }
+]

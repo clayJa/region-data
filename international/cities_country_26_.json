@@ -1,0 +1,72 @@
+[
+  {
+    "id": "country_26__city_1",
+    "text": "盖尔达耶",
+    "zone": 1,
+    "lng": 3.67,
+    "iana": "Africa/Algiers"
+  },
+  {
+    "id": "country_26__city_2",
+    "text": "奥兰",
+    "zone": 1,
+    "lng": 0.63,
+    "iana": "Africa/Algiers"
+  },
+  {
+    "id": "country_26__city_3",
+    "text": "廷杜夫",
+    "zone": 1,
+    "lng": 8.13,
+    "iana": "Africa/Algiers"
+  },
+  {
+    "id": "country_26__city_4",
+    "text": "康斯坦丁",
+    "zone": 1,
+    "lng": 6.62,
+    "iana": "Africa/Algiers"
+  },
+  {
+    "id": "country_26__city_5",
+    "text": "阿德拉尔",
+    "zone": 1,
+    "lng": 0.3,
+    "iana": "Africa/Algiers"
+  },
+  {
+    "id": "country_26__city_6",
+    "text": "贝沙尔",
+    "zone": 1,
+    "lng": 2.22,
+    "iana": "Africa/Algiers"
+  },
+  {
+    "id": "country_26__city_7",
+    "text": "瓦尔格拉",
+    "zone": 1,
+    "lng": 5.32,
+    "iana": "Africa/Algiers"
+  },
+  {
+    "id": "country_26__city_8",
+    "text": "艾因萨拉赫",
+    "zone": 1,
+    "lng": 2.48,
+    "iana": "Africa/Algiers"
+  },
+  {
+    "id": "country_26__city_9",
+    "text": "塔曼拉塞特",
+    "zone": 1,
+    "lng": 5.52,
+    "iana": "Africa/Algiers"
+  },
+  {
+    "id": "country_26__city_10",
+    "text": "阿尔及尔",
+    "zone": 1,
+    "lng": 3.05,
+    "iana": "Africa/Algiers"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "country_14__city_1",
+    "text": "拉什卡尔加",
+    "zone": 4.5,
+    "lng": 64.37,
+    "iana": "Asia/Kabul"
+  },
+  {
+    "id": "country_14__city_2",
+    "text": "马扎里沙里夫",
+    "zone": 4.5,
+    "lng": 67.12,
+    "iana": "Asia/Kabul"
+  },
+  {
+    "id": "country_14__city_3",
+    "text": "法拉",
+    "zone": 4.5,
+    "lng": 62.12,
+    "iana": "Asia/Kabul"
+  },
+  {
+    "id": "country_14__city_4",
+    "text": "霍斯特",
+    "zone": 4.5,
+    "lng": 69.92,
+    "iana": "Asia/Kabul"
+  },
+  {
+    "id": "country_14__city_5",
+    "text": "赫拉特",
+    "zone": 4.5,
+    "lng": 62.22,
+    "iana": "Asia/Kabul"
+  },
+  {
+    "id": "country_14__city_6",
+    "text": "坎大哈",
+    "zone": 4.5,
+    "lng": 65.72,
+    "iana": "Asia/Kabul"
+  },
+  {
+    "id": "country_14__city_7",
+    "text": "喀布尔",
+    "zone": 4.5,
+    "lng": 69.17,
+    "iana": "Asia/Kabul"
+  }
+]

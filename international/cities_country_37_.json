@@ -1,0 +1,51 @@
+[
+  {
+    "id": "country_37__city_1",
+    "text": "华沙",
+    "zone": 1,
+    "lng": 21,
+    "iana": "Europe/Warsaw"
+  },
+  {
+    "id": "country_37__city_2",
+    "text": "弗罗茨瓦夫",
+    "zone": 1,
+    "lng": 17.03,
+    "iana": "Europe/Warsaw"
+  },
+  {
+    "id": "country_37__city_3",
+    "text": "什切青",
+    "zone": 1,
+    "lng": 14.55,
+    "iana": "Europe/Warsaw"
+  },
+  {
+    "id": "country_37__city_4",
+    "text": "克拉科夫",
+    "zone": 1,
+    "lng": 19.93,
+    "iana": "Europe/Warsaw"
+  },
+  {
+    "id": "country_37__city_5",
+    "text": "格但斯克",
+    "zone": 1,
+    "lng": 18.65,
+    "iana": "Europe/Warsaw"
+  },
+  {
+    "id": "country_37__city_6",
+    "text": "波兹南",
+    "zone": 1,
+    "lng": 16.93,
+    "iana": "Europe/Warsaw"
+  },
+  {
+    "id": "country_37__city_7",
+    "text": "罗兹",
+    "zone": 1,
+    "lng": 19.45,
+    "iana": "Europe/Warsaw"
+  }
+]

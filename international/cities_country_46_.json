@@ -1,0 +1,58 @@
+[
+  {
+    "id": "country_46__city_1",
+    "text": "萨维",
+    "zone": 1,
+    "lng": 2.48,
+    "iana": "America/Belize"
+  },
+  {
+    "id": "country_46__city_2",
+    "text": "坎迪",
+    "zone": 1,
+    "lng": 2.93,
+    "iana": "Asia/Colombo"
+  },
+  {
+    "id": "country_46__city_3",
+    "text": "纳迪丹古",
+    "zone": 1,
+    "lng": 1.38,
+    "iana": "Africa/Dakar"
+  },
+  {
+    "id": "country_46__city_4",
+    "text": "波多诺伏",
+    "zone": 1,
+    "lng": 2.62,
+    "iana": "Africa/Porto-Novo"
+  },
+  {
+    "id": "country_46__city_5",
+    "text": "巴拉库",
+    "zone": 1,
+    "lng": 2.63,
+    "iana": "Africa/Porto-Novo"
+  },
+  {
+    "id": "country_46__city_6",
+    "text": "朱古",
+    "zone": 1,
+    "lng": 1.67,
+    "iana": "Africa/Porto-Novo"
+  },
+  {
+    "id": "country_46__city_7",
+    "text": "薄一贡",
+    "zone": 1,
+    "lng": 2.07,
+    "iana": "Africa/Porto-Novo"
+  },
+  {
+    "id": "country_46__city_8",
+    "text": "科托努",
+    "zone": 1,
+    "lng": 2.43,
+    "iana": "Africa/Porto-Novo"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "country_166__city_1",
+    "text": "凯奇凯梅特",
+    "zone": 1,
+    "lng": 19.68,
+    "iana": "Europe/Budapest"
+  },
+  {
+    "id": "country_166__city_2",
+    "text": "塞格德",
+    "zone": 1,
+    "lng": 20.15,
+    "iana": "Europe/Budapest"
+  },
+  {
+    "id": "country_166__city_3",
+    "text": "考波什堡",
+    "zone": 1,
+    "lng": 17.78,
+    "iana": "Europe/Budapest"
+  },
+  {
+    "id": "country_166__city_4",
+    "text": "布达佩斯",
+    "zone": 1,
+    "lng": 19.05,
+    "iana": "Europe/Budapest"
+  },
+  {
+    "id": "country_166__city_5",
+    "text": "米什科尔茨",
+    "zone": 1,
+    "lng": 20.78,
+    "iana": "Europe/Budapest"
+  },
+  {
+    "id": "country_166__city_6",
+    "text": "德布勒森",
+    "zone": 1,
+    "lng": 21.63,
+    "iana": "Europe/Budapest"
+  }
+]

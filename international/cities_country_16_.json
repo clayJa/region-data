@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_16__city_1",
+    "text": "塞拉莱",
+    "zone": 4,
+    "lng": 54.1,
+    "iana": "Asia/Muscat"
+  },
+  {
+    "id": "country_16__city_2",
+    "text": "尼兹瓦",
+    "zone": 4,
+    "lng": 57.53,
+    "iana": "Asia/Muscat"
+  },
+  {
+    "id": "country_16__city_3",
+    "text": "马斯喀特",
+    "zone": 4,
+    "lng": 58.55,
+    "iana": "Asia/Muscat"
+  },
+  {
+    "id": "country_16__city_4",
+    "text": "锡卜",
+    "zone": 4,
+    "lng": 58.19,
+    "iana": "Asia/Muscat"
+  }
+]

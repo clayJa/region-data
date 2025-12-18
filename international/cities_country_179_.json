@@ -1,0 +1,16 @@
+[
+  {
+    "id": "country_179__city_1",
+    "text": "西班牙镇",
+    "zone": -4,
+    "lng": -64.43,
+    "iana": "America/Jamaica"
+  },
+  {
+    "id": "country_179__city_2",
+    "text": "罗德城",
+    "zone": -4,
+    "lng": -64.62,
+    "iana": "America/Tortola"
+  }
+]

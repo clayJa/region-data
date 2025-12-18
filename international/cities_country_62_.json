@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_62__city_1",
+    "text": "普拉亚",
+    "zone": -1,
+    "lng": -23.52,
+    "iana": "Atlantic/Cape_Verde"
+  },
+  {
+    "id": "country_62__city_2",
+    "text": "圣玛丽亚",
+    "zone": -1,
+    "lng": -22.9,
+    "iana": "Atlantic/Cape_Verde"
+  },
+  {
+    "id": "country_62__city_3",
+    "text": "明德卢",
+    "zone": -1,
+    "lng": -24.98,
+    "iana": "Atlantic/Cape_Verde"
+  }
+]

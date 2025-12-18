@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_63__city_1",
+    "text": "苏呼米",
+    "zone": 4,
+    "lng": 41.02,
+    "iana": "Asia/Tbilisi"
+  },
+  {
+    "id": "country_63__city_2",
+    "text": "茨欣瓦利",
+    "zone": 4,
+    "lng": 43.97,
+    "iana": "Asia/Tbilisi"
+  },
+  {
+    "id": "country_63__city_3",
+    "text": "巴塔米",
+    "zone": 4,
+    "lng": 41.63,
+    "iana": "Asia/Tbilisi"
+  },
+  {
+    "id": "country_63__city_4",
+    "text": "库塔伊西",
+    "zone": 4,
+    "lng": 42.7,
+    "iana": "Asia/Tbilisi"
+  },
+  {
+    "id": "country_63__city_5",
+    "text": "第比利斯",
+    "zone": 4,
+    "lng": 44.8,
+    "iana": "Asia/Tbilisi"
+  }
+]

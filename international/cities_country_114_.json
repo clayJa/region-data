@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_114__city_1",
+    "text": "基希讷乌",
+    "zone": 2,
+    "lng": 28.85,
+    "iana": "Europe/Chisinau"
+  },
+  {
+    "id": "country_114__city_2",
+    "text": "蒂拉斯波尔",
+    "zone": 2,
+    "lng": 29.63,
+    "iana": "Europe/Chisinau"
+  },
+  {
+    "id": "country_114__city_3",
+    "text": "卡胡尔",
+    "zone": 2,
+    "lng": 28.2,
+    "iana": "Europe/Chisinau"
+  },
+  {
+    "id": "country_114__city_4",
+    "text": "伯尔兹",
+    "zone": 2,
+    "lng": 27.92,
+    "iana": "Europe/Chisinau"
+  }
+]

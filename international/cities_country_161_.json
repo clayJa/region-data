@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_161__city_1",
+    "text": "危地马拉城",
+    "zone": -6,
+    "lng": -90.53,
+    "iana": "America/Guatemala"
+  },
+  {
+    "id": "country_161__city_2",
+    "text": "埃斯昆特拉",
+    "zone": -6,
+    "lng": -90.78,
+    "iana": "America/Guatemala"
+  },
+  {
+    "id": "country_161__city_3",
+    "text": "克萨尔特南戈",
+    "zone": -6,
+    "lng": -91.62,
+    "iana": "America/Guatemala"
+  }
+]

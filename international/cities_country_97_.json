@@ -1,0 +1,65 @@
+[
+  {
+    "id": "country_97__city_1",
+    "text": "科霍戈",
+    "zone": 0,
+    "lng": 5.63,
+    "iana": "Africa/Abidjan"
+  },
+  {
+    "id": "country_97__city_2",
+    "text": "达巴卡拉",
+    "zone": 0,
+    "lng": 4.43,
+    "iana": "Africa/Abidjan"
+  },
+  {
+    "id": "country_97__city_3",
+    "text": "布瓦凯",
+    "zone": 0,
+    "lng": 5.03,
+    "iana": "Africa/Abidjan"
+  },
+  {
+    "id": "country_97__city_4",
+    "text": "亚穆苏克罗",
+    "zone": 0,
+    "lng": 5.28,
+    "iana": "Africa/Abidjan"
+  },
+  {
+    "id": "country_97__city_5",
+    "text": "圣偑德罗",
+    "zone": 0,
+    "lng": 6.65,
+    "iana": "Africa/Abidjan"
+  },
+  {
+    "id": "country_97__city_6",
+    "text": "芒区",
+    "zone": 0,
+    "lng": 7.55,
+    "iana": "Africa/Abidjan"
+  },
+  {
+    "id": "country_97__city_7",
+    "text": "达洛亚",
+    "zone": 0,
+    "lng": 6.45,
+    "iana": "Africa/Abidjan"
+  },
+  {
+    "id": "country_97__city_8",
+    "text": "迪沃",
+    "zone": 0,
+    "lng": 5.37,
+    "iana": "Africa/Abidjan"
+  },
+  {
+    "id": "country_97__city_9",
+    "text": "阿比让",
+    "zone": 0,
+    "lng": 4.02,
+    "iana": "Africa/Abidjan"
+  }
+]

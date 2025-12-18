@@ -1,0 +1,917 @@
+[
+  {
+    "id": "country_1_",
+    "text": "新加坡",
+    "zone": 8
+  },
+  {
+    "id": "country_2_",
+    "text": "马来西亚",
+    "zone": 8
+  },
+  {
+    "id": "country_3_",
+    "text": "泰国",
+    "zone": 7
+  },
+  {
+    "id": "country_4_",
+    "text": "韩国",
+    "zone": 9
+  },
+  {
+    "id": "country_5_",
+    "text": "日本",
+    "zone": 9
+  },
+  {
+    "id": "country_6_",
+    "text": "美国",
+    "zone": -5
+  },
+  {
+    "id": "country_7_",
+    "text": "加拿大",
+    "zone": -3.5
+  },
+  {
+    "id": "country_8_",
+    "text": "英国",
+    "zone": 0
+  },
+  {
+    "id": "country_9_",
+    "text": "法国",
+    "zone": 1
+  },
+  {
+    "id": "country_10_",
+    "text": "德国",
+    "zone": 1
+  },
+  {
+    "id": "country_11_",
+    "text": "意大利",
+    "zone": 1
+  },
+  {
+    "id": "country_12_",
+    "text": "瑞士",
+    "zone": 1
+  },
+  {
+    "id": "country_13_",
+    "text": "希腊",
+    "zone": 2
+  },
+  {
+    "id": "country_14_",
+    "text": "阿富汗",
+    "zone": 4.5
+  },
+  {
+    "id": "country_15_",
+    "text": "阿拉伯联合酋长国",
+    "zone": 4
+  },
+  {
+    "id": "country_16_",
+    "text": "阿曼",
+    "zone": 4
+  },
+  {
+    "id": "country_17_",
+    "text": "阿塞拜疆",
+    "zone": 4
+  },
+  {
+    "id": "country_18_",
+    "text": "阿尔巴尼亚",
+    "zone": 1
+  },
+  {
+    "id": "country_19_",
+    "text": "爱尔兰",
+    "zone": 0
+  },
+  {
+    "id": "country_20_",
+    "text": "爱沙尼亚",
+    "zone": 2
+  },
+  {
+    "id": "country_21_",
+    "text": "安道尔",
+    "zone": 1
+  },
+  {
+    "id": "country_22_",
+    "text": "奥地利",
+    "zone": 1
+  },
+  {
+    "id": "country_23_",
+    "text": "安圭拉",
+    "zone": -4
+  },
+  {
+    "id": "country_24_",
+    "text": "安提瓜岛和巴布达",
+    "zone": -4
+  },
+  {
+    "id": "country_25_",
+    "text": "阿鲁巴",
+    "zone": -4
+  },
+  {
+    "id": "country_26_",
+    "text": "阿尔及利亚",
+    "zone": 1
+  },
+  {
+    "id": "country_27_",
+    "text": "埃及",
+    "zone": 2
+  },
+  {
+    "id": "country_28_",
+    "text": "埃塞俄比亚",
+    "zone": 3
+  },
+  {
+    "id": "country_29_",
+    "text": "巴基斯坦",
+    "zone": 5
+  },
+  {
+    "id": "country_30_",
+    "text": "巴勒斯坦",
+    "zone": 2
+  },
+  {
+    "id": "country_31_",
+    "text": "巴林",
+    "zone": 3
+  },
+  {
+    "id": "country_32_",
+    "text": "不丹",
+    "zone": 6
+  },
+  {
+    "id": "country_33_",
+    "text": "白俄罗斯",
+    "zone": 3
+  },
+  {
+    "id": "country_34_",
+    "text": "保加利亚",
+    "zone": 2
+  },
+  {
+    "id": "country_35_",
+    "text": "比利时",
+    "zone": 1
+  },
+  {
+    "id": "country_36_",
+    "text": "冰岛",
+    "zone": 0
+  },
+  {
+    "id": "country_37_",
+    "text": "波兰",
+    "zone": 1
+  },
+  {
+    "id": "country_38_",
+    "text": "波斯尼亚和黑塞哥维那",
+    "zone": 1
+  },
+  {
+    "id": "country_39_",
+    "text": "巴巴多斯",
+    "zone": -4
+  },
+  {
+    "id": "country_40_",
+    "text": "巴哈马群岛",
+    "zone": -5
+  },
+  {
+    "id": "country_41_",
+    "text": "巴拿马",
+    "zone": -5
+  },
+  {
+    "id": "country_42_",
+    "text": "百慕大群岛",
+    "zone": -4
+  },
+  {
+    "id": "country_43_",
+    "text": "北马里亚那群岛",
+    "zone": 10
+  },
+  {
+    "id": "country_44_",
+    "text": "波多黎各",
+    "zone": -4
+  },
+  {
+    "id": "country_45_",
+    "text": "伯利兹",
+    "zone": -6
+  },
+  {
+    "id": "country_46_",
+    "text": "贝宁",
+    "zone": 1
+  },
+  {
+    "id": "country_47_",
+    "text": "布基纳法索",
+    "zone": 0
+  },
+  {
+    "id": "country_48_",
+    "text": "朝鲜",
+    "zone": 9
+  },
+  {
+    "id": "country_49_",
+    "text": "赤道几内亚",
+    "zone": 1
+  },
+  {
+    "id": "country_50_",
+    "text": "丹麦",
+    "zone": 1
+  },
+  {
+    "id": "country_51_",
+    "text": "多米尼加共和国",
+    "zone": -4
+  },
+  {
+    "id": "country_52_",
+    "text": "多哥",
+    "zone": 0
+  },
+  {
+    "id": "country_53_",
+    "text": "俄罗斯",
+    "zone": 2
+  },
+  {
+    "id": "country_54_",
+    "text": "厄瓜多尔",
+    "zone": -5
+  },
+  {
+    "id": "country_55_",
+    "text": "厄立特里亚",
+    "zone": 3
+  },
+  {
+    "id": "country_56_",
+    "text": "菲律宾",
+    "zone": 8
+  },
+  {
+    "id": "country_57_",
+    "text": "法罗群岛",
+    "zone": 0
+  },
+  {
+    "id": "country_58_",
+    "text": "芬兰",
+    "zone": 2
+  },
+  {
+    "id": "country_59_",
+    "text": "梵蒂冈",
+    "zone": 1
+  },
+  {
+    "id": "country_60_",
+    "text": "法属圭亚那",
+    "zone": -3
+  },
+  {
+    "id": "country_61_",
+    "text": "法属圣马丁",
+    "zone": -4
+  },
+  {
+    "id": "country_62_",
+    "text": "佛得角",
+    "zone": -1
+  },
+  {
+    "id": "country_63_",
+    "text": "格鲁吉亚",
+    "zone": 4
+  },
+  {
+    "id": "country_64_",
+    "text": "哥斯达黎加",
+    "zone": -6
+  },
+  {
+    "id": "country_65_",
+    "text": "格林纳达",
+    "zone": -4
+  },
+  {
+    "id": "country_66_",
+    "text": "古巴",
+    "zone": -5
+  },
+  {
+    "id": "country_67_",
+    "text": "瓜德罗普",
+    "zone": -4
+  },
+  {
+    "id": "country_68_",
+    "text": "关岛",
+    "zone": 10
+  },
+  {
+    "id": "country_69_",
+    "text": "哥伦比亚",
+    "zone": -5
+  },
+  {
+    "id": "country_70_",
+    "text": "圭亚那",
+    "zone": -4
+  },
+  {
+    "id": "country_71_",
+    "text": "冈比亚",
+    "zone": 0
+  },
+  {
+    "id": "country_72_",
+    "text": "刚果",
+    "zone": 1
+  },
+  {
+    "id": "country_73_",
+    "text": "刚果民主共和国",
+    "zone": 1
+  },
+  {
+    "id": "country_74_",
+    "text": "哈萨克斯坦",
+    "zone": 5
+  },
+  {
+    "id": "country_75_",
+    "text": "荷兰",
+    "zone": 1
+  },
+  {
+    "id": "country_76_",
+    "text": "黑山共和国",
+    "zone": 1
+  },
+  {
+    "id": "country_77_",
+    "text": "海地",
+    "zone": -5
+  },
+  {
+    "id": "country_78_",
+    "text": "荷兰加勒比区",
+    "zone": -4
+  },
+  {
+    "id": "country_79_",
+    "text": "洪都拉斯",
+    "zone": -6
+  },
+  {
+    "id": "country_80_",
+    "text": "荷属圣马丁",
+    "zone": -4
+  },
+  {
+    "id": "country_81_",
+    "text": "吉尔吉斯斯坦",
+    "zone": 6
+  },
+  {
+    "id": "country_82_",
+    "text": "柬埔寨",
+    "zone": 7
+  },
+  {
+    "id": "country_83_",
+    "text": "捷克共和国",
+    "zone": 1
+  },
+  {
+    "id": "country_84_",
+    "text": "吉布提",
+    "zone": 3
+  },
+  {
+    "id": "country_85_",
+    "text": "几内亚",
+    "zone": 0
+  },
+  {
+    "id": "country_86_",
+    "text": "几内亚比绍",
+    "zone": 0
+  },
+  {
+    "id": "country_87_",
+    "text": "加纳",
+    "zone": 0
+  },
+  {
+    "id": "country_88_",
+    "text": "加蓬",
+    "zone": 1
+  },
+  {
+    "id": "country_89_",
+    "text": "卡塔尔",
+    "zone": 3
+  },
+  {
+    "id": "country_90_",
+    "text": "科威特",
+    "zone": 3
+  },
+  {
+    "id": "country_91_",
+    "text": "克尔格伦群岛",
+    "zone": 5
+  },
+  {
+    "id": "country_92_",
+    "text": "科索沃",
+    "zone": 1
+  },
+  {
+    "id": "country_93_",
+    "text": "克罗地亚",
+    "zone": 1
+  },
+  {
+    "id": "country_94_",
+    "text": "开曼群岛",
+    "zone": -5
+  },
+  {
+    "id": "country_95_",
+    "text": "库拉索岛",
+    "zone": -4
+  },
+  {
+    "id": "country_96_",
+    "text": "喀麦隆",
+    "zone": 1
+  },
+  {
+    "id": "country_97_",
+    "text": "科特迪瓦",
+    "zone": 0
+  },
+  {
+    "id": "country_98_",
+    "text": "肯尼亚",
+    "zone": 3
+  },
+  {
+    "id": "country_99_",
+    "text": "老挝",
+    "zone": 7
+  },
+  {
+    "id": "country_100_",
+    "text": "黎巴嫩",
+    "zone": 2
+  },
+  {
+    "id": "country_101_",
+    "text": "拉脱维亚",
+    "zone": 2
+  },
+  {
+    "id": "country_102_",
+    "text": "立陶宛",
+    "zone": 2
+  },
+  {
+    "id": "country_103_",
+    "text": "列支敦士登",
+    "zone": 1
+  },
+  {
+    "id": "country_104_",
+    "text": "卢森堡",
+    "zone": 1
+  },
+  {
+    "id": "country_105_",
+    "text": "罗马尼亚",
+    "zone": 2
+  },
+  {
+    "id": "country_106_",
+    "text": "利比里亚",
+    "zone": 0
+  },
+  {
+    "id": "country_107_",
+    "text": "利比亚",
+    "zone": 2
+  },
+  {
+    "id": "country_108_",
+    "text": "留尼汪岛",
+    "zone": 4
+  },
+  {
+    "id": "country_109_",
+    "text": "蒙古",
+    "zone": 8
+  },
+  {
+    "id": "country_110_",
+    "text": "孟加拉国",
+    "zone": 6
+  },
+  {
+    "id": "country_111_",
+    "text": "缅甸",
+    "zone": 6.5
+  },
+  {
+    "id": "country_112_",
+    "text": "马耳他",
+    "zone": 1
+  },
+  {
+    "id": "country_113_",
+    "text": "马其顿共和国",
+    "zone": 1
+  },
+  {
+    "id": "country_114_",
+    "text": "摩尔多瓦",
+    "zone": 2
+  },
+  {
+    "id": "country_115_",
+    "text": "摩纳哥",
+    "zone": 1
+  },
+  {
+    "id": "country_116_",
+    "text": "马提尼克岛",
+    "zone": -4
+  },
+  {
+    "id": "country_117_",
+    "text": "美国本土外小岛屿",
+    "zone": 12
+  },
+  {
+    "id": "country_118_",
+    "text": "美属维尔京",
+    "zone": -4
+  },
+  {
+    "id": "country_119_",
+    "text": "蒙特塞拉特",
+    "zone": -4
+  },
+  {
+    "id": "country_120_",
+    "text": "墨西哥",
+    "zone": -5
+  },
+  {
+    "id": "country_121_",
+    "text": "马里",
+    "zone": 0
+  },
+  {
+    "id": "country_122_",
+    "text": "马约特岛",
+    "zone": 3
+  },
+  {
+    "id": "country_123_",
+    "text": "毛里塔尼亚",
+    "zone": 0
+  },
+  {
+    "id": "country_124_",
+    "text": "摩洛哥",
+    "zone": 1
+  },
+  {
+    "id": "country_125_",
+    "text": "尼泊尔",
+    "zone": 5.75
+  },
+  {
+    "id": "country_126_",
+    "text": "挪威",
+    "zone": 1
+  },
+  {
+    "id": "country_127_",
+    "text": "尼加拉瓜",
+    "zone": -6
+  },
+  {
+    "id": "country_128_",
+    "text": "南苏丹",
+    "zone": 2
+  },
+  {
+    "id": "country_129_",
+    "text": "尼日尔",
+    "zone": 1
+  },
+  {
+    "id": "country_130_",
+    "text": "尼日利亚",
+    "zone": 1
+  },
+  {
+    "id": "country_131_",
+    "text": "葡萄牙",
+    "zone": 0
+  },
+  {
+    "id": "country_132_",
+    "text": "瑞典",
+    "zone": 1
+  },
+  {
+    "id": "country_133_",
+    "text": "塞浦路斯",
+    "zone": 2
+  },
+  {
+    "id": "country_134_",
+    "text": "沙特阿拉伯",
+    "zone": 3
+  },
+  {
+    "id": "country_135_",
+    "text": "圣诞岛",
+    "zone": 7
+  },
+  {
+    "id": "country_136_",
+    "text": "斯里兰卡",
+    "zone": 5.5
+  },
+  {
+    "id": "country_137_",
+    "text": "塞尔维亚",
+    "zone": 1
+  },
+  {
+    "id": "country_138_",
+    "text": "圣马力诺",
+    "zone": 1
+  },
+  {
+    "id": "country_139_",
+    "text": "斯洛伐克",
+    "zone": 1
+  },
+  {
+    "id": "country_140_",
+    "text": "斯洛文尼亚",
+    "zone": 2
+  },
+  {
+    "id": "country_141_",
+    "text": "萨尔瓦多",
+    "zone": -6
+  },
+  {
+    "id": "country_142_",
+    "text": "圣基茨和尼维斯",
+    "zone": -4
+  },
+  {
+    "id": "country_143_",
+    "text": "圣卢西亚岛",
+    "zone": -4
+  },
+  {
+    "id": "country_144_",
+    "text": "圣巴泰勒米岛",
+    "zone": -4
+  },
+  {
+    "id": "country_145_",
+    "text": "苏里南",
+    "zone": -3
+  },
+  {
+    "id": "country_146_",
+    "text": "塞拉利昂",
+    "zone": 0
+  },
+  {
+    "id": "country_147_",
+    "text": "塞内加尔",
+    "zone": 0
+  },
+  {
+    "id": "country_148_",
+    "text": "圣多美和普林西比",
+    "zone": 0
+  },
+  {
+    "id": "country_149_",
+    "text": "圣赫勒拿",
+    "zone": 0
+  },
+  {
+    "id": "country_150_",
+    "text": "苏丹",
+    "zone": 2
+  },
+  {
+    "id": "country_151_",
+    "text": "索马里",
+    "zone": 3
+  },
+  {
+    "id": "country_152_",
+    "text": "塔吉克斯坦",
+    "zone": 5
+  },
+  {
+    "id": "country_153_",
+    "text": "土耳其",
+    "zone": 3
+  },
+  {
+    "id": "country_154_",
+    "text": "土库曼斯坦",
+    "zone": 5
+  },
+  {
+    "id": "country_155_",
+    "text": "特克斯和凯科斯群岛",
+    "zone": -5
+  },
+  {
+    "id": "country_156_",
+    "text": "特立尼达和多巴哥",
+    "zone": -4
+  },
+  {
+    "id": "country_157_",
+    "text": "突尼斯",
+    "zone": 1
+  },
+  {
+    "id": "country_158_",
+    "text": "文莱",
+    "zone": 8
+  },
+  {
+    "id": "country_159_",
+    "text": "乌兹别克斯坦",
+    "zone": 5
+  },
+  {
+    "id": "country_160_",
+    "text": "乌克兰",
+    "zone": 2
+  },
+  {
+    "id": "country_161_",
+    "text": "危地马拉",
+    "zone": -6
+  },
+  {
+    "id": "country_162_",
+    "text": "委内瑞拉",
+    "zone": -4
+  },
+  {
+    "id": "country_163_",
+    "text": "乌干达",
+    "zone": 3
+  },
+  {
+    "id": "country_164_",
+    "text": "叙利亚",
+    "zone": 3
+  },
+  {
+    "id": "country_165_",
+    "text": "西班牙",
+    "zone": 0
+  },
+  {
+    "id": "country_166_",
+    "text": "匈牙利",
+    "zone": 1
+  },
+  {
+    "id": "country_167_",
+    "text": "西撒哈拉",
+    "zone": 0
+  },
+  {
+    "id": "country_168_",
+    "text": "亚美尼亚",
+    "zone": 4
+  },
+  {
+    "id": "country_169_",
+    "text": "也门",
+    "zone": 3
+  },
+  {
+    "id": "country_170_",
+    "text": "伊拉克",
+    "zone": 3
+  },
+  {
+    "id": "country_171_",
+    "text": "伊朗",
+    "zone": 3.5
+  },
+  {
+    "id": "country_172_",
+    "text": "以色列",
+    "zone": 2
+  },
+  {
+    "id": "country_173_",
+    "text": "印度",
+    "zone": 5.5
+  },
+  {
+    "id": "country_174_",
+    "text": "约旦",
+    "zone": 2
+  },
+  {
+    "id": "country_175_",
+    "text": "越南",
+    "zone": 7
+  },
+  {
+    "id": "country_176_",
+    "text": "英属根西岛",
+    "zone": 0
+  },
+  {
+    "id": "country_177_",
+    "text": "英属马恩岛",
+    "zone": 0
+  },
+  {
+    "id": "country_178_",
+    "text": "牙买加",
+    "zone": -5
+  },
+  {
+    "id": "country_179_",
+    "text": "英属维尔京群岛",
+    "zone": -4
+  },
+  {
+    "id": "country_180_",
+    "text": "泽西岛",
+    "zone": 0
+  },
+  {
+    "id": "country_181_",
+    "text": "直布罗陀",
+    "zone": 1
+  },
+  {
+    "id": "country_182_",
+    "text": "乍得",
+    "zone": 1
+  },
+  {
+    "id": "country_183_",
+    "text": "中非共和国",
+    "zone": 1
+  }
+]

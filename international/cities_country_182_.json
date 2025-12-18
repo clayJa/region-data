@@ -1,0 +1,58 @@
+[
+  {
+    "id": "country_182__city_1",
+    "text": "穆索罗",
+    "zone": 1,
+    "lng": 16.48,
+    "iana": "Atlantic/Madeira"
+  },
+  {
+    "id": "country_182__city_2",
+    "text": "萨尔",
+    "zone": 1,
+    "lng": 18.38,
+    "iana": "Atlantic/Madeira"
+  },
+  {
+    "id": "country_182__city_3",
+    "text": "阿贝歇",
+    "zone": 1,
+    "lng": 20.83,
+    "iana": "Africa/Ndjamena"
+  },
+  {
+    "id": "country_182__city_4",
+    "text": "蒙杜",
+    "zone": 1,
+    "lng": 16.07,
+    "iana": "Africa/Ndjamena"
+  },
+  {
+    "id": "country_182__city_5",
+    "text": "蒙戈",
+    "zone": 1,
+    "lng": 18.68,
+    "iana": "Africa/Ndjamena"
+  },
+  {
+    "id": "country_182__city_6",
+    "text": "法达",
+    "zone": 1,
+    "lng": 21.58,
+    "iana": "Africa/Ndjamena"
+  },
+  {
+    "id": "country_182__city_7",
+    "text": "恩贾梅纳",
+    "zone": 1,
+    "lng": 15.05,
+    "iana": "Africa/Ndjamena"
+  },
+  {
+    "id": "country_182__city_8",
+    "text": "法亚-拉若",
+    "zone": 1,
+    "lng": 19.1,
+    "iana": "Africa/Ndjamena"
+  }
+]

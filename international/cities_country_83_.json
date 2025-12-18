@@ -1,0 +1,58 @@
+[
+  {
+    "id": "country_83__city_1",
+    "text": "奥洛穆茨",
+    "zone": 1,
+    "lng": 17.25,
+    "iana": "Europe/Prague"
+  },
+  {
+    "id": "country_83__city_2",
+    "text": "拉贝河畔乌斯季",
+    "zone": 1,
+    "lng": 14.03,
+    "iana": "Europe/Prague"
+  },
+  {
+    "id": "country_83__city_3",
+    "text": "俄斯特拉发",
+    "zone": 1,
+    "lng": 18.28,
+    "iana": "Europe/Prague"
+  },
+  {
+    "id": "country_83__city_4",
+    "text": "赫拉德茨-克拉洛韦",
+    "zone": 1,
+    "lng": 15.83,
+    "iana": "Europe/Prague"
+  },
+  {
+    "id": "country_83__city_5",
+    "text": "利贝雷茨",
+    "zone": 1,
+    "lng": 15.07,
+    "iana": "Europe/Prague"
+  },
+  {
+    "id": "country_83__city_6",
+    "text": "布拉格",
+    "zone": 1,
+    "lng": 14.42,
+    "iana": "Europe/Prague"
+  },
+  {
+    "id": "country_83__city_7",
+    "text": "布尔诺",
+    "zone": 1,
+    "lng": 16.62,
+    "iana": "Europe/Prague"
+  },
+  {
+    "id": "country_83__city_8",
+    "text": "比尔森",
+    "zone": 1,
+    "lng": 13.38,
+    "iana": "Europe/Prague"
+  }
+]

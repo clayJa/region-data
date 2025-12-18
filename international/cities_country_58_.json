@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_58__city_1",
+    "text": "艾斯堡",
+    "zone": 2,
+    "lng": 24.65,
+    "iana": "Atlantic/Faroe"
+  },
+  {
+    "id": "country_58__city_2",
+    "text": "赫尔辛基",
+    "zone": 2,
+    "lng": 24.95,
+    "iana": "Europe/Helsinki"
+  },
+  {
+    "id": "country_58__city_3",
+    "text": "约恩苏",
+    "zone": 2,
+    "lng": 29.77,
+    "iana": "Europe/Helsinki"
+  },
+  {
+    "id": "country_58__city_4",
+    "text": "罗瓦涅米",
+    "zone": 2,
+    "lng": 25.73,
+    "iana": "Europe/Helsinki"
+  },
+  {
+    "id": "country_58__city_5",
+    "text": "凯米",
+    "zone": 2,
+    "lng": 24.57,
+    "iana": "Europe/Helsinki"
+  }
+]

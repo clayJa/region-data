@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_102__city_1",
+    "text": "希奥利艾",
+    "zone": 2,
+    "lng": 23.32,
+    "iana": "Europe/Vilnius"
+  },
+  {
+    "id": "country_102__city_2",
+    "text": "考纳斯",
+    "zone": 2,
+    "lng": 23.92,
+    "iana": "Europe/Vilnius"
+  },
+  {
+    "id": "country_102__city_3",
+    "text": "克莱佩达",
+    "zone": 2,
+    "lng": 21.13,
+    "iana": "Europe/Vilnius"
+  },
+  {
+    "id": "country_102__city_4",
+    "text": "维尔纽斯",
+    "zone": 2,
+    "lng": 25.28,
+    "iana": "Europe/Vilnius"
+  }
+]

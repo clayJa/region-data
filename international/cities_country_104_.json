@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_104__city_1",
+    "text": "埃特布鲁克",
+    "zone": 1,
+    "lng": 6.1,
+    "iana": "Europe/Luxembourg"
+  },
+  {
+    "id": "country_104__city_2",
+    "text": "阿尔泽特河畔埃施",
+    "zone": 1,
+    "lng": 5.98,
+    "iana": "Europe/Luxembourg"
+  },
+  {
+    "id": "country_104__city_3",
+    "text": "迪弗当日",
+    "zone": 1,
+    "lng": 5.88,
+    "iana": "Europe/Luxembourg"
+  },
+  {
+    "id": "country_104__city_4",
+    "text": "卢森堡市",
+    "zone": 1,
+    "lng": 6.13,
+    "iana": "Europe/Luxembourg"
+  }
+]

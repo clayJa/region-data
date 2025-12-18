@@ -1,0 +1,58 @@
+[
+  {
+    "id": "country_124__city_1",
+    "text": "拉巴特",
+    "zone": 1,
+    "lng": 6.83,
+    "iana": "Africa/Casablanca"
+  },
+  {
+    "id": "country_124__city_2",
+    "text": "非斯",
+    "zone": 1,
+    "lng": 5,
+    "iana": "Africa/Casablanca"
+  },
+  {
+    "id": "country_124__city_3",
+    "text": "丹吉尔",
+    "zone": 1,
+    "lng": 5.83,
+    "iana": "Africa/Casablanca"
+  },
+  {
+    "id": "country_124__city_4",
+    "text": "阿加迪尔",
+    "zone": 1,
+    "lng": 9.58,
+    "iana": "Africa/Casablanca"
+  },
+  {
+    "id": "country_124__city_5",
+    "text": "杰迪代/马扎甘",
+    "zone": 1,
+    "lng": 8.5,
+    "iana": "Africa/Casablanca"
+  },
+  {
+    "id": "country_124__city_6",
+    "text": "马拉喀什",
+    "zone": 1,
+    "lng": 7.98,
+    "iana": "Africa/Casablanca"
+  },
+  {
+    "id": "country_124__city_7",
+    "text": "瓦尔扎扎特",
+    "zone": 1,
+    "lng": 6.92,
+    "iana": "Africa/Casablanca"
+  },
+  {
+    "id": "country_124__city_8",
+    "text": "卡萨布兰卡",
+    "zone": 1,
+    "lng": 7.62,
+    "iana": "Africa/Casablanca"
+  }
+]

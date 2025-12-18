@@ -1,0 +1,51 @@
+[
+  {
+    "id": "country_151__city_1",
+    "text": "柏培拉",
+    "zone": 3,
+    "lng": 45.02,
+    "iana": "Africa/Mogadishu"
+  },
+  {
+    "id": "country_151__city_2",
+    "text": "加尔卡尤",
+    "zone": 3,
+    "lng": 47.43,
+    "iana": "Africa/Mogadishu"
+  },
+  {
+    "id": "country_151__city_3",
+    "text": "基斯马尤",
+    "zone": 3,
+    "lng": 45.55,
+    "iana": "Africa/Mogadishu"
+  },
+  {
+    "id": "country_151__city_4",
+    "text": "哈尔格萨",
+    "zone": 3,
+    "lng": 44.07,
+    "iana": "Africa/Mogadishu"
+  },
+  {
+    "id": "country_151__city_5",
+    "text": "巴尔代雷",
+    "zone": 3,
+    "lng": 42.28,
+    "iana": "Africa/Mogadishu"
+  },
+  {
+    "id": "country_151__city_6",
+    "text": "摩加迪沙",
+    "zone": 3,
+    "lng": 45.33,
+    "iana": "Africa/Mogadishu"
+  },
+  {
+    "id": "country_151__city_7",
+    "text": "博萨索",
+    "zone": 3,
+    "lng": 49.18,
+    "iana": "Africa/Mogadishu"
+  }
+]

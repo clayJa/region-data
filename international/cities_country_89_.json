@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_89__city_1",
+    "text": "多哈",
+    "zone": 3,
+    "lng": 51.53,
+    "iana": "Asia/Qatar"
+  },
+  {
+    "id": "country_89__city_2",
+    "text": "朱迈利耶",
+    "zone": 3,
+    "lng": 51.08,
+    "iana": "Asia/Qatar"
+  },
+  {
+    "id": "country_89__city_3",
+    "text": "豪尔",
+    "zone": 3,
+    "lng": 51.5,
+    "iana": "Asia/Qatar"
+  }
+]

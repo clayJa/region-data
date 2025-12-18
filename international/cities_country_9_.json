@@ -1,0 +1,93 @@
+[
+  {
+    "id": "country_9__city_1",
+    "text": "普瓦捷",
+    "zone": 1,
+    "lng": 0.33,
+    "iana": "Europe/Paris"
+  },
+  {
+    "id": "country_9__city_2",
+    "text": "尼斯",
+    "zone": 1,
+    "lng": 7.27,
+    "iana": "Europe/Paris"
+  },
+  {
+    "id": "country_9__city_3",
+    "text": "斯特拉斯堡",
+    "zone": 1,
+    "lng": 7.75,
+    "iana": "Europe/Paris"
+  },
+  {
+    "id": "country_9__city_4",
+    "text": "里昂",
+    "zone": 1,
+    "lng": 4.83,
+    "iana": "Europe/Paris"
+  },
+  {
+    "id": "country_9__city_5",
+    "text": "香槟沙隆",
+    "zone": 1,
+    "lng": 4.37,
+    "iana": "Europe/Paris"
+  },
+  {
+    "id": "country_9__city_6",
+    "text": "南特",
+    "zone": 1,
+    "lng": 1.57,
+    "iana": "Europe/Paris"
+  },
+  {
+    "id": "country_9__city_7",
+    "text": "戛纳",
+    "zone": 1,
+    "lng": 7.02,
+    "iana": "Europe/Paris"
+  },
+  {
+    "id": "country_9__city_8",
+    "text": "巴黎",
+    "zone": 1,
+    "lng": 2.35,
+    "iana": "Europe/Paris"
+  },
+  {
+    "id": "country_9__city_9",
+    "text": "坎佩尔",
+    "zone": 1,
+    "lng": 4.1,
+    "iana": "Europe/Paris"
+  },
+  {
+    "id": "country_9__city_10",
+    "text": "马赛",
+    "zone": 1,
+    "lng": 5.37,
+    "iana": "Europe/Paris"
+  },
+  {
+    "id": "country_9__city_11",
+    "text": "巴斯蒂亚",
+    "zone": 1,
+    "lng": 9.45,
+    "iana": "Europe/Paris"
+  },
+  {
+    "id": "country_9__city_12",
+    "text": "波尔多",
+    "zone": 1,
+    "lng": 0.58,
+    "iana": "Europe/Paris"
+  },
+  {
+    "id": "country_9__city_13",
+    "text": "图卢兹",
+    "zone": 1,
+    "lng": 1.45,
+    "iana": "Europe/Paris"
+  }
+]

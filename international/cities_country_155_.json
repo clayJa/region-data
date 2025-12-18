@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_155__city_1",
+    "text": "科伯恩城",
+    "zone": -5,
+    "lng": -71.13,
+    "iana": "America/St_Helena"
+  },
+  {
+    "id": "country_155__city_2",
+    "text": "普洛维顿西尔斯",
+    "zone": -5,
+    "lng": -72.25,
+    "iana": "America/Port_of_Spain"
+  },
+  {
+    "id": "country_155__city_3",
+    "text": "科伯恩港",
+    "zone": -5,
+    "lng": -71.53,
+    "iana": "America/Port_of_Spain"
+  }
+]

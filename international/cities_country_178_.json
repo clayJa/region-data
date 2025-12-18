@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_178__city_1",
+    "text": "梅彭",
+    "zone": -5,
+    "lng": -77.25,
+    "iana": "Europe/London"
+  },
+  {
+    "id": "country_178__city_2",
+    "text": "金斯顿",
+    "zone": -5,
+    "lng": -76.48,
+    "iana": "America/Jamaica"
+  },
+  {
+    "id": "country_178__city_3",
+    "text": "蒙特哥贝",
+    "zone": -5,
+    "lng": -77.92,
+    "iana": "America/Jamaica"
+  }
+]

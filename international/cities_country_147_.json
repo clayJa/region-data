@@ -1,0 +1,44 @@
+[
+  {
+    "id": "country_147__city_1",
+    "text": "济金绍尔",
+    "zone": 0,
+    "lng": 16.27,
+    "iana": "Africa/Dakar"
+  },
+  {
+    "id": "country_147__city_2",
+    "text": "达喀尔",
+    "zone": 0,
+    "lng": 17.43,
+    "iana": "Africa/Dakar"
+  },
+  {
+    "id": "country_147__city_3",
+    "text": "圣路易",
+    "zone": 0,
+    "lng": 16.5,
+    "iana": "Africa/Dakar"
+  },
+  {
+    "id": "country_147__city_4",
+    "text": "捷斯",
+    "zone": 0,
+    "lng": 16.93,
+    "iana": "Africa/Dakar"
+  },
+  {
+    "id": "country_147__city_5",
+    "text": "图巴",
+    "zone": 0,
+    "lng": 15.88,
+    "iana": "Africa/Dakar"
+  },
+  {
+    "id": "country_147__city_6",
+    "text": "坦巴昆达",
+    "zone": 0,
+    "lng": 13.67,
+    "iana": "Africa/Dakar"
+  }
+]

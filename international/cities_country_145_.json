@@ -1,0 +1,16 @@
+[
+  {
+    "id": "country_145__city_1",
+    "text": "帕拉马里博",
+    "zone": -3,
+    "lng": -55.17,
+    "iana": "America/Paramaribo"
+  },
+  {
+    "id": "country_145__city_2",
+    "text": "新尼克里",
+    "zone": -3,
+    "lng": -56.98,
+    "iana": "America/Paramaribo"
+  }
+]

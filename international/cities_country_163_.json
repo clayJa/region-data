@@ -1,0 +1,44 @@
+[
+  {
+    "id": "country_163__city_1",
+    "text": "利拉",
+    "zone": 3,
+    "lng": 32.9,
+    "iana": "Africa/Kampala"
+  },
+  {
+    "id": "country_163__city_2",
+    "text": "恩德培",
+    "zone": 3,
+    "lng": 32.47,
+    "iana": "Africa/Kampala"
+  },
+  {
+    "id": "country_163__city_3",
+    "text": "姆巴拉拉",
+    "zone": 3,
+    "lng": 30.67,
+    "iana": "Africa/Kampala"
+  },
+  {
+    "id": "country_163__city_4",
+    "text": "姆巴莱",
+    "zone": 3,
+    "lng": 34.18,
+    "iana": "Africa/Kampala"
+  },
+  {
+    "id": "country_163__city_5",
+    "text": "坎帕拉",
+    "zone": 3,
+    "lng": 32.58,
+    "iana": "Africa/Kampala"
+  },
+  {
+    "id": "country_163__city_6",
+    "text": "古卢",
+    "zone": 3,
+    "lng": 32.3,
+    "iana": "Africa/Kampala"
+  }
+]

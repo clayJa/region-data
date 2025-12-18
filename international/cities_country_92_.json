@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_92__city_1",
+    "text": "普里什蒂纳",
+    "zone": 1,
+    "lng": 21.17,
+    "iana": "Europe/Belgrade"
+  },
+  {
+    "id": "country_92__city_2",
+    "text": "乌罗舍瓦茨",
+    "zone": 1,
+    "lng": 21.15,
+    "iana": "Europe/Belgrade"
+  },
+  {
+    "id": "country_92__city_3",
+    "text": "普里兹伦",
+    "zone": 1,
+    "lng": 20.73,
+    "iana": "Europe/Belgrade"
+  }
+]

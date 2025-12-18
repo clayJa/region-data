@@ -1,0 +1,16 @@
+[
+  {
+    "id": "country_24__city_1",
+    "text": "科德林顿",
+    "zone": -4,
+    "lng": -61.82,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_24__city_2",
+    "text": "圣约翰",
+    "zone": -4,
+    "lng": -61.85,
+    "iana": "America/Toronto"
+  }
+]

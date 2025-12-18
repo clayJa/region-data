@@ -1,0 +1,170 @@
+[
+  {
+    "id": "country_165__city_1",
+    "text": "洛斯利亚诺斯德亚里达",
+    "zone": 0,
+    "lng": 17.92,
+    "iana": "America/Port_of_Spain"
+  },
+  {
+    "id": "country_165__city_2",
+    "text": "拉斯帕尔马斯",
+    "zone": 0,
+    "lng": 15.45,
+    "iana": "Atlantic/Canary"
+  },
+  {
+    "id": "country_165__city_3",
+    "text": "圣克鲁斯-德特内里费",
+    "zone": 0,
+    "lng": 16.25,
+    "iana": "Atlantic/Canary"
+  },
+  {
+    "id": "country_165__city_4",
+    "text": "戈梅拉岛",
+    "zone": 0,
+    "lng": 17.12,
+    "iana": "Atlantic/Canary"
+  },
+  {
+    "id": "country_165__city_5",
+    "text": "潘普洛纳",
+    "zone": 1,
+    "lng": 1.65,
+    "iana": "Europe/Madrid"
+  },
+  {
+    "id": "country_165__city_6",
+    "text": "阿尔梅里亚",
+    "zone": 1,
+    "lng": 2.47,
+    "iana": "Europe/Madrid"
+  },
+  {
+    "id": "country_165__city_7",
+    "text": "巴伦西亚",
+    "zone": 1,
+    "lng": 0.38,
+    "iana": "Europe/Madrid"
+  },
+  {
+    "id": "country_165__city_8",
+    "text": "休达",
+    "zone": 1,
+    "lng": 5.32,
+    "iana": "Africa/Ceuta"
+  },
+  {
+    "id": "country_165__city_9",
+    "text": "马德里",
+    "zone": 1,
+    "lng": 3.7,
+    "iana": "Europe/Madrid"
+  },
+  {
+    "id": "country_165__city_10",
+    "text": "梅利利亚",
+    "zone": 1,
+    "lng": 2.93,
+    "iana": "Africa/Ceuta"
+  },
+  {
+    "id": "country_165__city_11",
+    "text": "伊维萨岛",
+    "zone": 1,
+    "lng": 1.43,
+    "iana": "Europe/Madrid"
+  },
+  {
+    "id": "country_165__city_12",
+    "text": "阿维拉",
+    "zone": 1,
+    "lng": 4.68,
+    "iana": "Europe/Madrid"
+  },
+  {
+    "id": "country_165__city_13",
+    "text": "巴塞罗那",
+    "zone": 1,
+    "lng": 2.18,
+    "iana": "Europe/Madrid"
+  },
+  {
+    "id": "country_165__city_14",
+    "text": "科尔多瓦",
+    "zone": 1,
+    "lng": 4.78,
+    "iana": "Europe/Madrid"
+  },
+  {
+    "id": "country_165__city_15",
+    "text": "希洪",
+    "zone": 1,
+    "lng": 5.67,
+    "iana": "Europe/Madrid"
+  },
+  {
+    "id": "country_165__city_16",
+    "text": "格拉纳达",
+    "zone": 1,
+    "lng": 3.6,
+    "iana": "Europe/Madrid"
+  },
+  {
+    "id": "country_165__city_17",
+    "text": "加的斯",
+    "zone": 1,
+    "lng": 6.3,
+    "iana": "Europe/Madrid"
+  },
+  {
+    "id": "country_165__city_18",
+    "text": "韦尔瓦",
+    "zone": 1,
+    "lng": 6.95,
+    "iana": "Europe/Madrid"
+  },
+  {
+    "id": "country_165__city_19",
+    "text": "哈恩",
+    "zone": 1,
+    "lng": 3.78,
+    "iana": "Europe/Madrid"
+  },
+  {
+    "id": "country_165__city_20",
+    "text": "巴利亚多利德",
+    "zone": 1,
+    "lng": 4.72,
+    "iana": "Europe/Madrid"
+  },
+  {
+    "id": "country_165__city_21",
+    "text": "拉科鲁尼亚",
+    "zone": 1,
+    "lng": 8.4,
+    "iana": "Europe/Madrid"
+  },
+  {
+    "id": "country_165__city_22",
+    "text": "桑坦德",
+    "zone": 1,
+    "lng": 3.82,
+    "iana": "Europe/Madrid"
+  },
+  {
+    "id": "country_165__city_23",
+    "text": "阿利坎特",
+    "zone": 1,
+    "lng": 0.48,
+    "iana": "Europe/Madrid"
+  },
+  {
+    "id": "country_165__city_24",
+    "text": "贝尼多姆",
+    "zone": 1,
+    "lng": 0.13,
+    "iana": "Europe/Madrid"
+  }
+]

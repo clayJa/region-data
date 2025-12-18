@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_174__city_1",
+    "text": "马德巴",
+    "zone": 2,
+    "lng": 35.8,
+    "iana": "Asia/Amman"
+  },
+  {
+    "id": "country_174__city_2",
+    "text": "伊尔比德",
+    "zone": 2,
+    "lng": 35.85,
+    "iana": "Asia/Amman"
+  },
+  {
+    "id": "country_174__city_3",
+    "text": "安曼",
+    "zone": 2,
+    "lng": 35.92,
+    "iana": "Asia/Amman"
+  },
+  {
+    "id": "country_174__city_4",
+    "text": "扎尔卡",
+    "zone": 2,
+    "lng": 36.1,
+    "iana": "Asia/Amman"
+  },
+  {
+    "id": "country_174__city_5",
+    "text": "马安",
+    "zone": 2,
+    "lng": 35.73,
+    "iana": "Asia/Amman"
+  }
+]

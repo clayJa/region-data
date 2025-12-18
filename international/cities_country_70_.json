@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_70__city_1",
+    "text": "新阿姆斯特丹",
+    "zone": -4,
+    "lng": -57.52,
+    "iana": "America/Guyana"
+  },
+  {
+    "id": "country_70__city_2",
+    "text": "乔治敦",
+    "zone": -4,
+    "lng": -58.15,
+    "iana": "America/Guyana"
+  },
+  {
+    "id": "country_70__city_3",
+    "text": "林登",
+    "zone": -4,
+    "lng": -58.27,
+    "iana": "America/Guyana"
+  }
+]

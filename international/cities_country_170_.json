@@ -1,0 +1,79 @@
+[
+  {
+    "id": "country_170__city_1",
+    "text": "提克里特",
+    "zone": 3,
+    "lng": 43.68,
+    "iana": "Asia/Baghdad"
+  },
+  {
+    "id": "country_170__city_2",
+    "text": "苏莱曼尼亚",
+    "zone": 3,
+    "lng": 45.45,
+    "iana": "Asia/Baghdad"
+  },
+  {
+    "id": "country_170__city_3",
+    "text": "希拉",
+    "zone": 3,
+    "lng": 44.47,
+    "iana": "Asia/Baghdad"
+  },
+  {
+    "id": "country_170__city_4",
+    "text": "基尔库克",
+    "zone": 3,
+    "lng": 44.4,
+    "iana": "Asia/Baghdad"
+  },
+  {
+    "id": "country_170__city_5",
+    "text": "纳杰夫",
+    "zone": 3,
+    "lng": 44.33,
+    "iana": "Asia/Baghdad"
+  },
+  {
+    "id": "country_170__city_6",
+    "text": "卡尔巴拉",
+    "zone": 3,
+    "lng": 44.02,
+    "iana": "Asia/Baghdad"
+  },
+  {
+    "id": "country_170__city_7",
+    "text": "埃尔比勒",
+    "zone": 3,
+    "lng": 44.02,
+    "iana": "Asia/Baghdad"
+  },
+  {
+    "id": "country_170__city_8",
+    "text": "巴格达",
+    "zone": 3,
+    "lng": 44.42,
+    "iana": "Asia/Baghdad"
+  },
+  {
+    "id": "country_170__city_9",
+    "text": "巴士拉",
+    "zone": 3,
+    "lng": 47.82,
+    "iana": "Asia/Baghdad"
+  },
+  {
+    "id": "country_170__city_10",
+    "text": "摩苏尔",
+    "zone": 3,
+    "lng": 43.12,
+    "iana": "Asia/Baghdad"
+  },
+  {
+    "id": "country_170__city_11",
+    "text": "纳西里耶",
+    "zone": 3,
+    "lng": 46.25,
+    "iana": "Asia/Baghdad"
+  }
+]

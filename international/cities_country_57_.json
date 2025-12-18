@@ -1,0 +1,16 @@
+[
+  {
+    "id": "country_57__city_1",
+    "text": "托尔斯港",
+    "zone": 0,
+    "lng": 6.77,
+    "iana": "Atlantic/Faroe"
+  },
+  {
+    "id": "country_57__city_2",
+    "text": "克拉克斯维克",
+    "zone": 0,
+    "lng": 6.58,
+    "iana": "Atlantic/Faroe"
+  }
+]

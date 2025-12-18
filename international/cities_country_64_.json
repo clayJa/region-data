@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_64__city_1",
+    "text": "圣多明各",
+    "zone": -6,
+    "lng": -69.93,
+    "iana": "America/Santo_Domingo"
+  },
+  {
+    "id": "country_64__city_2",
+    "text": "圣何塞",
+    "zone": -6,
+    "lng": -121.88,
+    "iana": "America/Costa_Rica"
+  },
+  {
+    "id": "country_64__city_3",
+    "text": "阿拉胡埃拉",
+    "zone": -6,
+    "lng": -84.22,
+    "iana": "America/Costa_Rica"
+  },
+  {
+    "id": "country_64__city_4",
+    "text": "利蒙",
+    "zone": -6,
+    "lng": -83.03,
+    "iana": "America/Costa_Rica"
+  },
+  {
+    "id": "country_64__city_5",
+    "text": "利比里亚",
+    "zone": -6,
+    "lng": -85.43,
+    "iana": "America/Costa_Rica"
+  }
+]

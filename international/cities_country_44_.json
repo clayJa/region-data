@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_44__city_1",
+    "text": "卡瓜斯",
+    "zone": -4,
+    "lng": -66.03,
+    "iana": "America/Puerto_Rico"
+  },
+  {
+    "id": "country_44__city_2",
+    "text": "圣胡安",
+    "zone": -4,
+    "lng": -66.12,
+    "iana": "America/Puerto_Rico"
+  },
+  {
+    "id": "country_44__city_3",
+    "text": "阿罗约",
+    "zone": -4,
+    "lng": -66.07,
+    "iana": "America/Puerto_Rico"
+  },
+  {
+    "id": "country_44__city_4",
+    "text": "蓬塞",
+    "zone": -4,
+    "lng": -66.62,
+    "iana": "America/Puerto_Rico"
+  },
+  {
+    "id": "country_44__city_5",
+    "text": "马亚圭斯",
+    "zone": -4,
+    "lng": -67.15,
+    "iana": "America/Puerto_Rico"
+  }
+]

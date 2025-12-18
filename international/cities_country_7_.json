@@ -1,0 +1,443 @@
+[
+  {
+    "id": "country_7__city_1",
+    "text": "玛丽港",
+    "zone": -3.5,
+    "lng": 55.83,
+    "iana": "Europe/Helsinki"
+  },
+  {
+    "id": "country_7__city_2",
+    "text": "布朗萨布隆",
+    "zone": -4,
+    "lng": -57.13,
+    "iana": "America/Montreal"
+  },
+  {
+    "id": "country_7__city_3",
+    "text": "哈利法克斯",
+    "zone": -4,
+    "lng": -63.58,
+    "iana": "America/Halifax"
+  },
+  {
+    "id": "country_7__city_4",
+    "text": "快乐谷鹅湾",
+    "zone": -4,
+    "lng": -60.42,
+    "iana": "America/Goose_Bay"
+  },
+  {
+    "id": "country_7__city_5",
+    "text": "夏洛特敦",
+    "zone": -4,
+    "lng": -63.13,
+    "iana": "America/Halifax"
+  },
+  {
+    "id": "country_7__city_6",
+    "text": "奥沙瓦",
+    "zone": -5,
+    "lng": -78.87,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_7",
+    "text": "加蒂诺",
+    "zone": -5,
+    "lng": -75.63,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_8",
+    "text": "查塔姆-肯特",
+    "zone": -5,
+    "lng": -82.18,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_9",
+    "text": "巴里",
+    "zone": -5,
+    "lng": -79.7,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_10",
+    "text": "米西素加",
+    "zone": -5,
+    "lng": -79.65,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_11",
+    "text": "隆格伊",
+    "zone": -5,
+    "lng": -73.47,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_12",
+    "text": "三河城",
+    "zone": -5,
+    "lng": -72.55,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_13",
+    "text": "伊魁特",
+    "zone": -5,
+    "lng": -68.5,
+    "iana": "America/Iqaluit"
+  },
+  {
+    "id": "country_7__city_14",
+    "text": "金斯顿",
+    "zone": -5,
+    "lng": -76.48,
+    "iana": "America/Jamaica"
+  },
+  {
+    "id": "country_7__city_15",
+    "text": "宾顿",
+    "zone": -5,
+    "lng": -79.75,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_16",
+    "text": "贵湖",
+    "zone": -5,
+    "lng": -80.25,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_17",
+    "text": "因莱特港",
+    "zone": -5,
+    "lng": -77.95,
+    "iana": "America/Edmonton"
+  },
+  {
+    "id": "country_7__city_18",
+    "text": "基奇纳",
+    "zone": -5,
+    "lng": -80.5,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_19",
+    "text": "渥太华",
+    "zone": -5,
+    "lng": -75.7,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_20",
+    "text": "列治文山",
+    "zone": -5,
+    "lng": -79.43,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_21",
+    "text": "多伦多",
+    "zone": -5,
+    "lng": -79.38,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_22",
+    "text": "桑德贝",
+    "zone": -5,
+    "lng": -89.27,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_23",
+    "text": "剑桥",
+    "zone": -5,
+    "lng": -80.32,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_24",
+    "text": "魁北克",
+    "zone": -5,
+    "lng": -71.23,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_25",
+    "text": "拉瓦尔",
+    "zone": -5,
+    "lng": -73.72,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_26",
+    "text": "萨格奈",
+    "zone": -5,
+    "lng": -71.07,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_27",
+    "text": "古朱华克",
+    "zone": -5,
+    "lng": -68.4,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_28",
+    "text": "奥克维尔",
+    "zone": -5,
+    "lng": -79.67,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_29",
+    "text": "阿勒特",
+    "zone": -5,
+    "lng": -62.3,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_30",
+    "text": "舍布鲁克",
+    "zone": -5,
+    "lng": -71.88,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_31",
+    "text": "蒙特利尔",
+    "zone": -5,
+    "lng": -73.57,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_32",
+    "text": "希布加莫",
+    "zone": -5,
+    "lng": -74.37,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_33",
+    "text": "温莎",
+    "zone": -5,
+    "lng": -83.03,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_34",
+    "text": "伯灵顿",
+    "zone": -5,
+    "lng": -79.8,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_35",
+    "text": "万锦市",
+    "zone": -5,
+    "lng": -79.32,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_36",
+    "text": "圣凯瑟琳斯",
+    "zone": -5,
+    "lng": -79.23,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_37",
+    "text": "大萨德伯里",
+    "zone": -5,
+    "lng": -81.03,
+    "iana": "America/Toronto"
+  },
+  {
+    "id": "country_7__city_38",
+    "text": "汉密尔顿",
+    "zone": -5,
+    "lng": -64.78,
+    "iana": "Atlantic/Bermuda"
+  },
+  {
+    "id": "country_7__city_39",
+    "text": "格赖斯菲约德",
+    "zone": -6,
+    "lng": -82.9,
+    "iana": "America/Regina"
+  },
+  {
+    "id": "country_7__city_40",
+    "text": "温尼伯",
+    "zone": -6,
+    "lng": -97.13,
+    "iana": "America/Winnipeg"
+  },
+  {
+    "id": "country_7__city_41",
+    "text": "尤里卡",
+    "zone": -6,
+    "lng": -85.93,
+    "iana": "America/Regina"
+  },
+  {
+    "id": "country_7__city_42",
+    "text": "贝克湖",
+    "zone": -6,
+    "lng": -96.02,
+    "iana": "America/Regina"
+  },
+  {
+    "id": "country_7__city_43",
+    "text": "珊瑚港",
+    "zone": -6,
+    "lng": -83.17,
+    "iana": "America/Regina"
+  },
+  {
+    "id": "country_7__city_44",
+    "text": "里贾纳",
+    "zone": -6,
+    "lng": -104.6,
+    "iana": "America/Regina"
+  },
+  {
+    "id": "country_7__city_45",
+    "text": "萨斯卡通",
+    "zone": -6,
+    "lng": -106.67,
+    "iana": "America/Regina"
+  },
+  {
+    "id": "country_7__city_46",
+    "text": "埃德蒙顿",
+    "zone": -7,
+    "lng": -113.5,
+    "iana": "America/Edmonton"
+  },
+  {
+    "id": "country_7__city_47",
+    "text": "黄刀镇",
+    "zone": -7,
+    "lng": -114.37,
+    "iana": "America/Yellowknife"
+  },
+  {
+    "id": "country_7__city_48",
+    "text": "卡尔加里",
+    "zone": -7,
+    "lng": -114.07,
+    "iana": "America/Edmonton"
+  },
+  {
+    "id": "country_7__city_49",
+    "text": "克兰布鲁克",
+    "zone": -7,
+    "lng": -115.75,
+    "iana": "America/Edmonton"
+  },
+  {
+    "id": "country_7__city_50",
+    "text": "伊努维克",
+    "zone": -7,
+    "lng": -133.73,
+    "iana": "America/Inuvik"
+  },
+  {
+    "id": "country_7__city_51",
+    "text": "纳奈莫",
+    "zone": -8,
+    "lng": -123.93,
+    "iana": "America/Vancouver"
+  },
+  {
+    "id": "country_7__city_52",
+    "text": "斯阔米什",
+    "zone": -8,
+    "lng": -123.15,
+    "iana": "America/Vancouver"
+  },
+  {
+    "id": "country_7__city_53",
+    "text": "基隆拿",
+    "zone": -8,
+    "lng": -119.5,
+    "iana": "America/Vancouver"
+  },
+  {
+    "id": "country_7__city_54",
+    "text": "乔治王子城",
+    "zone": -8,
+    "lng": -122.75,
+    "iana": "America/Vancouver"
+  },
+  {
+    "id": "country_7__city_55",
+    "text": "本那比",
+    "zone": -8,
+    "lng": -122.97,
+    "iana": "America/Vancouver"
+  },
+  {
+    "id": "country_7__city_56",
+    "text": "阿伯茨福德",
+    "zone": -8,
+    "lng": -122.33,
+    "iana": "America/Vancouver"
+  },
+  {
+    "id": "country_7__city_57",
+    "text": "惠斯勒",
+    "zone": -8,
+    "lng": -122.95,
+    "iana": "America/Vancouver"
+  },
+  {
+    "id": "country_7__city_58",
+    "text": "高贵林",
+    "zone": -8,
+    "lng": -122.8,
+    "iana": "America/Vancouver"
+  },
+  {
+    "id": "country_7__city_59",
+    "text": "维多利亚",
+    "zone": -8,
+    "lng": -123.37,
+    "iana": "America/Vancouver"
+  },
+  {
+    "id": "country_7__city_60",
+    "text": "温哥华",
+    "zone": -8,
+    "lng": -123.12,
+    "iana": "America/Vancouver"
+  },
+  {
+    "id": "country_7__city_61",
+    "text": "坎卢普斯",
+    "zone": -8,
+    "lng": -120.33,
+    "iana": "America/Vancouver"
+  },
+  {
+    "id": "country_7__city_62",
+    "text": "萨里",
+    "zone": -8,
+    "lng": -122.85,
+    "iana": "America/Vancouver"
+  },
+  {
+    "id": "country_7__city_63",
+    "text": "白马市",
+    "zone": -8,
+    "lng": -135.05,
+    "iana": "America/Whitehorse"
+  }
+]

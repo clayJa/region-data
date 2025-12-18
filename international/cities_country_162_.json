@@ -1,0 +1,72 @@
+[
+  {
+    "id": "country_162__city_1",
+    "text": "阿亚库乔港",
+    "zone": -4,
+    "lng": -67.63,
+    "iana": "America/Caracas"
+  },
+  {
+    "id": "country_162__city_2",
+    "text": "巴基西梅托",
+    "zone": -4,
+    "lng": -69.32,
+    "iana": "America/Caracas"
+  },
+  {
+    "id": "country_162__city_3",
+    "text": "瓦伦西亚",
+    "zone": -4,
+    "lng": -68,
+    "iana": "America/Caracas"
+  },
+  {
+    "id": "country_162__city_4",
+    "text": "马拉凯",
+    "zone": -4,
+    "lng": -67.6,
+    "iana": "America/Caracas"
+  },
+  {
+    "id": "country_162__city_5",
+    "text": "加拉加斯",
+    "zone": -4,
+    "lng": -66.9,
+    "iana": "America/Caracas"
+  },
+  {
+    "id": "country_162__city_6",
+    "text": "圣费尔南多-德阿普雷",
+    "zone": -4,
+    "lng": -67.47,
+    "iana": "America/Caracas"
+  },
+  {
+    "id": "country_162__city_7",
+    "text": "马拉开波",
+    "zone": -4,
+    "lng": -71.62,
+    "iana": "America/Caracas"
+  },
+  {
+    "id": "country_162__city_8",
+    "text": "玻利瓦尔城",
+    "zone": -4,
+    "lng": -63.55,
+    "iana": "America/Caracas"
+  },
+  {
+    "id": "country_162__city_9",
+    "text": "圭亚那城",
+    "zone": -4,
+    "lng": -62.72,
+    "iana": "America/Caracas"
+  },
+  {
+    "id": "country_162__city_10",
+    "text": "马图林",
+    "zone": -4,
+    "lng": -63.18,
+    "iana": "America/Caracas"
+  }
+]

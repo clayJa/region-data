@@ -1,0 +1,58 @@
+[
+  {
+    "id": "country_175__city_1",
+    "text": "岘港",
+    "zone": 7,
+    "lng": 108.22,
+    "iana": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": "country_175__city_2",
+    "text": "海防",
+    "zone": 7,
+    "lng": 106.68,
+    "iana": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": "country_175__city_3",
+    "text": "胡志明市",
+    "zone": 7,
+    "lng": 106.7,
+    "iana": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": "country_175__city_4",
+    "text": "藩切",
+    "zone": 7,
+    "lng": 108.1,
+    "iana": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": "country_175__city_5",
+    "text": "河内",
+    "zone": 7,
+    "lng": 105.85,
+    "iana": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": "country_175__city_6",
+    "text": "顺化",
+    "zone": 7,
+    "lng": 107.58,
+    "iana": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": "country_175__city_7",
+    "text": "芹苴",
+    "zone": 7,
+    "lng": 105.78,
+    "iana": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": "country_175__city_8",
+    "text": "芽庄",
+    "zone": 7,
+    "lng": 109.18,
+    "iana": "Asia/Ho_Chi_Minh"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "country_56__city_1",
+    "text": "三投斯将军市",
+    "zone": 8,
+    "lng": 125.17,
+    "iana": "America/Asuncion"
+  },
+  {
+    "id": "country_56__city_2",
+    "text": "马拉威市",
+    "zone": 8,
+    "lng": 124.28,
+    "iana": "America/Asuncion"
+  },
+  {
+    "id": "country_56__city_3",
+    "text": "怡朗市",
+    "zone": 8,
+    "lng": 122.57,
+    "iana": "Asia/Manila"
+  },
+  {
+    "id": "country_56__city_4",
+    "text": "安吉尔斯/天使城",
+    "zone": 8,
+    "lng": 120.58,
+    "iana": "Asia/Manila"
+  },
+  {
+    "id": "country_56__city_5",
+    "text": "普林塞萨港/公主港",
+    "zone": 8,
+    "lng": 118.73,
+    "iana": "Asia/Manila"
+  },
+  {
+    "id": "country_56__city_6",
+    "text": "卡布尧",
+    "zone": 8,
+    "lng": 121.13,
+    "iana": "Asia/Manila"
+  },
+  {
+    "id": "country_56__city_7",
+    "text": "奥隆阿波",
+    "zone": 8,
+    "lng": 120.28,
+    "iana": "Asia/Manila"
+  },
+  {
+    "id": "country_56__city_8",
+    "text": "马尼拉",
+    "zone": 8,
+    "lng": 120.98,
+    "iana": "Asia/Manila"
+  },
+  {
+    "id": "country_56__city_9",
+    "text": "卡加延德奥罗",
+    "zone": 8,
+    "lng": 124.65,
+    "iana": "Asia/Manila"
+  },
+  {
+    "id": "country_56__city_10",
+    "text": "打拉市",
+    "zone": 8,
+    "lng": 120.58,
+    "iana": "Asia/Manila"
+  },
+  {
+    "id": "country_56__city_11",
+    "text": "三宝颜市",
+    "zone": 8,
+    "lng": 122.08,
+    "iana": "Asia/Manila"
+  },
+  {
+    "id": "country_56__city_12",
+    "text": "马巴拉卡特",
+    "zone": 8,
+    "lng": 120.58,
+    "iana": "Asia/Manila"
+  },
+  {
+    "id": "country_56__city_13",
+    "text": "达沃",
+    "zone": 8,
+    "lng": 125.62,
+    "iana": "Asia/Manila"
+  },
+  {
+    "id": "country_56__city_14",
+    "text": "奎松",
+    "zone": 8,
+    "lng": 121.05,
+    "iana": "Asia/Manila"
+  },
+  {
+    "id": "country_56__city_15",
+    "text": "土格加劳",
+    "zone": 8,
+    "lng": 121.73,
+    "iana": "Asia/Manila"
+  },
+  {
+    "id": "country_56__city_16",
+    "text": "宿雾市",
+    "zone": 8,
+    "lng": 123.9,
+    "iana": "Asia/Manila"
+  }
+]

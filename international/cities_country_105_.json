@@ -1,0 +1,86 @@
+[
+  {
+    "id": "country_105__city_1",
+    "text": "克拉约瓦",
+    "zone": 2,
+    "lng": 23.8,
+    "iana": "Europe/Bucharest"
+  },
+  {
+    "id": "country_105__city_2",
+    "text": "皮亚特拉-尼亚姆茨",
+    "zone": 2,
+    "lng": 26.37,
+    "iana": "Europe/Bucharest"
+  },
+  {
+    "id": "country_105__city_3",
+    "text": "普洛耶什蒂",
+    "zone": 2,
+    "lng": 26.02,
+    "iana": "Europe/Bucharest"
+  },
+  {
+    "id": "country_105__city_4",
+    "text": "布拉索夫",
+    "zone": 2,
+    "lng": 25.58,
+    "iana": "Europe/Bucharest"
+  },
+  {
+    "id": "country_105__city_5",
+    "text": "布勒伊拉",
+    "zone": 2,
+    "lng": 27.97,
+    "iana": "Europe/Bucharest"
+  },
+  {
+    "id": "country_105__city_6",
+    "text": "雅西",
+    "zone": 2,
+    "lng": 27.58,
+    "iana": "Europe/Bucharest"
+  },
+  {
+    "id": "country_105__city_7",
+    "text": "特尔古穆列什",
+    "zone": 2,
+    "lng": 24.57,
+    "iana": "Europe/Bucharest"
+  },
+  {
+    "id": "country_105__city_8",
+    "text": "克卢日纳波卡",
+    "zone": 2,
+    "lng": 23.58,
+    "iana": "Europe/Bucharest"
+  },
+  {
+    "id": "country_105__city_9",
+    "text": "奥拉迪亚",
+    "zone": 2,
+    "lng": 21.93,
+    "iana": "Europe/Bucharest"
+  },
+  {
+    "id": "country_105__city_10",
+    "text": "蒂米什瓦拉",
+    "zone": 2,
+    "lng": 21.23,
+    "iana": "Europe/Bucharest"
+  },
+  {
+    "id": "country_105__city_11",
+    "text": "锡比乌",
+    "zone": 2,
+    "lng": 24.15,
+    "iana": "Europe/Bucharest"
+  },
+  {
+    "id": "country_105__city_12",
+    "text": "布加勒斯特",
+    "zone": 2,
+    "lng": 26.1,
+    "iana": "Europe/Bucharest"
+  }
+]

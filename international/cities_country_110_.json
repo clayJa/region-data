@@ -1,0 +1,107 @@
+[
+  {
+    "id": "country_110__city_1",
+    "text": "迈门辛",
+    "zone": 6,
+    "lng": 90.4,
+    "iana": "Asia/Dhaka"
+  },
+  {
+    "id": "country_110__city_2",
+    "text": "坚德布尔",
+    "zone": 6,
+    "lng": 90.65,
+    "iana": "Asia/Dhaka"
+  },
+  {
+    "id": "country_110__city_3",
+    "text": "巴里萨尔",
+    "zone": 6,
+    "lng": 90.37,
+    "iana": "Asia/Dhaka"
+  },
+  {
+    "id": "country_110__city_4",
+    "text": "库米拉",
+    "zone": 6,
+    "lng": 91.18,
+    "iana": "Asia/Dhaka"
+  },
+  {
+    "id": "country_110__city_5",
+    "text": "库尔纳",
+    "zone": 6,
+    "lng": 89.55,
+    "iana": "Asia/Dhaka"
+  },
+  {
+    "id": "country_110__city_6",
+    "text": "巴布纳",
+    "zone": 6,
+    "lng": 89.25,
+    "iana": "Asia/Dhaka"
+  },
+  {
+    "id": "country_110__city_7",
+    "text": "拉杰沙希",
+    "zone": 6,
+    "lng": 88.6,
+    "iana": "Asia/Dhaka"
+  },
+  {
+    "id": "country_110__city_8",
+    "text": "锡尔赫特",
+    "zone": 6,
+    "lng": 91.87,
+    "iana": "Asia/Dhaka"
+  },
+  {
+    "id": "country_110__city_9",
+    "text": "博格拉",
+    "zone": 6,
+    "lng": 89.37,
+    "iana": "Asia/Dhaka"
+  },
+  {
+    "id": "country_110__city_10",
+    "text": "杰索尔",
+    "zone": 6,
+    "lng": 89.22,
+    "iana": "Asia/Dhaka"
+  },
+  {
+    "id": "country_110__city_11",
+    "text": "依苏而迪",
+    "zone": 6,
+    "lng": 89.07,
+    "iana": "Asia/Dhaka"
+  },
+  {
+    "id": "country_110__city_12",
+    "text": "达卡",
+    "zone": 6,
+    "lng": 90.42,
+    "iana": "Asia/Dhaka"
+  },
+  {
+    "id": "country_110__city_13",
+    "text": "吉大港市",
+    "zone": 6,
+    "lng": 91.83,
+    "iana": "Asia/Dhaka"
+  },
+  {
+    "id": "country_110__city_14",
+    "text": "赛义德布尔",
+    "zone": 6,
+    "lng": 88.9,
+    "iana": "Asia/Dhaka"
+  },
+  {
+    "id": "country_110__city_15",
+    "text": "坦盖尔",
+    "zone": 6,
+    "lng": 90.53,
+    "iana": "Asia/Dhaka"
+  }
+]

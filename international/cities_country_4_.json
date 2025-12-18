@@ -1,0 +1,114 @@
+[
+  {
+    "id": "country_4__city_1",
+    "text": "木浦",
+    "zone": 9,
+    "lng": 126.38,
+    "iana": "Asia/Seoul"
+  },
+  {
+    "id": "country_4__city_2",
+    "text": "济州",
+    "zone": 9,
+    "lng": 126.52,
+    "iana": "Asia/Seoul"
+  },
+  {
+    "id": "country_4__city_3",
+    "text": "仁川",
+    "zone": 9,
+    "lng": 126.6,
+    "iana": "Asia/Seoul"
+  },
+  {
+    "id": "country_4__city_4",
+    "text": "蔚山",
+    "zone": 9,
+    "lng": 129.33,
+    "iana": "Asia/Seoul"
+  },
+  {
+    "id": "country_4__city_5",
+    "text": "全州",
+    "zone": 9,
+    "lng": 127.15,
+    "iana": "Asia/Seoul"
+  },
+  {
+    "id": "country_4__city_6",
+    "text": "大田",
+    "zone": 9,
+    "lng": 127.4,
+    "iana": "Asia/Seoul"
+  },
+  {
+    "id": "country_4__city_7",
+    "text": "昌原",
+    "zone": 9,
+    "lng": 128.65,
+    "iana": "Asia/Seoul"
+  },
+  {
+    "id": "country_4__city_8",
+    "text": "光州",
+    "zone": 9,
+    "lng": 126.87,
+    "iana": "Asia/Seoul"
+  },
+  {
+    "id": "country_4__city_9",
+    "text": "群山",
+    "zone": 9,
+    "lng": 126.72,
+    "iana": "Asia/Seoul"
+  },
+  {
+    "id": "country_4__city_10",
+    "text": "江陵",
+    "zone": 9,
+    "lng": 128.9,
+    "iana": "Asia/Seoul"
+  },
+  {
+    "id": "country_4__city_11",
+    "text": "釜山",
+    "zone": 9,
+    "lng": 129.07,
+    "iana": "Asia/Seoul"
+  },
+  {
+    "id": "country_4__city_12",
+    "text": "水原",
+    "zone": 9,
+    "lng": 127.03,
+    "iana": "Asia/Seoul"
+  },
+  {
+    "id": "country_4__city_13",
+    "text": "平昌郡",
+    "zone": 9,
+    "lng": 128.4,
+    "iana": "Asia/Seoul"
+  },
+  {
+    "id": "country_4__city_14",
+    "text": "首尔",
+    "zone": 9,
+    "lng": 126.98,
+    "iana": "Asia/Seoul"
+  },
+  {
+    "id": "country_4__city_15",
+    "text": "丽水",
+    "zone": 9,
+    "lng": 127.73,
+    "iana": "Asia/Seoul"
+  },
+  {
+    "id": "country_4__city_16",
+    "text": "大邱",
+    "zone": 9,
+    "lng": 128.57,
+    "iana": "Asia/Seoul"
+  }
+]

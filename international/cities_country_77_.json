@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_77__city_1",
+    "text": "海地角",
+    "zone": -5,
+    "lng": -72.2,
+    "iana": "America/Port-au-Prince"
+  },
+  {
+    "id": "country_77__city_2",
+    "text": "太子港",
+    "zone": -5,
+    "lng": -72.33,
+    "iana": "America/Port-au-Prince"
+  },
+  {
+    "id": "country_77__city_3",
+    "text": "戈纳伊夫",
+    "zone": -5,
+    "lng": -72.68,
+    "iana": "America/Port-au-Prince"
+  },
+  {
+    "id": "country_77__city_4",
+    "text": "拉巴地",
+    "zone": -5,
+    "lng": -72.25,
+    "iana": "America/Port-au-Prince"
+  }
+]

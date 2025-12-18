@@ -1,0 +1,142 @@
+[
+  {
+    "id": "country_153__city_1",
+    "text": "安塔利亚",
+    "zone": 3,
+    "lng": 30.7,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_2",
+    "text": "加济安泰普",
+    "zone": 3,
+    "lng": 37.38,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_3",
+    "text": "开塞利",
+    "zone": 3,
+    "lng": 35.48,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_4",
+    "text": "布尔萨",
+    "zone": 3,
+    "lng": 29.05,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_5",
+    "text": "阿拉尼亚",
+    "zone": 3,
+    "lng": 32,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_6",
+    "text": "库萨达斯",
+    "zone": 3,
+    "lng": 27.25,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_7",
+    "text": "科尼亚",
+    "zone": 3,
+    "lng": 32.5,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_8",
+    "text": "安卡拉",
+    "zone": 3,
+    "lng": 32.85,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_9",
+    "text": "迪亚巴克尔",
+    "zone": 3,
+    "lng": 40.22,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_10",
+    "text": "代尼兹利",
+    "zone": 3,
+    "lng": 29.08,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_11",
+    "text": "埃斯基谢希尔",
+    "zone": 3,
+    "lng": 30.52,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_12",
+    "text": "梅尔辛",
+    "zone": 3,
+    "lng": 34.62,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_13",
+    "text": "马拉蒂亚",
+    "zone": 3,
+    "lng": 38.3,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_14",
+    "text": "特拉布宗",
+    "zone": 3,
+    "lng": 39.72,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_15",
+    "text": "博德鲁姆",
+    "zone": 3,
+    "lng": 27.43,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_16",
+    "text": "埃尔祖鲁姆",
+    "zone": 3,
+    "lng": 41.27,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_17",
+    "text": "阿达纳",
+    "zone": 3,
+    "lng": 35.32,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_18",
+    "text": "伊斯坦布尔",
+    "zone": 3,
+    "lng": 28.97,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_19",
+    "text": "伊兹密尔",
+    "zone": 3,
+    "lng": 27.15,
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "id": "country_153__city_20",
+    "text": "萨姆松",
+    "zone": 3,
+    "lng": 36.33,
+    "iana": "Europe/Istanbul"
+  }
+]

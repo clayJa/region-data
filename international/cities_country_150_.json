@@ -1,0 +1,44 @@
+[
+  {
+    "id": "country_150__city_1",
+    "text": "欧拜伊德",
+    "zone": 2,
+    "lng": 30.22,
+    "iana": "Africa/Khartoum"
+  },
+  {
+    "id": "country_150__city_2",
+    "text": "法希尔",
+    "zone": 2,
+    "lng": 25.35,
+    "iana": "Africa/Khartoum"
+  },
+  {
+    "id": "country_150__city_3",
+    "text": "苏丹港",
+    "zone": 2,
+    "lng": 37.22,
+    "iana": "Africa/Khartoum"
+  },
+  {
+    "id": "country_150__city_4",
+    "text": "库斯提",
+    "zone": 2,
+    "lng": 32.67,
+    "iana": "Africa/Khartoum"
+  },
+  {
+    "id": "country_150__city_5",
+    "text": "卡萨拉",
+    "zone": 2,
+    "lng": 36.4,
+    "iana": "Africa/Khartoum"
+  },
+  {
+    "id": "country_150__city_6",
+    "text": "喀土穆",
+    "zone": 2,
+    "lng": 32.53,
+    "iana": "Africa/Khartoum"
+  }
+]

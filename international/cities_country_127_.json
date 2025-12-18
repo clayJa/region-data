@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_127__city_1",
+    "text": "马塔加尔帕",
+    "zone": -6,
+    "lng": -85.92,
+    "iana": "America/Managua"
+  },
+  {
+    "id": "country_127__city_2",
+    "text": "马那瓜",
+    "zone": -6,
+    "lng": -86.27,
+    "iana": "America/Managua"
+  },
+  {
+    "id": "country_127__city_3",
+    "text": "卡贝萨斯港",
+    "zone": -6,
+    "lng": -83.38,
+    "iana": "America/Managua"
+  },
+  {
+    "id": "country_127__city_4",
+    "text": "莱昂",
+    "zone": -6,
+    "lng": -86.88,
+    "iana": "America/Managua"
+  },
+  {
+    "id": "country_127__city_5",
+    "text": "马萨亚",
+    "zone": -6,
+    "lng": -86.1,
+    "iana": "America/Managua"
+  }
+]

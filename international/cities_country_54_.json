@@ -1,0 +1,65 @@
+[
+  {
+    "id": "country_54__city_1",
+    "text": "伊巴拉",
+    "zone": -5,
+    "lng": -78.12,
+    "iana": "America/Guayaquil"
+  },
+  {
+    "id": "country_54__city_2",
+    "text": "洛哈",
+    "zone": -5,
+    "lng": -79.2,
+    "iana": "America/Guayaquil"
+  },
+  {
+    "id": "country_54__city_3",
+    "text": "安巴托",
+    "zone": -5,
+    "lng": -78.62,
+    "iana": "America/Guayaquil"
+  },
+  {
+    "id": "country_54__city_4",
+    "text": "基多",
+    "zone": -5,
+    "lng": -78.52,
+    "iana": "America/Guayaquil"
+  },
+  {
+    "id": "country_54__city_5",
+    "text": "瓜亚基尔",
+    "zone": -5,
+    "lng": -79.9,
+    "iana": "America/Guayaquil"
+  },
+  {
+    "id": "country_54__city_6",
+    "text": "埃斯梅拉达斯",
+    "zone": -5,
+    "lng": -79.65,
+    "iana": "America/Guayaquil"
+  },
+  {
+    "id": "country_54__city_7",
+    "text": "波托维耶霍",
+    "zone": -5,
+    "lng": -80.45,
+    "iana": "America/Guayaquil"
+  },
+  {
+    "id": "country_54__city_8",
+    "text": "昆卡",
+    "zone": -5,
+    "lng": -79,
+    "iana": "America/Guayaquil"
+  },
+  {
+    "id": "country_54__city_9",
+    "text": "加拉帕戈斯群岛",
+    "zone": -6,
+    "lng": -89.6,
+    "iana": "Pacific/Galapagos"
+  }
+]

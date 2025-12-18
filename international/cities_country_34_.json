@@ -1,0 +1,51 @@
+[
+  {
+    "id": "country_34__city_1",
+    "text": "旧扎戈拉",
+    "zone": 2,
+    "lng": 25.63,
+    "iana": "Europe/Sofia"
+  },
+  {
+    "id": "country_34__city_2",
+    "text": "索菲亚",
+    "zone": 2,
+    "lng": 23.32,
+    "iana": "Europe/Sofia"
+  },
+  {
+    "id": "country_34__city_3",
+    "text": "布尔加斯",
+    "zone": 2,
+    "lng": 27.47,
+    "iana": "Europe/Sofia"
+  },
+  {
+    "id": "country_34__city_4",
+    "text": "普罗夫迪夫",
+    "zone": 2,
+    "lng": 24.75,
+    "iana": "Europe/Sofia"
+  },
+  {
+    "id": "country_34__city_5",
+    "text": "瓦尔纳",
+    "zone": 2,
+    "lng": 27.92,
+    "iana": "Europe/Sofia"
+  },
+  {
+    "id": "country_34__city_6",
+    "text": "维丁",
+    "zone": 2,
+    "lng": 22.87,
+    "iana": "Europe/Sofia"
+  },
+  {
+    "id": "country_34__city_7",
+    "text": "普列文",
+    "zone": 2,
+    "lng": 24.62,
+    "iana": "Europe/Sofia"
+  }
+]

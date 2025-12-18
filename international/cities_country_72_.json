@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_72__city_1",
+    "text": "因普丰多",
+    "zone": 1,
+    "lng": 18.07,
+    "iana": "Africa/Brazzaville"
+  },
+  {
+    "id": "country_72__city_2",
+    "text": "韦索",
+    "zone": 1,
+    "lng": 16.05,
+    "iana": "Africa/Brazzaville"
+  },
+  {
+    "id": "country_72__city_3",
+    "text": "多利吉",
+    "zone": 1,
+    "lng": 12.68,
+    "iana": "Africa/Brazzaville"
+  },
+  {
+    "id": "country_72__city_4",
+    "text": "黑角",
+    "zone": 1,
+    "lng": 11.87,
+    "iana": "Africa/Brazzaville"
+  },
+  {
+    "id": "country_72__city_5",
+    "text": "布拉柴维尔",
+    "zone": 1,
+    "lng": 15.28,
+    "iana": "Africa/Brazzaville"
+  }
+]

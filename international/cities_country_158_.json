@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_158__city_1",
+    "text": "都东",
+    "zone": 8,
+    "lng": 114.65,
+    "iana": "Asia/Brunei"
+  },
+  {
+    "id": "country_158__city_2",
+    "text": "白拉奕",
+    "zone": 8,
+    "lng": 114.23,
+    "iana": "Asia/Brunei"
+  },
+  {
+    "id": "country_158__city_3",
+    "text": "斯里巴加湾",
+    "zone": 8,
+    "lng": 114.93,
+    "iana": "Asia/Brunei"
+  }
+]

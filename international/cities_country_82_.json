@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_82__city_1",
+    "text": "上丁",
+    "zone": 7,
+    "lng": 105.97,
+    "iana": "Asia/Phnom_Penh"
+  },
+  {
+    "id": "country_82__city_2",
+    "text": "西哈努克",
+    "zone": 7,
+    "lng": 103.53,
+    "iana": "Asia/Phnom_Penh"
+  },
+  {
+    "id": "country_82__city_3",
+    "text": "暹粒",
+    "zone": 7,
+    "lng": 103.87,
+    "iana": "Asia/Phnom_Penh"
+  },
+  {
+    "id": "country_82__city_4",
+    "text": "马德望",
+    "zone": 7,
+    "lng": 103.2,
+    "iana": "Asia/Phnom_Penh"
+  },
+  {
+    "id": "country_82__city_5",
+    "text": "金边",
+    "zone": 7,
+    "lng": 104.92,
+    "iana": "Asia/Phnom_Penh"
+  }
+]

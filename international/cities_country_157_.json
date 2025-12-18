@@ -1,0 +1,86 @@
+[
+  {
+    "id": "country_157__city_1",
+    "text": "斯法克斯",
+    "zone": 1,
+    "lng": 10.75,
+    "iana": "Africa/Tunis"
+  },
+  {
+    "id": "country_157__city_2",
+    "text": "哈马马特",
+    "zone": 1,
+    "lng": 10.62,
+    "iana": "Africa/Tunis"
+  },
+  {
+    "id": "country_157__city_3",
+    "text": "比泽太",
+    "zone": 1,
+    "lng": 9.87,
+    "iana": "Africa/Tunis"
+  },
+  {
+    "id": "country_157__city_4",
+    "text": "凯鲁万",
+    "zone": 1,
+    "lng": 10.1,
+    "iana": "Africa/Tunis"
+  },
+  {
+    "id": "country_157__city_5",
+    "text": "莫纳斯提尔",
+    "zone": 1,
+    "lng": 10.83,
+    "iana": "Africa/Tunis"
+  },
+  {
+    "id": "country_157__city_6",
+    "text": "乌姆苏克",
+    "zone": 1,
+    "lng": 10.87,
+    "iana": "Africa/Tunis"
+  },
+  {
+    "id": "country_157__city_7",
+    "text": "杰尔吉斯",
+    "zone": 1,
+    "lng": 11.12,
+    "iana": "Africa/Tunis"
+  },
+  {
+    "id": "country_157__city_8",
+    "text": "突尼斯市",
+    "zone": 1,
+    "lng": 10.18,
+    "iana": "Africa/Tunis"
+  },
+  {
+    "id": "country_157__city_9",
+    "text": "苏塞",
+    "zone": 1,
+    "lng": 10.63,
+    "iana": "Africa/Tunis"
+  },
+  {
+    "id": "country_157__city_10",
+    "text": "加夫萨",
+    "zone": 1,
+    "lng": 8.78,
+    "iana": "Africa/Tunis"
+  },
+  {
+    "id": "country_157__city_11",
+    "text": "卡塞林",
+    "zone": 1,
+    "lng": 8.83,
+    "iana": "Africa/Tunis"
+  },
+  {
+    "id": "country_157__city_12",
+    "text": "加贝斯",
+    "zone": 1,
+    "lng": 10.1,
+    "iana": "Africa/Tunis"
+  }
+]

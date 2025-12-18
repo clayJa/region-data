@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_87__city_1",
+    "text": "塔马利",
+    "zone": 0,
+    "lng": 0.85,
+    "iana": "Africa/Accra"
+  },
+  {
+    "id": "country_87__city_2",
+    "text": "库马西",
+    "zone": 0,
+    "lng": 1.62,
+    "iana": "Africa/Accra"
+  },
+  {
+    "id": "country_87__city_3",
+    "text": "阿克拉",
+    "zone": 0,
+    "lng": 0.2,
+    "iana": "Africa/Accra"
+  }
+]

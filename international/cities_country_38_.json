@@ -1,0 +1,65 @@
+[
+  {
+    "id": "country_38__city_1",
+    "text": "莫斯塔尔",
+    "zone": 1,
+    "lng": 17.82,
+    "iana": "Europe/Sarajevo"
+  },
+  {
+    "id": "country_38__city_2",
+    "text": "萨拉热窝",
+    "zone": 1,
+    "lng": 18.38,
+    "iana": "Europe/Sarajevo"
+  },
+  {
+    "id": "country_38__city_3",
+    "text": "泽尼察",
+    "zone": 1,
+    "lng": 17.9,
+    "iana": "Europe/Sarajevo"
+  },
+  {
+    "id": "country_38__city_4",
+    "text": "利夫诺",
+    "zone": 1,
+    "lng": 17,
+    "iana": "Europe/Sarajevo"
+  },
+  {
+    "id": "country_38__city_5",
+    "text": "察津",
+    "zone": 1,
+    "lng": 15.93,
+    "iana": "Europe/Sarajevo"
+  },
+  {
+    "id": "country_38__city_6",
+    "text": "比耶利纳",
+    "zone": 1,
+    "lng": 19.22,
+    "iana": "Europe/Sarajevo"
+  },
+  {
+    "id": "country_38__city_7",
+    "text": "巴尼亚卢卡",
+    "zone": 1,
+    "lng": 17.18,
+    "iana": "Europe/Sarajevo"
+  },
+  {
+    "id": "country_38__city_8",
+    "text": "普利耶多",
+    "zone": 1,
+    "lng": 16.72,
+    "iana": "Europe/Sarajevo"
+  },
+  {
+    "id": "country_38__city_9",
+    "text": "图兹拉",
+    "zone": 1,
+    "lng": 18.67,
+    "iana": "Europe/Sarajevo"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_86__city_1",
+    "text": "巴法塔",
+    "zone": 0,
+    "lng": 14.65,
+    "iana": "Africa/Bissau"
+  },
+  {
+    "id": "country_86__city_2",
+    "text": "加布",
+    "zone": 0,
+    "lng": 14.22,
+    "iana": "Africa/Bissau"
+  },
+  {
+    "id": "country_86__city_3",
+    "text": "比绍",
+    "zone": 0,
+    "lng": 15.58,
+    "iana": "Africa/Bissau"
+  }
+]

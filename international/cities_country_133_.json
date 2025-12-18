@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_133__city_1",
+    "text": "凯里尼亚",
+    "zone": 2,
+    "lng": 33.32,
+    "iana": "Asia/Nicosia"
+  },
+  {
+    "id": "country_133__city_2",
+    "text": "尼科西亚",
+    "zone": 2,
+    "lng": 33.37,
+    "iana": "Asia/Nicosia"
+  },
+  {
+    "id": "country_133__city_3",
+    "text": "拉纳卡",
+    "zone": 2,
+    "lng": 33.63,
+    "iana": "Asia/Nicosia"
+  },
+  {
+    "id": "country_133__city_4",
+    "text": "利马索尔",
+    "zone": 2,
+    "lng": 33.05,
+    "iana": "Asia/Nicosia"
+  }
+]

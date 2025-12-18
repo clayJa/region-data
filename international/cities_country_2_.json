@@ -1,0 +1,121 @@
+[
+  {
+    "id": "country_2__city_1",
+    "text": "马六甲",
+    "zone": 8,
+    "lng": 102.25,
+    "iana": "Asia/Kuala_Lumpur"
+  },
+  {
+    "id": "country_2__city_2",
+    "text": "加央",
+    "zone": 8,
+    "lng": 100.2,
+    "iana": "Asia/Kuala_Lumpur"
+  },
+  {
+    "id": "country_2__city_3",
+    "text": "新山",
+    "zone": 8,
+    "lng": 103.77,
+    "iana": "Asia/Kuala_Lumpur"
+  },
+  {
+    "id": "country_2__city_4",
+    "text": "芙蓉",
+    "zone": 8,
+    "lng": 101.93,
+    "iana": "Asia/Kuala_Lumpur"
+  },
+  {
+    "id": "country_2__city_5",
+    "text": "亚罗士打",
+    "zone": 8,
+    "lng": 100.37,
+    "iana": "Asia/Kuala_Lumpur"
+  },
+  {
+    "id": "country_2__city_6",
+    "text": "莎亚南",
+    "zone": 8,
+    "lng": 101.52,
+    "iana": "Asia/Kuala_Lumpur"
+  },
+  {
+    "id": "country_2__city_7",
+    "text": "古晋",
+    "zone": 8,
+    "lng": 110.35,
+    "iana": "Asia/Kuching"
+  },
+  {
+    "id": "country_2__city_8",
+    "text": "瓜拉丁加奴",
+    "zone": 8,
+    "lng": 103.13,
+    "iana": "Asia/Kuala_Lumpur"
+  },
+  {
+    "id": "country_2__city_9",
+    "text": "吉隆坡",
+    "zone": 8,
+    "lng": 101.7,
+    "iana": "Asia/Kuala_Lumpur"
+  },
+  {
+    "id": "country_2__city_10",
+    "text": "怡保",
+    "zone": 8,
+    "lng": 101.12,
+    "iana": "Asia/Kuala_Lumpur"
+  },
+  {
+    "id": "country_2__city_11",
+    "text": "米里",
+    "zone": 8,
+    "lng": 113.98,
+    "iana": "Asia/Kuching"
+  },
+  {
+    "id": "country_2__city_12",
+    "text": "诗巫",
+    "zone": 8,
+    "lng": 111.83,
+    "iana": "Asia/Kuching"
+  },
+  {
+    "id": "country_2__city_13",
+    "text": "槟城",
+    "zone": 8,
+    "lng": 100.33,
+    "iana": "Asia/Kuala_Lumpur"
+  },
+  {
+    "id": "country_2__city_14",
+    "text": "泗里奎",
+    "zone": 8,
+    "lng": 111.52,
+    "iana": "Asia/Kuching"
+  },
+  {
+    "id": "country_2__city_15",
+    "text": "哥打巴鲁",
+    "zone": 8,
+    "lng": 102.25,
+    "iana": "Asia/Kuala_Lumpur"
+  },
+  {
+    "id": "country_2__city_16",
+    "text": "哥打基纳巴卢",
+    "zone": 8,
+    "lng": 116.07,
+    "iana": "Asia/Kuching"
+  },
+  {
+    "id": "country_2__city_17",
+    "text": "关丹",
+    "zone": 8,
+    "lng": 103.32,
+    "iana": "Asia/Kuala_Lumpur"
+  }
+]

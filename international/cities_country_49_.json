@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_49__city_1",
+    "text": "巴塔",
+    "zone": 1,
+    "lng": 9.77,
+    "iana": "Africa/Malabo"
+  },
+  {
+    "id": "country_49__city_2",
+    "text": "阿科尼贝",
+    "zone": 1,
+    "lng": 10.95,
+    "iana": "Africa/Malabo"
+  },
+  {
+    "id": "country_49__city_3",
+    "text": "艾贝贝因",
+    "zone": 1,
+    "lng": 11.33,
+    "iana": "Africa/Malabo"
+  },
+  {
+    "id": "country_49__city_4",
+    "text": "马拉博",
+    "zone": 1,
+    "lng": 8.78,
+    "iana": "Africa/Malabo"
+  }
+]

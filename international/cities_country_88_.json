@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_88__city_1",
+    "text": "利伯维尔",
+    "zone": 1,
+    "lng": 9.45,
+    "iana": "Africa/Libreville"
+  },
+  {
+    "id": "country_88__city_2",
+    "text": "让蒂尔港",
+    "zone": 1,
+    "lng": 8.78,
+    "iana": "Africa/Libreville"
+  },
+  {
+    "id": "country_88__city_3",
+    "text": "弗朗斯维尔",
+    "zone": 1,
+    "lng": 13.58,
+    "iana": "Africa/Libreville"
+  }
+]

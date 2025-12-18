@@ -1,0 +1,44 @@
+[
+  {
+    "id": "country_47__city_1",
+    "text": "瓦希古亚",
+    "zone": 0,
+    "lng": 2.42,
+    "iana": "Africa/Porto-Novo"
+  },
+  {
+    "id": "country_47__city_2",
+    "text": "多里",
+    "zone": 0,
+    "lng": 0.03,
+    "iana": "Africa/Ouagadougou"
+  },
+  {
+    "id": "country_47__city_3",
+    "text": "库杜古",
+    "zone": 0,
+    "lng": 2.37,
+    "iana": "Africa/Ouagadougou"
+  },
+  {
+    "id": "country_47__city_4",
+    "text": "法达恩古尔马",
+    "zone": 0,
+    "lng": 0.35,
+    "iana": "Africa/Ouagadougou"
+  },
+  {
+    "id": "country_47__city_5",
+    "text": "博博迪乌拉索",
+    "zone": 0,
+    "lng": 4.28,
+    "iana": "Africa/Ouagadougou"
+  },
+  {
+    "id": "country_47__city_6",
+    "text": "瓦加杜古",
+    "zone": 0,
+    "lng": 1.53,
+    "iana": "Africa/Ouagadougou"
+  }
+]

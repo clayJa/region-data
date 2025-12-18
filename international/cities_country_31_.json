@@ -1,0 +1,16 @@
+[
+  {
+    "id": "country_31__city_1",
+    "text": "麦纳麦",
+    "zone": 3,
+    "lng": 50.58,
+    "iana": "Asia/Bahrain"
+  },
+  {
+    "id": "country_31__city_2",
+    "text": "里法",
+    "zone": 3,
+    "lng": 50.55,
+    "iana": "Asia/Bahrain"
+  }
+]

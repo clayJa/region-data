@@ -1,0 +1,72 @@
+[
+  {
+    "id": "country_74__city_1",
+    "text": "阿克套",
+    "zone": 5,
+    "lng": 51.17,
+    "iana": "Asia/Almaty"
+  },
+  {
+    "id": "country_74__city_2",
+    "text": "阿克托别",
+    "zone": 5,
+    "lng": 57.22,
+    "iana": "Asia/Almaty"
+  },
+  {
+    "id": "country_74__city_3",
+    "text": "乌拉尔",
+    "zone": 5,
+    "lng": 51.37,
+    "iana": "Asia/Oral"
+  },
+  {
+    "id": "country_74__city_4",
+    "text": "阿特劳",
+    "zone": 5,
+    "lng": 51.92,
+    "iana": "Asia/Oral"
+  },
+  {
+    "id": "country_74__city_5",
+    "text": "阿拉木图",
+    "zone": 5,
+    "lng": 76.92,
+    "iana": "Asia/Almaty"
+  },
+  {
+    "id": "country_74__city_6",
+    "text": "佩特罗帕尔",
+    "zone": 5,
+    "lng": 69.15,
+    "iana": "Asia/Almaty"
+  },
+  {
+    "id": "country_74__city_7",
+    "text": "阿斯塔纳",
+    "zone": 5,
+    "lng": 71.43,
+    "iana": "Asia/Almaty"
+  },
+  {
+    "id": "country_74__city_8",
+    "text": "卡拉干达",
+    "zone": 5,
+    "lng": 73.1,
+    "iana": "Asia/Almaty"
+  },
+  {
+    "id": "country_74__city_9",
+    "text": "什姆肯特",
+    "zone": 5,
+    "lng": 69.6,
+    "iana": "Asia/Almaty"
+  },
+  {
+    "id": "country_74__city_10",
+    "text": "克孜勒奥尔达",
+    "zone": 5,
+    "lng": 65.5,
+    "iana": "Asia/Almaty"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_108__city_1",
+    "text": "圣保罗",
+    "zone": 4,
+    "lng": 55.27,
+    "iana": "America/Sao_Paulo"
+  },
+  {
+    "id": "country_108__city_2",
+    "text": "圣但尼",
+    "zone": 4,
+    "lng": 55.45,
+    "iana": "Indian/Reunion"
+  },
+  {
+    "id": "country_108__city_3",
+    "text": "圣皮埃尔",
+    "zone": 4,
+    "lng": 55.48,
+    "iana": "America/Miquelon"
+  }
+]

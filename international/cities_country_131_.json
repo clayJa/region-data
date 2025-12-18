@@ -1,0 +1,51 @@
+[
+  {
+    "id": "country_131__city_1",
+    "text": "阿尔布费拉",
+    "zone": 0,
+    "lng": 8.25,
+    "iana": "Europe/Lisbon"
+  },
+  {
+    "id": "country_131__city_2",
+    "text": "加亚新城",
+    "zone": 0,
+    "lng": 8.6,
+    "iana": "Europe/Lisbon"
+  },
+  {
+    "id": "country_131__city_3",
+    "text": "洛里什",
+    "zone": 0,
+    "lng": 9.17,
+    "iana": "Europe/Lisbon"
+  },
+  {
+    "id": "country_131__city_4",
+    "text": "波尔图",
+    "zone": 0,
+    "lng": 8.62,
+    "iana": "Europe/Lisbon"
+  },
+  {
+    "id": "country_131__city_5",
+    "text": "里斯本",
+    "zone": 0,
+    "lng": 9.15,
+    "iana": "Europe/Lisbon"
+  },
+  {
+    "id": "country_131__city_6",
+    "text": "卡斯卡伊斯",
+    "zone": 0,
+    "lng": 9.42,
+    "iana": "Europe/Lisbon"
+  },
+  {
+    "id": "country_131__city_7",
+    "text": "蓬塔德尔加达",
+    "zone": 0,
+    "lng": 25.67,
+    "iana": "Atlantic/Azores"
+  }
+]

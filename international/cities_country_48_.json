@@ -1,0 +1,65 @@
+[
+  {
+    "id": "country_48__city_1",
+    "text": "平壤",
+    "zone": 9,
+    "lng": 125.77,
+    "iana": "Asia/Pyongyang"
+  },
+  {
+    "id": "country_48__city_2",
+    "text": "元山",
+    "zone": 9,
+    "lng": 127.43,
+    "iana": "Asia/Pyongyang"
+  },
+  {
+    "id": "country_48__city_3",
+    "text": "咸兴",
+    "zone": 9,
+    "lng": 127.53,
+    "iana": "Asia/Pyongyang"
+  },
+  {
+    "id": "country_48__city_4",
+    "text": "海州",
+    "zone": 9,
+    "lng": 125.72,
+    "iana": "Asia/Pyongyang"
+  },
+  {
+    "id": "country_48__city_5",
+    "text": "价川",
+    "zone": 9,
+    "lng": 125.88,
+    "iana": "Asia/Pyongyang"
+  },
+  {
+    "id": "country_48__city_6",
+    "text": "开城",
+    "zone": 9,
+    "lng": 126.57,
+    "iana": "Asia/Pyongyang"
+  },
+  {
+    "id": "country_48__city_7",
+    "text": "清津",
+    "zone": 9,
+    "lng": 129.78,
+    "iana": "Asia/Pyongyang"
+  },
+  {
+    "id": "country_48__city_8",
+    "text": "新义州",
+    "zone": 9,
+    "lng": 124.4,
+    "iana": "Asia/Pyongyang"
+  },
+  {
+    "id": "country_48__city_9",
+    "text": "南浦",
+    "zone": 9,
+    "lng": 125.4,
+    "iana": "Asia/Pyongyang"
+  }
+]

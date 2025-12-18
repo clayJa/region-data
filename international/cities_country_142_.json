@@ -1,0 +1,16 @@
+[
+  {
+    "id": "country_142__city_1",
+    "text": "查尔斯顿",
+    "zone": -4,
+    "lng": -62.62,
+    "iana": "America/New_York"
+  },
+  {
+    "id": "country_142__city_2",
+    "text": "巴斯特尔",
+    "zone": -4,
+    "lng": -62.72,
+    "iana": "America/St_Kitts"
+  }
+]

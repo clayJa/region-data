@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_156__city_1",
+    "text": "西班牙港",
+    "zone": -4,
+    "lng": -61.52,
+    "iana": "America/Port_of_Spain"
+  },
+  {
+    "id": "country_156__city_2",
+    "text": "斯卡伯勒",
+    "zone": -4,
+    "lng": -60.73,
+    "iana": "America/Port_of_Spain"
+  },
+  {
+    "id": "country_156__city_3",
+    "text": "查瓜纳斯",
+    "zone": -4,
+    "lng": -61.42,
+    "iana": "America/Port_of_Spain"
+  },
+  {
+    "id": "country_156__city_4",
+    "text": "圣费尔南多",
+    "zone": -4,
+    "lng": -61.47,
+    "iana": "America/Port_of_Spain"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_141__city_1",
+    "text": "圣维森特",
+    "zone": -6,
+    "lng": -88.78,
+    "iana": "America/El_Salvador"
+  },
+  {
+    "id": "country_141__city_2",
+    "text": "圣萨尔瓦多",
+    "zone": -6,
+    "lng": -89.2,
+    "iana": "America/El_Salvador"
+  },
+  {
+    "id": "country_141__city_3",
+    "text": "圣米格尔",
+    "zone": -6,
+    "lng": -88.18,
+    "iana": "America/El_Salvador"
+  }
+]

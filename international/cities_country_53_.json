@@ -1,0 +1,415 @@
+[
+  {
+    "id": "country_53__city_1",
+    "text": "加里宁格勒",
+    "zone": 2,
+    "lng": 20.52,
+    "iana": "Europe/Kaliningrad"
+  },
+  {
+    "id": "country_53__city_2",
+    "text": "新罗西斯克",
+    "zone": 3,
+    "lng": 37.78,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_3",
+    "text": "莫斯科",
+    "zone": 3,
+    "lng": 37.62,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_4",
+    "text": "利佩茨克",
+    "zone": 3,
+    "lng": 39.57,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_5",
+    "text": "摩尔曼斯克",
+    "zone": 3,
+    "lng": 33.07,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_6",
+    "text": "斯塔夫罗波尔",
+    "zone": 3,
+    "lng": 41.97,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_7",
+    "text": "卡马河畔切尔尼",
+    "zone": 3,
+    "lng": 52.42,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_8",
+    "text": "弗拉基米尔",
+    "zone": 3,
+    "lng": 40.4,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_9",
+    "text": "马哈奇卡拉",
+    "zone": 3,
+    "lng": 47.52,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_10",
+    "text": "诺夫哥罗德",
+    "zone": 3,
+    "lng": 31.28,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_11",
+    "text": "下诺夫哥罗德",
+    "zone": 3,
+    "lng": 44.02,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_12",
+    "text": "切博克萨雷",
+    "zone": 3,
+    "lng": 47.25,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_13",
+    "text": "瑟克特夫卡尔",
+    "zone": 3,
+    "lng": 50.83,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_14",
+    "text": "梁赞",
+    "zone": 3,
+    "lng": 39.75,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_15",
+    "text": "埃利斯塔",
+    "zone": 3,
+    "lng": 44.28,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_16",
+    "text": "索契",
+    "zone": 3,
+    "lng": 39.72,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_17",
+    "text": "喀山",
+    "zone": 3,
+    "lng": 49.12,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_18",
+    "text": "格罗兹尼",
+    "zone": 3,
+    "lng": 45.68,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_19",
+    "text": "阿尔汉格尔斯克",
+    "zone": 3,
+    "lng": 40.55,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_20",
+    "text": "五山城",
+    "zone": 3,
+    "lng": 43.05,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_21",
+    "text": "图拉",
+    "zone": 3,
+    "lng": 37.62,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_22",
+    "text": "约什卡尔奥拉",
+    "zone": 3,
+    "lng": 47.87,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_23",
+    "text": "布良斯克",
+    "zone": 3,
+    "lng": 34.32,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_24",
+    "text": "圣彼得堡",
+    "zone": 3,
+    "lng": 30.25,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_25",
+    "text": "阿斯特拉罕",
+    "zone": 4,
+    "lng": 48.03,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_26",
+    "text": "伊热夫斯克",
+    "zone": 4,
+    "lng": 53.22,
+    "iana": "Europe/Moscow"
+  },
+  {
+    "id": "country_53__city_27",
+    "text": "萨马拉",
+    "zone": 4,
+    "lng": 50.12,
+    "iana": "Europe/Samara"
+  },
+  {
+    "id": "country_53__city_28",
+    "text": "乌法",
+    "zone": 5,
+    "lng": 55.95,
+    "iana": "Asia/Yekaterinburg"
+  },
+  {
+    "id": "country_53__city_29",
+    "text": "马格尼托哥尔斯克",
+    "zone": 5,
+    "lng": 58.98,
+    "iana": "Asia/Yekaterinburg"
+  },
+  {
+    "id": "country_53__city_30",
+    "text": "苏尔古特",
+    "zone": 5,
+    "lng": 73.4,
+    "iana": "Asia/Yekaterinburg"
+  },
+  {
+    "id": "country_53__city_31",
+    "text": "彼尔姆",
+    "zone": 5,
+    "lng": 56.25,
+    "iana": "Asia/Yekaterinburg"
+  },
+  {
+    "id": "country_53__city_32",
+    "text": "车里亚宾斯克",
+    "zone": 5,
+    "lng": 61.4,
+    "iana": "Asia/Yekaterinburg"
+  },
+  {
+    "id": "country_53__city_33",
+    "text": "叶卡捷琳堡",
+    "zone": 5,
+    "lng": 60.6,
+    "iana": "Asia/Yekaterinburg"
+  },
+  {
+    "id": "country_53__city_34",
+    "text": "秋明",
+    "zone": 5,
+    "lng": 65.53,
+    "iana": "Asia/Yekaterinburg"
+  },
+  {
+    "id": "country_53__city_35",
+    "text": "新西伯利亚",
+    "zone": 7,
+    "lng": 82.55,
+    "iana": "Asia/Novosibirsk"
+  },
+  {
+    "id": "country_53__city_36",
+    "text": "托木斯克",
+    "zone": 7,
+    "lng": 84.95,
+    "iana": "Asia/Novosibirsk"
+  },
+  {
+    "id": "country_53__city_37",
+    "text": "巴尔瑙尔",
+    "zone": 7,
+    "lng": 83.78,
+    "iana": "Asia/Novosibirsk"
+  },
+  {
+    "id": "country_53__city_38",
+    "text": "鄂木斯克",
+    "zone": 7,
+    "lng": 73.37,
+    "iana": "Asia/Omsk"
+  },
+  {
+    "id": "country_53__city_39",
+    "text": "戈尔诺-阿尔泰斯克",
+    "zone": 7,
+    "lng": 85.97,
+    "iana": "Asia/Novosibirsk"
+  },
+  {
+    "id": "country_53__city_40",
+    "text": "克拉斯诺亚尔斯克",
+    "zone": 7,
+    "lng": 92.97,
+    "iana": "Asia/Krasnoyarsk"
+  },
+  {
+    "id": "country_53__city_41",
+    "text": "克孜勒",
+    "zone": 7,
+    "lng": 94.43,
+    "iana": "Asia/Krasnoyarsk"
+  },
+  {
+    "id": "country_53__city_42",
+    "text": "诺里尔斯克",
+    "zone": 7,
+    "lng": 88.22,
+    "iana": "Asia/Krasnoyarsk"
+  },
+  {
+    "id": "country_53__city_43",
+    "text": "克麦罗沃",
+    "zone": 7,
+    "lng": 86.08,
+    "iana": "Asia/Krasnoyarsk"
+  },
+  {
+    "id": "country_53__city_44",
+    "text": "乌兰乌德",
+    "zone": 8,
+    "lng": 107.6,
+    "iana": "Asia/Irkutsk"
+  },
+  {
+    "id": "country_53__city_45",
+    "text": "伊尔库茨克",
+    "zone": 8,
+    "lng": 104.27,
+    "iana": "Asia/Irkutsk"
+  },
+  {
+    "id": "country_53__city_46",
+    "text": "赤塔",
+    "zone": 9,
+    "lng": 113.5,
+    "iana": "Asia/Yakutsk"
+  },
+  {
+    "id": "country_53__city_47",
+    "text": "季克西",
+    "zone": 9,
+    "lng": 128.87,
+    "iana": "Asia/Yakutsk"
+  },
+  {
+    "id": "country_53__city_48",
+    "text": "雅库茨克",
+    "zone": 9,
+    "lng": 129.73,
+    "iana": "Asia/Yakutsk"
+  },
+  {
+    "id": "country_53__city_49",
+    "text": "哈坦加",
+    "zone": 9,
+    "lng": 102.48,
+    "iana": "Asia/Krasnoyarsk"
+  },
+  {
+    "id": "country_53__city_50",
+    "text": "海参崴",
+    "zone": 10,
+    "lng": 131.88,
+    "iana": "Asia/Vladivostok"
+  },
+  {
+    "id": "country_53__city_51",
+    "text": "阿穆尔共青城",
+    "zone": 10,
+    "lng": 137.02,
+    "iana": "Asia/Vladivostok"
+  },
+  {
+    "id": "country_53__city_52",
+    "text": "维尔霍扬斯克",
+    "zone": 10,
+    "lng": 133.38,
+    "iana": "Asia/Yakutsk"
+  },
+  {
+    "id": "country_53__city_53",
+    "text": "马加丹",
+    "zone": 11,
+    "lng": 150.8,
+    "iana": "Asia/Magadan"
+  },
+  {
+    "id": "country_53__city_54",
+    "text": "中科雷姆斯克",
+    "zone": 11,
+    "lng": 153.7,
+    "iana": "Asia/Magadan"
+  },
+  {
+    "id": "country_53__city_55",
+    "text": "南萨哈林斯克",
+    "zone": 11,
+    "lng": 142.73,
+    "iana": "Asia/Sakhalin"
+  },
+  {
+    "id": "country_53__city_56",
+    "text": "阿纳德尔",
+    "zone": 12,
+    "lng": 177.52,
+    "iana": "Asia/Anadyr"
+  },
+  {
+    "id": "country_53__city_57",
+    "text": "比利比诺",
+    "zone": 12,
+    "lng": 166.45,
+    "iana": "Asia/Kamchatka"
+  },
+  {
+    "id": "country_53__city_58",
+    "text": "勘察加彼得巴甫洛夫斯克",
+    "zone": 12,
+    "lng": 158.65,
+    "iana": "Asia/Kamchatka"
+  },
+  {
+    "id": "country_53__city_59",
+    "text": "佩韦克",
+    "zone": 12,
+    "lng": 170.27,
+    "iana": "Asia/Anadyr"
+  }
+]

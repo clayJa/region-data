@@ -1,0 +1,16 @@
+[
+  {
+    "id": "country_60__city_1",
+    "text": "圣洛朗杜马罗尼",
+    "zone": -3,
+    "lng": -54.03,
+    "iana": "America/Cayenne"
+  },
+  {
+    "id": "country_60__city_2",
+    "text": "卡宴",
+    "zone": -3,
+    "lng": -52.33,
+    "iana": "America/Cayenne"
+  }
+]

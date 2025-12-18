@@ -1,0 +1,44 @@
+[
+  {
+    "id": "country_45__city_1",
+    "text": "丹格里加",
+    "zone": -6,
+    "lng": -88.22,
+    "iana": "America/Belize"
+  },
+  {
+    "id": "country_45__city_2",
+    "text": "贝尔莫潘",
+    "zone": -6,
+    "lng": -88.77,
+    "iana": "America/Belize"
+  },
+  {
+    "id": "country_45__city_3",
+    "text": "圣佩德罗",
+    "zone": -6,
+    "lng": -87.97,
+    "iana": "America/Belize"
+  },
+  {
+    "id": "country_45__city_4",
+    "text": "伯利兹城",
+    "zone": -6,
+    "lng": -88.2,
+    "iana": "America/Belize"
+  },
+  {
+    "id": "country_45__city_5",
+    "text": "蓬塔戈尔达",
+    "zone": -6,
+    "lng": -88.8,
+    "iana": "America/Belize"
+  },
+  {
+    "id": "country_45__city_6",
+    "text": "奥兰治沃克镇",
+    "zone": -6,
+    "lng": -88.57,
+    "iana": "America/Belize"
+  }
+]

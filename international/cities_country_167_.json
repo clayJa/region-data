@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_167__city_1",
+    "text": "博哈多尔角",
+    "zone": 0,
+    "lng": 14.48,
+    "iana": "Africa/El_Aaiun"
+  },
+  {
+    "id": "country_167__city_2",
+    "text": "斯马拉",
+    "zone": 0,
+    "lng": 11.67,
+    "iana": "Africa/El_Aaiun"
+  },
+  {
+    "id": "country_167__city_3",
+    "text": "阿尤恩",
+    "zone": 0,
+    "lng": 13.2,
+    "iana": "Africa/El_Aaiun"
+  },
+  {
+    "id": "country_167__city_4",
+    "text": "达克拉",
+    "zone": 0,
+    "lng": 15.93,
+    "iana": "Africa/El_Aaiun"
+  }
+]

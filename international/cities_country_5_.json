@@ -1,0 +1,240 @@
+[
+  {
+    "id": "country_5__city_1",
+    "text": "横须贺",
+    "zone": 9,
+    "lng": 139.67,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_2",
+    "text": "熊本",
+    "zone": 9,
+    "lng": 130.72,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_3",
+    "text": "名古屋",
+    "zone": 9,
+    "lng": 136.9,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_4",
+    "text": "松山",
+    "zone": 9,
+    "lng": 132.77,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_5",
+    "text": "福岛",
+    "zone": 9,
+    "lng": 140.47,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_6",
+    "text": "冈山",
+    "zone": 9,
+    "lng": 133.92,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_7",
+    "text": "仙台",
+    "zone": 9,
+    "lng": 140.77,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_8",
+    "text": "金泽",
+    "zone": 9,
+    "lng": 136.65,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_9",
+    "text": "神户",
+    "zone": 9,
+    "lng": 135.2,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_10",
+    "text": "高知",
+    "zone": 9,
+    "lng": 133.53,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_11",
+    "text": "姬路",
+    "zone": 9,
+    "lng": 134.68,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_12",
+    "text": "东京",
+    "zone": 9,
+    "lng": 139.7,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_13",
+    "text": "大阪",
+    "zone": 9,
+    "lng": 135.52,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_14",
+    "text": "鹿儿岛",
+    "zone": 9,
+    "lng": 130.55,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_15",
+    "text": "津市",
+    "zone": 9,
+    "lng": 136.52,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_16",
+    "text": "铃鹿",
+    "zone": 9,
+    "lng": 136.58,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_17",
+    "text": "京都",
+    "zone": 9,
+    "lng": 135.77,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_18",
+    "text": "钏路",
+    "zone": 9,
+    "lng": 144.38,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_19",
+    "text": "川崎",
+    "zone": 9,
+    "lng": 139.7,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_20",
+    "text": "札幌",
+    "zone": 9,
+    "lng": 141.33,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_21",
+    "text": "青森",
+    "zone": 9,
+    "lng": 140.75,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_22",
+    "text": "佐世保",
+    "zone": 9,
+    "lng": 129.72,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_23",
+    "text": "新潟",
+    "zone": 9,
+    "lng": 139.05,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_24",
+    "text": "那霸",
+    "zone": 9,
+    "lng": 127.68,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_25",
+    "text": "宇都宫",
+    "zone": 9,
+    "lng": 139.88,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_26",
+    "text": "滨松",
+    "zone": 9,
+    "lng": 137.73,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_27",
+    "text": "广岛",
+    "zone": 9,
+    "lng": 132.45,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_28",
+    "text": "北九州",
+    "zone": 9,
+    "lng": 130.82,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_29",
+    "text": "相模原",
+    "zone": 9,
+    "lng": 139.37,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_30",
+    "text": "长崎",
+    "zone": 9,
+    "lng": 129.88,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_31",
+    "text": "长野",
+    "zone": 9,
+    "lng": 138.18,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_32",
+    "text": "横滨",
+    "zone": 9,
+    "lng": 139.57,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_33",
+    "text": "福冈",
+    "zone": 9,
+    "lng": 130.4,
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "id": "country_5__city_34",
+    "text": "静冈",
+    "zone": 9,
+    "lng": 138.38,
+    "iana": "Asia/Tokyo"
+  }
+]

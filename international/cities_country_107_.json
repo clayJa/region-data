@@ -1,0 +1,44 @@
+[
+  {
+    "id": "country_107__city_1",
+    "text": "米苏拉塔",
+    "zone": 2,
+    "lng": 15.08,
+    "iana": "Africa/Tripoli"
+  },
+  {
+    "id": "country_107__city_2",
+    "text": "库夫拉",
+    "zone": 2,
+    "lng": 23.28,
+    "iana": "Africa/Tripoli"
+  },
+  {
+    "id": "country_107__city_3",
+    "text": "班加西",
+    "zone": 2,
+    "lng": 20.07,
+    "iana": "Africa/Tripoli"
+  },
+  {
+    "id": "country_107__city_4",
+    "text": "赛卜哈",
+    "zone": 2,
+    "lng": 14.43,
+    "iana": "Africa/Tripoli"
+  },
+  {
+    "id": "country_107__city_5",
+    "text": "图卜鲁格",
+    "zone": 2,
+    "lng": 23.98,
+    "iana": "Africa/Tripoli"
+  },
+  {
+    "id": "country_107__city_6",
+    "text": "的黎波里",
+    "zone": 2,
+    "lng": 13.2,
+    "iana": "Africa/Tripoli"
+  }
+]

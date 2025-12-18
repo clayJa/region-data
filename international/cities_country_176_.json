@@ -1,0 +1,16 @@
+[
+  {
+    "id": "country_176__city_1",
+    "text": "圣安妮",
+    "zone": 0,
+    "lng": 2.2,
+    "iana": "Indian/Reunion"
+  },
+  {
+    "id": "country_176__city_2",
+    "text": "圣彼得港",
+    "zone": 0,
+    "lng": 2.53,
+    "iana": "Europe/Guernsey"
+  }
+]

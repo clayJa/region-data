@@ -1,0 +1,226 @@
+[
+  {
+    "id": "country_12__city_1",
+    "text": "温特图尔",
+    "zone": 1,
+    "lng": 8.73,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_2",
+    "text": "格拉鲁斯",
+    "zone": 1,
+    "lng": 9.07,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_3",
+    "text": "阿劳",
+    "zone": 1,
+    "lng": 8.05,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_4",
+    "text": "蒙特勒",
+    "zone": 1,
+    "lng": 6.92,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_5",
+    "text": "苏黎世",
+    "zone": 1,
+    "lng": 8.53,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_6",
+    "text": "黑里绍",
+    "zone": 1,
+    "lng": 9.28,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_7",
+    "text": "利斯塔尔",
+    "zone": 1,
+    "lng": 7.73,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_8",
+    "text": "巴塞尔",
+    "zone": 1,
+    "lng": 7.58,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_9",
+    "text": "沙夫豪森",
+    "zone": 1,
+    "lng": 8.63,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_10",
+    "text": "比尔",
+    "zone": 1,
+    "lng": 7.25,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_11",
+    "text": "西昂",
+    "zone": 1,
+    "lng": 7.37,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_12",
+    "text": "卢加诺",
+    "zone": 1,
+    "lng": 8.95,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_13",
+    "text": "索洛图恩",
+    "zone": 1,
+    "lng": 7.53,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_14",
+    "text": "扎尔宁",
+    "zone": 1,
+    "lng": 8.25,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_15",
+    "text": "德雷蒙",
+    "zone": 1,
+    "lng": 7.35,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_16",
+    "text": "伯尔尼",
+    "zone": 1,
+    "lng": 7.45,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_17",
+    "text": "克尼茨",
+    "zone": 1,
+    "lng": 7.42,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_18",
+    "text": "洛桑",
+    "zone": 1,
+    "lng": 6.63,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_19",
+    "text": "阿彭策尔",
+    "zone": 1,
+    "lng": 9.42,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_20",
+    "text": "楚格",
+    "zone": 1,
+    "lng": 8.52,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_21",
+    "text": "乌斯特",
+    "zone": 1,
+    "lng": 8.72,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_22",
+    "text": "琉森",
+    "zone": 1,
+    "lng": 8.3,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_23",
+    "text": "圣加伦",
+    "zone": 1,
+    "lng": 9.38,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_24",
+    "text": "弗劳恩费尔德",
+    "zone": 1,
+    "lng": 8.9,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_25",
+    "text": "库尔",
+    "zone": 1,
+    "lng": 9.53,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_26",
+    "text": "日内瓦",
+    "zone": 1,
+    "lng": 6.15,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_27",
+    "text": "纳沙泰尔",
+    "zone": 1,
+    "lng": 6.93,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_28",
+    "text": "弗里堡",
+    "zone": 1,
+    "lng": 7.17,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_29",
+    "text": "施坦斯",
+    "zone": 1,
+    "lng": 8.35,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_30",
+    "text": "阿尔特多夫",
+    "zone": 1,
+    "lng": 8.65,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_31",
+    "text": "施维茨",
+    "zone": 1,
+    "lng": 8.65,
+    "iana": "Europe/Zurich"
+  },
+  {
+    "id": "country_12__city_32",
+    "text": "贝林佐纳",
+    "zone": 1,
+    "lng": 9.02,
+    "iana": "Europe/Zurich"
+  }
+]

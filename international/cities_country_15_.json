@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_15__city_1",
+    "text": "沙迦",
+    "zone": 4,
+    "lng": 55.42,
+    "iana": "Asia/Dubai"
+  },
+  {
+    "id": "country_15__city_2",
+    "text": "迪拜",
+    "zone": 4,
+    "lng": 55.3,
+    "iana": "Asia/Dubai"
+  },
+  {
+    "id": "country_15__city_3",
+    "text": "阿布扎比",
+    "zone": 4,
+    "lng": 54.37,
+    "iana": "Asia/Dubai"
+  },
+  {
+    "id": "country_15__city_4",
+    "text": "艾因",
+    "zone": 4,
+    "lng": 55.77,
+    "iana": "Asia/Dubai"
+  }
+]

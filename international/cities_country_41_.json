@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_41__city_1",
+    "text": "巴拿马",
+    "zone": -5,
+    "lng": -79.52,
+    "iana": "America/Panama"
+  },
+  {
+    "id": "country_41__city_2",
+    "text": "圣地亚哥-德贝拉瓜斯",
+    "zone": -5,
+    "lng": -80.98,
+    "iana": "America/Panama"
+  },
+  {
+    "id": "country_41__city_3",
+    "text": "戴维",
+    "zone": -5,
+    "lng": -82.43,
+    "iana": "America/Panama"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_35__city_1",
+    "text": "安特卫普",
+    "zone": 1,
+    "lng": 4.4,
+    "iana": "Europe/Brussels"
+  },
+  {
+    "id": "country_35__city_2",
+    "text": "阿尔隆",
+    "zone": 1,
+    "lng": 5.82,
+    "iana": "Europe/Brussels"
+  },
+  {
+    "id": "country_35__city_3",
+    "text": "布鲁塞尔",
+    "zone": 1,
+    "lng": 4.35,
+    "iana": "Europe/Brussels"
+  },
+  {
+    "id": "country_35__city_4",
+    "text": "根特",
+    "zone": 1,
+    "lng": 3.73,
+    "iana": "Europe/Brussels"
+  },
+  {
+    "id": "country_35__city_5",
+    "text": "查雷洛依",
+    "zone": 1,
+    "lng": 4.45,
+    "iana": "Europe/Brussels"
+  }
+]

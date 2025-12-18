@@ -1,0 +1,44 @@
+[
+  {
+    "id": "country_139__city_1",
+    "text": "普列索夫",
+    "zone": 1,
+    "lng": 21.23,
+    "iana": "Europe/Bratislava"
+  },
+  {
+    "id": "country_139__city_2",
+    "text": "日利纳",
+    "zone": 1,
+    "lng": 18.73,
+    "iana": "Europe/Bratislava"
+  },
+  {
+    "id": "country_139__city_3",
+    "text": "胡门内",
+    "zone": 1,
+    "lng": 21.9,
+    "iana": "Europe/Bratislava"
+  },
+  {
+    "id": "country_139__city_4",
+    "text": "科希策",
+    "zone": 1,
+    "lng": 21.25,
+    "iana": "Europe/Bratislava"
+  },
+  {
+    "id": "country_139__city_5",
+    "text": "波普拉德",
+    "zone": 1,
+    "lng": 20.3,
+    "iana": "Europe/Bratislava"
+  },
+  {
+    "id": "country_139__city_6",
+    "text": "布拉迪斯拉发",
+    "zone": 1,
+    "lng": 17.12,
+    "iana": "Europe/Bratislava"
+  }
+]

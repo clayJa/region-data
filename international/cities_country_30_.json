@@ -1,0 +1,58 @@
+[
+  {
+    "id": "country_30__city_1",
+    "text": "拉马拉",
+    "zone": 2,
+    "lng": 35.2,
+    "iana": "Asia/Hebron"
+  },
+  {
+    "id": "country_30__city_2",
+    "text": "伯利恒",
+    "zone": 2,
+    "lng": 35.2,
+    "iana": "Asia/Hebron"
+  },
+  {
+    "id": "country_30__city_3",
+    "text": "杰宁",
+    "zone": 2,
+    "lng": 35.3,
+    "iana": "Asia/Hebron"
+  },
+  {
+    "id": "country_30__city_4",
+    "text": "希伯伦",
+    "zone": 2,
+    "lng": 35.1,
+    "iana": "Asia/Hebron"
+  },
+  {
+    "id": "country_30__city_5",
+    "text": "汉尤尼斯",
+    "zone": 2,
+    "lng": 34.3,
+    "iana": "Asia/Gaza"
+  },
+  {
+    "id": "country_30__city_6",
+    "text": "加沙",
+    "zone": 2,
+    "lng": 34.47,
+    "iana": "Asia/Gaza"
+  },
+  {
+    "id": "country_30__city_7",
+    "text": "纳布卢斯",
+    "zone": 2,
+    "lng": 35.27,
+    "iana": "Asia/Hebron"
+  },
+  {
+    "id": "country_30__city_8",
+    "text": "图勒凯尔姆",
+    "zone": 2,
+    "lng": 35.03,
+    "iana": "Asia/Hebron"
+  }
+]

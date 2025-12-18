@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_172__city_1",
+    "text": "里雄莱锡安",
+    "zone": 2,
+    "lng": 34.82,
+    "iana": "Asia/Jerusalem"
+  },
+  {
+    "id": "country_172__city_2",
+    "text": "特拉维夫",
+    "zone": 2,
+    "lng": 34.78,
+    "iana": "Asia/Jerusalem"
+  },
+  {
+    "id": "country_172__city_3",
+    "text": "耶路撒冷",
+    "zone": 2,
+    "lng": 35.22,
+    "iana": "Asia/Jerusalem"
+  },
+  {
+    "id": "country_172__city_4",
+    "text": "海法",
+    "zone": 2,
+    "lng": 35,
+    "iana": "Asia/Jerusalem"
+  },
+  {
+    "id": "country_172__city_5",
+    "text": "埃拉特",
+    "zone": 2,
+    "lng": 34.95,
+    "iana": "Asia/Jerusalem"
+  }
+]

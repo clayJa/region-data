@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_98__city_1",
+    "text": "内罗毕",
+    "zone": 3,
+    "lng": 36.82,
+    "iana": "Africa/Nairobi"
+  },
+  {
+    "id": "country_98__city_2",
+    "text": "加里萨",
+    "zone": 3,
+    "lng": 39.63,
+    "iana": "Africa/Nairobi"
+  },
+  {
+    "id": "country_98__city_3",
+    "text": "基苏木",
+    "zone": 3,
+    "lng": 34.75,
+    "iana": "Africa/Nairobi"
+  },
+  {
+    "id": "country_98__city_4",
+    "text": "蒙巴萨",
+    "zone": 3,
+    "lng": 39.67,
+    "iana": "Africa/Nairobi"
+  },
+  {
+    "id": "country_98__city_5",
+    "text": "纳库鲁",
+    "zone": 3,
+    "lng": 36.07,
+    "iana": "Africa/Nairobi"
+  }
+]

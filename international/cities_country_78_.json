@@ -1,0 +1,16 @@
+[
+  {
+    "id": "country_78__city_1",
+    "text": "克拉伦代克",
+    "zone": -4,
+    "lng": -68.28,
+    "iana": "America/Port-au-Prince"
+  },
+  {
+    "id": "country_78__city_2",
+    "text": "博托姆",
+    "zone": -4,
+    "lng": -63.25,
+    "iana": "America/Curacao"
+  }
+]

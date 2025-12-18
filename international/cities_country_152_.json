@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_152__city_1",
+    "text": "库洛布",
+    "zone": 5,
+    "lng": 69.78,
+    "iana": "Asia/Dushanbe"
+  },
+  {
+    "id": "country_152__city_2",
+    "text": "杜尚别",
+    "zone": 5,
+    "lng": 68.78,
+    "iana": "Asia/Dushanbe"
+  },
+  {
+    "id": "country_152__city_3",
+    "text": "苦盏",
+    "zone": 5,
+    "lng": 69.62,
+    "iana": "Asia/Dushanbe"
+  }
+]

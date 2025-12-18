@@ -1,0 +1,86 @@
+[
+  {
+    "id": "country_134__city_1",
+    "text": "布赖代",
+    "zone": 3,
+    "lng": 43.97,
+    "iana": "Asia/Riyadh"
+  },
+  {
+    "id": "country_134__city_2",
+    "text": "利雅得",
+    "zone": 3,
+    "lng": 46.72,
+    "iana": "Asia/Riyadh"
+  },
+  {
+    "id": "country_134__city_3",
+    "text": "塔布克",
+    "zone": 3,
+    "lng": 36.57,
+    "iana": "Asia/Riyadh"
+  },
+  {
+    "id": "country_134__city_4",
+    "text": "哈费尔巴廷",
+    "zone": 3,
+    "lng": 45.97,
+    "iana": "Asia/Riyadh"
+  },
+  {
+    "id": "country_134__city_5",
+    "text": "塞卡凯",
+    "zone": 3,
+    "lng": 40.2,
+    "iana": "Asia/Riyadh"
+  },
+  {
+    "id": "country_134__city_6",
+    "text": "达曼",
+    "zone": 3,
+    "lng": 50.15,
+    "iana": "Asia/Riyadh"
+  },
+  {
+    "id": "country_134__city_7",
+    "text": "海米斯穆谢特",
+    "zone": 3,
+    "lng": 42.73,
+    "iana": "Asia/Riyadh"
+  },
+  {
+    "id": "country_134__city_8",
+    "text": "胡富夫",
+    "zone": 3,
+    "lng": 49.58,
+    "iana": "Asia/Riyadh"
+  },
+  {
+    "id": "country_134__city_9",
+    "text": "吉达",
+    "zone": 3,
+    "lng": 39.17,
+    "iana": "Asia/Riyadh"
+  },
+  {
+    "id": "country_134__city_10",
+    "text": "卡提夫",
+    "zone": 3,
+    "lng": 50,
+    "iana": "Asia/Riyadh"
+  },
+  {
+    "id": "country_134__city_11",
+    "text": "麦加",
+    "zone": 3,
+    "lng": 39.77,
+    "iana": "Asia/Riyadh"
+  },
+  {
+    "id": "country_134__city_12",
+    "text": "麦地那",
+    "zone": 3,
+    "lng": 39.62,
+    "iana": "Asia/Riyadh"
+  }
+]

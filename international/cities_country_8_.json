@@ -1,0 +1,100 @@
+[
+  {
+    "id": "country_8__city_1",
+    "text": "伦敦",
+    "zone": 0,
+    "lng": 0.13,
+    "iana": "Europe/London"
+  },
+  {
+    "id": "country_8__city_2",
+    "text": "奥马",
+    "zone": 0,
+    "lng": 7.3,
+    "iana": "Europe/London"
+  },
+  {
+    "id": "country_8__city_3",
+    "text": "伯明翰",
+    "zone": 0,
+    "lng": 1.9,
+    "iana": "Europe/London"
+  },
+  {
+    "id": "country_8__city_4",
+    "text": "爱丁堡",
+    "zone": 0,
+    "lng": 3.2,
+    "iana": "Europe/London"
+  },
+  {
+    "id": "country_8__city_5",
+    "text": "切尔滕纳姆",
+    "zone": 0,
+    "lng": 2.08,
+    "iana": "Europe/London"
+  },
+  {
+    "id": "country_8__city_6",
+    "text": "利物浦",
+    "zone": 0,
+    "lng": 2.98,
+    "iana": "Europe/London"
+  },
+  {
+    "id": "country_8__city_7",
+    "text": "格拉斯哥",
+    "zone": 0,
+    "lng": 4.25,
+    "iana": "Europe/London"
+  },
+  {
+    "id": "country_8__city_8",
+    "text": "贝尔法斯特",
+    "zone": 0,
+    "lng": 5.93,
+    "iana": "Europe/London"
+  },
+  {
+    "id": "country_8__city_9",
+    "text": "林肯",
+    "zone": 0,
+    "lng": 0.53,
+    "iana": "Europe/London"
+  },
+  {
+    "id": "country_8__city_10",
+    "text": "普利茅斯",
+    "zone": 0,
+    "lng": 4.15,
+    "iana": "Europe/London"
+  },
+  {
+    "id": "country_8__city_11",
+    "text": "利兹",
+    "zone": 0,
+    "lng": 1.55,
+    "iana": "Europe/London"
+  },
+  {
+    "id": "country_8__city_12",
+    "text": "加的夫",
+    "zone": 0,
+    "lng": 3.18,
+    "iana": "Europe/London"
+  },
+  {
+    "id": "country_8__city_13",
+    "text": "伦敦德里",
+    "zone": 0,
+    "lng": 7.32,
+    "iana": "Europe/London"
+  },
+  {
+    "id": "country_8__city_14",
+    "text": "曼彻斯特",
+    "zone": 0,
+    "lng": 2.25,
+    "iana": "Europe/London"
+  }
+]

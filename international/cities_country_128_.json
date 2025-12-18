@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_128__city_1",
+    "text": "延比奥",
+    "zone": 2,
+    "lng": 28.4,
+    "iana": "Africa/Juba"
+  },
+  {
+    "id": "country_128__city_2",
+    "text": "朱巴",
+    "zone": 2,
+    "lng": 31.6,
+    "iana": "Africa/Juba"
+  },
+  {
+    "id": "country_128__city_3",
+    "text": "马拉卡尔",
+    "zone": 2,
+    "lng": 31.67,
+    "iana": "Africa/Juba"
+  },
+  {
+    "id": "country_128__city_4",
+    "text": "瓦乌",
+    "zone": 2,
+    "lng": 28,
+    "iana": "Africa/Juba"
+  }
+]

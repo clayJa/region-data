@@ -1,0 +1,86 @@
+[
+  {
+    "id": "country_69__city_1",
+    "text": "弗洛伦西亚",
+    "zone": -5,
+    "lng": -75.6,
+    "iana": "America/Bogota"
+  },
+  {
+    "id": "country_69__city_2",
+    "text": "库库塔",
+    "zone": -5,
+    "lng": -72.5,
+    "iana": "America/Bogota"
+  },
+  {
+    "id": "country_69__city_3",
+    "text": "巴兰基利亚",
+    "zone": -5,
+    "lng": -74.8,
+    "iana": "America/Bogota"
+  },
+  {
+    "id": "country_69__city_4",
+    "text": "卡利",
+    "zone": -5,
+    "lng": -76.52,
+    "iana": "America/Bogota"
+  },
+  {
+    "id": "country_69__city_5",
+    "text": "布卡拉曼加",
+    "zone": -5,
+    "lng": -73.12,
+    "iana": "America/Bogota"
+  },
+  {
+    "id": "country_69__city_6",
+    "text": "麦德林城",
+    "zone": -5,
+    "lng": -75.57,
+    "iana": "America/Bogota"
+  },
+  {
+    "id": "country_69__city_7",
+    "text": "波哥大",
+    "zone": -5,
+    "lng": -74.08,
+    "iana": "America/Bogota"
+  },
+  {
+    "id": "country_69__city_8",
+    "text": "马尼萨莱斯",
+    "zone": -5,
+    "lng": -75.5,
+    "iana": "America/Bogota"
+  },
+  {
+    "id": "country_69__city_9",
+    "text": "佩雷拉",
+    "zone": -5,
+    "lng": -75.7,
+    "iana": "America/Bogota"
+  },
+  {
+    "id": "country_69__city_10",
+    "text": "卡塔赫纳",
+    "zone": -5,
+    "lng": -75.52,
+    "iana": "America/Bogota"
+  },
+  {
+    "id": "country_69__city_11",
+    "text": "米图",
+    "zone": -5,
+    "lng": -70.23,
+    "iana": "America/Bogota"
+  },
+  {
+    "id": "country_69__city_12",
+    "text": "比亚维森西奥",
+    "zone": -5,
+    "lng": -73.63,
+    "iana": "America/Bogota"
+  }
+]

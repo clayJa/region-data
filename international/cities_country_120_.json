@@ -1,0 +1,240 @@
+[
+  {
+    "id": "country_120__city_1",
+    "text": "切图马尔",
+    "zone": -5,
+    "lng": -88.3,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_2",
+    "text": "特斯科科",
+    "zone": -6,
+    "lng": -98.88,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_3",
+    "text": "埃卡特佩克莫雷洛斯",
+    "zone": -6,
+    "lng": -99.03,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_4",
+    "text": "圣路易斯波托西",
+    "zone": -6,
+    "lng": -100.98,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_5",
+    "text": "弗雷斯尼约",
+    "zone": -6,
+    "lng": -102.87,
+    "iana": "America/Mazatlan"
+  },
+  {
+    "id": "country_120__city_6",
+    "text": "阿瓜斯卡连特斯",
+    "zone": -6,
+    "lng": -102.3,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_7",
+    "text": "梅里达",
+    "zone": -6,
+    "lng": -89.62,
+    "iana": "America/Merida"
+  },
+  {
+    "id": "country_120__city_8",
+    "text": "杜兰戈",
+    "zone": -6,
+    "lng": -104.67,
+    "iana": "America/Mazatlan"
+  },
+  {
+    "id": "country_120__city_9",
+    "text": "蒙特雷",
+    "zone": -6,
+    "lng": -100.32,
+    "iana": "America/Monterrey"
+  },
+  {
+    "id": "country_120__city_10",
+    "text": "普拉亚德尔卡曼",
+    "zone": -6,
+    "lng": -87.07,
+    "iana": "America/Cancun"
+  },
+  {
+    "id": "country_120__city_11",
+    "text": "墨西哥城",
+    "zone": -6,
+    "lng": -99.13,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_12",
+    "text": "维多利亚城",
+    "zone": -6,
+    "lng": -99.13,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_13",
+    "text": "科利马",
+    "zone": -6,
+    "lng": -103.72,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_14",
+    "text": "韦拉克鲁斯",
+    "zone": -6,
+    "lng": -96.13,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_15",
+    "text": "瓜达拉哈拉",
+    "zone": -6,
+    "lng": -103.35,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_16",
+    "text": "克雷塔罗",
+    "zone": -6,
+    "lng": -100.4,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_17",
+    "text": "库埃纳瓦卡",
+    "zone": -6,
+    "lng": -99.22,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_18",
+    "text": "图斯特拉古铁雷斯",
+    "zone": -6,
+    "lng": -93.12,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_19",
+    "text": "瓦图尔科",
+    "zone": -6,
+    "lng": -96.32,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_20",
+    "text": "瓦哈卡",
+    "zone": -6,
+    "lng": -96.72,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_21",
+    "text": "坎昆",
+    "zone": -6,
+    "lng": -86.85,
+    "iana": "America/Cancun"
+  },
+  {
+    "id": "country_120__city_22",
+    "text": "阿卡普尔科",
+    "zone": -6,
+    "lng": -99.88,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_23",
+    "text": "马塔莫罗斯",
+    "zone": -6,
+    "lng": -97.5,
+    "iana": "America/Matamoros"
+  },
+  {
+    "id": "country_120__city_24",
+    "text": "萨卡特卡斯",
+    "zone": -6,
+    "lng": -102.58,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_25",
+    "text": "瓦亚塔港",
+    "zone": -6,
+    "lng": -105.23,
+    "iana": "America/Mazatlan"
+  },
+  {
+    "id": "country_120__city_26",
+    "text": "雷诺萨",
+    "zone": -6,
+    "lng": -98.28,
+    "iana": "America/Matamoros"
+  },
+  {
+    "id": "country_120__city_27",
+    "text": "普埃布拉",
+    "zone": -6,
+    "lng": -98.2,
+    "iana": "America/Mexico_City"
+  },
+  {
+    "id": "country_120__city_28",
+    "text": "马萨特兰",
+    "zone": -7,
+    "lng": -106.41,
+    "iana": "America/Mazatlan"
+  },
+  {
+    "id": "country_120__city_29",
+    "text": "特皮克",
+    "zone": -7,
+    "lng": -104.9,
+    "iana": "America/Mazatlan"
+  },
+  {
+    "id": "country_120__city_30",
+    "text": "奇瓦瓦",
+    "zone": -7,
+    "lng": -106.08,
+    "iana": "America/Chihuahua"
+  },
+  {
+    "id": "country_120__city_31",
+    "text": "华雷斯",
+    "zone": -7,
+    "lng": -106.48,
+    "iana": "America/Ojinaga"
+  },
+  {
+    "id": "country_120__city_32",
+    "text": "埃莫西约",
+    "zone": -7,
+    "lng": -110.97,
+    "iana": "America/Hermosillo"
+  },
+  {
+    "id": "country_120__city_33",
+    "text": "墨西卡利",
+    "zone": -8,
+    "lng": -115.45,
+    "iana": "America/Tijuana"
+  },
+  {
+    "id": "country_120__city_34",
+    "text": "提华纳",
+    "zone": -8,
+    "lng": -117.03,
+    "iana": "America/Tijuana"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_85__city_1",
+    "text": "博凯",
+    "zone": 0,
+    "lng": 14.28,
+    "iana": "Africa/Conakry"
+  },
+  {
+    "id": "country_85__city_2",
+    "text": "金迪亚",
+    "zone": 0,
+    "lng": 12.87,
+    "iana": "Africa/Conakry"
+  },
+  {
+    "id": "country_85__city_3",
+    "text": "科纳克里",
+    "zone": 0,
+    "lng": 13.72,
+    "iana": "Africa/Conakry"
+  },
+  {
+    "id": "country_85__city_4",
+    "text": "恩泽雷科雷",
+    "zone": 0,
+    "lng": 8.82,
+    "iana": "Africa/Conakry"
+  }
+]

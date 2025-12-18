@@ -1,0 +1,44 @@
+[
+  {
+    "id": "country_51__city_1",
+    "text": "圣胡安德拉马瓜纳",
+    "zone": -4,
+    "lng": -71.23,
+    "iana": "America/Santo_Domingo"
+  },
+  {
+    "id": "country_51__city_2",
+    "text": "普拉塔港",
+    "zone": -4,
+    "lng": -70.68,
+    "iana": "America/Santo_Domingo"
+  },
+  {
+    "id": "country_51__city_3",
+    "text": "罗马纳",
+    "zone": -4,
+    "lng": -68.97,
+    "iana": "America/Santo_Domingo"
+  },
+  {
+    "id": "country_51__city_4",
+    "text": "圣地亚哥",
+    "zone": -4,
+    "lng": -70.7,
+    "iana": "America/Santo_Domingo"
+  },
+  {
+    "id": "country_51__city_5",
+    "text": "拉维加",
+    "zone": -4,
+    "lng": -70.53,
+    "iana": "America/Santo_Domingo"
+  },
+  {
+    "id": "country_51__city_6",
+    "text": "蓬塔卡纳",
+    "zone": -4,
+    "lng": -68.37,
+    "iana": "America/Santo_Domingo"
+  }
+]

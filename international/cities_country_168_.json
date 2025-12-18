@@ -1,0 +1,51 @@
+[
+  {
+    "id": "country_168__city_1",
+    "text": "基洛瓦坎",
+    "zone": 4,
+    "lng": 44.49,
+    "iana": "Europe/Athens"
+  },
+  {
+    "id": "country_168__city_2",
+    "text": "久姆里",
+    "zone": 4,
+    "lng": 43.85,
+    "iana": "Asia/Yerevan"
+  },
+  {
+    "id": "country_168__city_3",
+    "text": "叶海格纳佐尔",
+    "zone": 4,
+    "lng": 45.33,
+    "iana": "Asia/Yerevan"
+  },
+  {
+    "id": "country_168__city_4",
+    "text": "加瓦尔",
+    "zone": 4,
+    "lng": 45.13,
+    "iana": "Asia/Yerevan"
+  },
+  {
+    "id": "country_168__city_5",
+    "text": "埃里温",
+    "zone": 4,
+    "lng": 44.52,
+    "iana": "Asia/Yerevan"
+  },
+  {
+    "id": "country_168__city_6",
+    "text": "卡潘",
+    "zone": 4,
+    "lng": 46.42,
+    "iana": "Asia/Yerevan"
+  },
+  {
+    "id": "country_168__city_7",
+    "text": "锡西安",
+    "zone": 4,
+    "lng": 46.03,
+    "iana": "Asia/Yerevan"
+  }
+]

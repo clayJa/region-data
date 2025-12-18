@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_20__city_1",
+    "text": "库雷萨雷",
+    "zone": 2,
+    "lng": 22.48,
+    "iana": "Europe/Tallinn"
+  },
+  {
+    "id": "country_20__city_2",
+    "text": "纳尔瓦",
+    "zone": 2,
+    "lng": 28.18,
+    "iana": "Europe/Tallinn"
+  },
+  {
+    "id": "country_20__city_3",
+    "text": "塔尔图",
+    "zone": 2,
+    "lng": 26.72,
+    "iana": "Europe/Tallinn"
+  },
+  {
+    "id": "country_20__city_4",
+    "text": "塔林",
+    "zone": 2,
+    "lng": 24.75,
+    "iana": "Europe/Tallinn"
+  },
+  {
+    "id": "country_20__city_5",
+    "text": "科赫特拉-耶尔韦",
+    "zone": 2,
+    "lng": 27.25,
+    "iana": "Europe/Tallinn"
+  }
+]

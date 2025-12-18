@@ -1,0 +1,450 @@
+[
+  {
+    "id": "country_173__city_1",
+    "text": "比贾布尔",
+    "zone": 5.5,
+    "lng": 75.72,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_2",
+    "text": "金奈",
+    "zone": 5.5,
+    "lng": 80.28,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_3",
+    "text": "胡布利",
+    "zone": 5.5,
+    "lng": 75.13,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_4",
+    "text": "艾哈迈达巴德",
+    "zone": 5.5,
+    "lng": 72.58,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_5",
+    "text": "新德里",
+    "zone": 5.5,
+    "lng": 77.22,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_6",
+    "text": "布莱尔港",
+    "zone": 5.5,
+    "lng": 92.5,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_7",
+    "text": "勒克瑙",
+    "zone": 5.5,
+    "lng": 80.93,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_8",
+    "text": "德里",
+    "zone": 5.5,
+    "lng": 77.23,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_9",
+    "text": "坎普尔",
+    "zone": 5.5,
+    "lng": 80.32,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_10",
+    "text": "浦那",
+    "zone": 5.5,
+    "lng": 73.87,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_11",
+    "text": "瓦拉纳西",
+    "zone": 5.5,
+    "lng": 83,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_12",
+    "text": "乞拉朋齐",
+    "zone": 5.5,
+    "lng": 91.72,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_13",
+    "text": "安拉阿巴德",
+    "zone": 5.5,
+    "lng": 81.83,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_14",
+    "text": "加兹阿巴德",
+    "zone": 5.5,
+    "lng": 77.42,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_15",
+    "text": "海得拉巴",
+    "zone": 5.5,
+    "lng": 78.47,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_16",
+    "text": "马杜赖",
+    "zone": 5.5,
+    "lng": 78.12,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_17",
+    "text": "博帕尔",
+    "zone": 5.5,
+    "lng": 77.4,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_18",
+    "text": "孟买",
+    "zone": 5.5,
+    "lng": 72.83,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_19",
+    "text": "西姆拉",
+    "zone": 5.5,
+    "lng": 77.17,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_20",
+    "text": "阿散索尔",
+    "zone": 5.5,
+    "lng": 86.98,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_21",
+    "text": "布巴内什瓦尔",
+    "zone": 5.5,
+    "lng": 85.83,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_22",
+    "text": "科钦",
+    "zone": 5.5,
+    "lng": 76.25,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_23",
+    "text": "印多尔",
+    "zone": 5.5,
+    "lng": 75.87,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_24",
+    "text": "瑟撒",
+    "zone": 5.5,
+    "lng": 75.03,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_25",
+    "text": "斋浦尔",
+    "zone": 5.5,
+    "lng": 75.78,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_26",
+    "text": "纳尔巴里",
+    "zone": 5.5,
+    "lng": 91.43,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_27",
+    "text": "贾朗达尔",
+    "zone": 5.5,
+    "lng": 75.58,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_28",
+    "text": "卡努尔",
+    "zone": 5.5,
+    "lng": 78.03,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_29",
+    "text": "维沙卡帕特南",
+    "zone": 5.5,
+    "lng": 83.22,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_30",
+    "text": "阿科特",
+    "zone": 5.5,
+    "lng": 77.07,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_31",
+    "text": "阿格拉",
+    "zone": 5.5,
+    "lng": 78.02,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_32",
+    "text": "卢迪亚纳",
+    "zone": 5.5,
+    "lng": 75.85,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_33",
+    "text": "奥兰加巴德",
+    "zone": 5.5,
+    "lng": 75.23,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_34",
+    "text": "加尔各答",
+    "zone": 5.5,
+    "lng": 88.35,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_35",
+    "text": "豪拉",
+    "zone": 5.5,
+    "lng": 88.32,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_36",
+    "text": "西里古里",
+    "zone": 5.5,
+    "lng": 88.43,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_37",
+    "text": "阿纳恩塔普尔",
+    "zone": 5.5,
+    "lng": 77.58,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_38",
+    "text": "门格洛尔",
+    "zone": 5.5,
+    "lng": 74.83,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_39",
+    "text": "卢纳瓦达",
+    "zone": 5.5,
+    "lng": 73.62,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_40",
+    "text": "戈特拉",
+    "zone": 5.5,
+    "lng": 73.62,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_41",
+    "text": "纳西克",
+    "zone": 5.5,
+    "lng": 73.8,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_42",
+    "text": "那格浦尔",
+    "zone": 5.5,
+    "lng": 79.08,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_43",
+    "text": "伊切尔格伦吉",
+    "zone": 5.5,
+    "lng": 74.45,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_44",
+    "text": "希萨尔",
+    "zone": 5.5,
+    "lng": 75.72,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_45",
+    "text": "苏拉特",
+    "zone": 5.5,
+    "lng": 72.8,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_46",
+    "text": "杜尔加布尔",
+    "zone": 5.5,
+    "lng": 87.32,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_47",
+    "text": "艾哈迈德纳格尔",
+    "zone": 5.5,
+    "lng": 74.73,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_48",
+    "text": "巴特那",
+    "zone": 5.5,
+    "lng": 85.15,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_49",
+    "text": "达兰萨拉",
+    "zone": 5.5,
+    "lng": 76.32,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_50",
+    "text": "班加罗尔",
+    "zone": 5.5,
+    "lng": 77.57,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_51",
+    "text": "瓦塞维拉尔",
+    "zone": 5.5,
+    "lng": 72.82,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_52",
+    "text": "卡基纳达",
+    "zone": 5.5,
+    "lng": 82.23,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_53",
+    "text": "戈勒克布尔",
+    "zone": 5.5,
+    "lng": 83.37,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_54",
+    "text": "哥印拜陀",
+    "zone": 5.5,
+    "lng": 76.97,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_55",
+    "text": "贾巴尔普尔",
+    "zone": 5.5,
+    "lng": 79.93,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_56",
+    "text": "达摩",
+    "zone": 5.5,
+    "lng": 79.75,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_57",
+    "text": "密拉特",
+    "zone": 5.5,
+    "lng": 77.7,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_58",
+    "text": "阿科拉",
+    "zone": 5.5,
+    "lng": 77,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_59",
+    "text": "巴罗达",
+    "zone": 5.5,
+    "lng": 73.2,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_60",
+    "text": "尼扎马巴德",
+    "zone": 5.5,
+    "lng": 78.1,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_61",
+    "text": "阿赫梅德加尔",
+    "zone": 5.5,
+    "lng": 75.82,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_62",
+    "text": "西隆",
+    "zone": 5.5,
+    "lng": 91.88,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_63",
+    "text": "锡鲁万纳塔普拉姆",
+    "zone": 5.5,
+    "lng": 76.95,
+    "iana": "Asia/Kolkata"
+  },
+  {
+    "id": "country_173__city_64",
+    "text": "德尼",
+    "zone": 5.5,
+    "lng": 77.48,
+    "iana": "Asia/Colombo"
+  }
+]

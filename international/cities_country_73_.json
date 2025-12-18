@@ -1,0 +1,51 @@
+[
+  {
+    "id": "country_73__city_1",
+    "text": "姆班达卡",
+    "zone": 1,
+    "lng": 18.25,
+    "iana": "Africa/Kinshasa"
+  },
+  {
+    "id": "country_73__city_2",
+    "text": "金沙萨",
+    "zone": 1,
+    "lng": 15.32,
+    "iana": "Africa/Kinshasa"
+  },
+  {
+    "id": "country_73__city_3",
+    "text": "戈马",
+    "zone": 2,
+    "lng": 29.2,
+    "iana": "Africa/Lubumbashi"
+  },
+  {
+    "id": "country_73__city_4",
+    "text": "布卡武",
+    "zone": 2,
+    "lng": 28.85,
+    "iana": "Africa/Lubumbashi"
+  },
+  {
+    "id": "country_73__city_5",
+    "text": "基桑加尼",
+    "zone": 2,
+    "lng": 25.2,
+    "iana": "Africa/Lubumbashi"
+  },
+  {
+    "id": "country_73__city_6",
+    "text": "姆布吉马伊",
+    "zone": 2,
+    "lng": 23.58,
+    "iana": "Africa/Lubumbashi"
+  },
+  {
+    "id": "country_73__city_7",
+    "text": "卢本巴希",
+    "zone": 2,
+    "lng": 27.48,
+    "iana": "Africa/Lubumbashi"
+  }
+]

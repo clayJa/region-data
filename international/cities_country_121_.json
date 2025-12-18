@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_121__city_1",
+    "text": "库蒂亚拉",
+    "zone": 0,
+    "lng": 5.47,
+    "iana": "Africa/Bamako"
+  },
+  {
+    "id": "country_121__city_2",
+    "text": "锡加索",
+    "zone": 0,
+    "lng": 5.67,
+    "iana": "Africa/Bamako"
+  },
+  {
+    "id": "country_121__city_3",
+    "text": "通布图",
+    "zone": 0,
+    "lng": 3,
+    "iana": "Africa/Bamako"
+  },
+  {
+    "id": "country_121__city_4",
+    "text": "巴马科",
+    "zone": 0,
+    "lng": 8,
+    "iana": "Africa/Bamako"
+  }
+]

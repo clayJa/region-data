@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_159__city_1",
+    "text": "塔什干",
+    "zone": 5,
+    "lng": 69.28,
+    "iana": "Asia/Tashkent"
+  },
+  {
+    "id": "country_159__city_2",
+    "text": "安集延",
+    "zone": 5,
+    "lng": 72.35,
+    "iana": "Asia/Tashkent"
+  },
+  {
+    "id": "country_159__city_3",
+    "text": "撒马尔罕",
+    "zone": 5,
+    "lng": 66.98,
+    "iana": "Asia/Tashkent"
+  },
+  {
+    "id": "country_159__city_4",
+    "text": "纳曼干",
+    "zone": 5,
+    "lng": 71.67,
+    "iana": "Asia/Tashkent"
+  },
+  {
+    "id": "country_159__city_5",
+    "text": "努库斯",
+    "zone": 5,
+    "lng": 59.6,
+    "iana": "Asia/Samarkand"
+  }
+]

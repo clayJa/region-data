@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_118__city_1",
+    "text": "克里斯琴斯特德",
+    "zone": -4,
+    "lng": -64.7,
+    "iana": "America/St_Thomas"
+  },
+  {
+    "id": "country_118__city_2",
+    "text": "克鲁斯湾",
+    "zone": -4,
+    "lng": -64.8,
+    "iana": "America/St_Thomas"
+  },
+  {
+    "id": "country_118__city_3",
+    "text": "夏洛特·阿马里",
+    "zone": -4,
+    "lng": -64.93,
+    "iana": "America/St_Thomas"
+  }
+]

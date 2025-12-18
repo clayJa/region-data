@@ -1,0 +1,44 @@
+[
+  {
+    "id": "country_109__city_1",
+    "text": "巴彦洪戈尔",
+    "zone": 8,
+    "lng": 100.72,
+    "iana": "Asia/Ulaanbaatar"
+  },
+  {
+    "id": "country_109__city_2",
+    "text": "乌兰巴托",
+    "zone": 8,
+    "lng": 106.92,
+    "iana": "Asia/Ulaanbaatar"
+  },
+  {
+    "id": "country_109__city_3",
+    "text": "额尔登特",
+    "zone": 8,
+    "lng": 104.05,
+    "iana": "Asia/Choibalsan"
+  },
+  {
+    "id": "country_109__city_4",
+    "text": "达尔汗",
+    "zone": 8,
+    "lng": 105.93,
+    "iana": "Asia/Ulaanbaatar"
+  },
+  {
+    "id": "country_109__city_5",
+    "text": "乔巴山",
+    "zone": 8,
+    "lng": 114.53,
+    "iana": "Asia/Choibalsan"
+  },
+  {
+    "id": "country_109__city_6",
+    "text": "科布多",
+    "zone": 8,
+    "lng": 91.63,
+    "iana": "Asia/Hovd"
+  }
+]

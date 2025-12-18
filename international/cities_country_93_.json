@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_93__city_1",
+    "text": "里耶卡",
+    "zone": 1,
+    "lng": 14.45,
+    "iana": "Europe/Zagreb"
+  },
+  {
+    "id": "country_93__city_2",
+    "text": "斯普利特",
+    "zone": 1,
+    "lng": 16.43,
+    "iana": "Europe/Zagreb"
+  },
+  {
+    "id": "country_93__city_3",
+    "text": "萨格勒布",
+    "zone": 1,
+    "lng": 15.98,
+    "iana": "Europe/Zagreb"
+  },
+  {
+    "id": "country_93__city_4",
+    "text": "奥西耶克",
+    "zone": 1,
+    "lng": 18.7,
+    "iana": "Europe/Zagreb"
+  },
+  {
+    "id": "country_93__city_5",
+    "text": "斯拉沃尼亚布罗德",
+    "zone": 1,
+    "lng": 18.02,
+    "iana": "Europe/Zagreb"
+  }
+]

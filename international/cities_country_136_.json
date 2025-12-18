@@ -1,0 +1,51 @@
+[
+  {
+    "id": "country_136__city_1",
+    "text": "康堤",
+    "zone": 5.5,
+    "lng": 80.63,
+    "iana": "Asia/Colombo"
+  },
+  {
+    "id": "country_136__city_2",
+    "text": "巴杜勒",
+    "zone": 5.5,
+    "lng": 81.05,
+    "iana": "Asia/Colombo"
+  },
+  {
+    "id": "country_136__city_3",
+    "text": "斯里贾亚瓦德纳普拉科特",
+    "zone": 5.5,
+    "lng": 79.92,
+    "iana": "Asia/Colombo"
+  },
+  {
+    "id": "country_136__city_4",
+    "text": "贾夫纳",
+    "zone": 5.5,
+    "lng": 80.02,
+    "iana": "Asia/Colombo"
+  },
+  {
+    "id": "country_136__city_5",
+    "text": "卡尔穆奈",
+    "zone": 5.5,
+    "lng": 81.83,
+    "iana": "Asia/Colombo"
+  },
+  {
+    "id": "country_136__city_6",
+    "text": "亭可马里",
+    "zone": 5.5,
+    "lng": 81.23,
+    "iana": "Asia/Colombo"
+  },
+  {
+    "id": "country_136__city_7",
+    "text": "科伦坡",
+    "zone": 5.5,
+    "lng": 79.85,
+    "iana": "Asia/Colombo"
+  }
+]

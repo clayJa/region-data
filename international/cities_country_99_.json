@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_99__city_1",
+    "text": "巴色",
+    "zone": 7,
+    "lng": 105.8,
+    "iana": "Asia/Vientiane"
+  },
+  {
+    "id": "country_99__city_2",
+    "text": "万象",
+    "zone": 7,
+    "lng": 102.6,
+    "iana": "Asia/Vientiane"
+  },
+  {
+    "id": "country_99__city_3",
+    "text": "桑怒",
+    "zone": 7,
+    "lng": 104.05,
+    "iana": "Asia/Vientiane"
+  },
+  {
+    "id": "country_99__city_4",
+    "text": "沙湾拿吉",
+    "zone": 7,
+    "lng": 104.75,
+    "iana": "Asia/Vientiane"
+  },
+  {
+    "id": "country_99__city_5",
+    "text": "琅勃拉邦",
+    "zone": 7,
+    "lng": 102.13,
+    "iana": "Asia/Vientiane"
+  }
+]

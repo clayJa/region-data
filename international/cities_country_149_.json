@@ -1,0 +1,16 @@
+[
+  {
+    "id": "country_149__city_1",
+    "text": "七海爱丁堡",
+    "zone": 0,
+    "lng": 12.32,
+    "iana": "Atlantic/St_Helena"
+  },
+  {
+    "id": "country_149__city_2",
+    "text": "詹姆斯敦",
+    "zone": 0,
+    "lng": 5.72,
+    "iana": "Atlantic/St_Helena"
+  }
+]

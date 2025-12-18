@@ -1,0 +1,44 @@
+[
+  {
+    "id": "country_75__city_1",
+    "text": "海牙",
+    "zone": 1,
+    "lng": 4.32,
+    "iana": "Europe/Amsterdam"
+  },
+  {
+    "id": "country_75__city_2",
+    "text": "鹿特丹",
+    "zone": 1,
+    "lng": 4.47,
+    "iana": "Europe/Amsterdam"
+  },
+  {
+    "id": "country_75__city_3",
+    "text": "武尔登",
+    "zone": 1,
+    "lng": 4.88,
+    "iana": "Europe/Amsterdam"
+  },
+  {
+    "id": "country_75__city_4",
+    "text": "格罗宁根",
+    "zone": 1,
+    "lng": 6.57,
+    "iana": "Europe/Amsterdam"
+  },
+  {
+    "id": "country_75__city_5",
+    "text": "乌特勒支",
+    "zone": 1,
+    "lng": 5.12,
+    "iana": "Europe/Amsterdam"
+  },
+  {
+    "id": "country_75__city_6",
+    "text": "阿姆斯特丹",
+    "zone": 1,
+    "lng": 4.9,
+    "iana": "Europe/Amsterdam"
+  }
+]

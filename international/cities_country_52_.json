@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_52__city_1",
+    "text": "芒戈",
+    "zone": 0,
+    "lng": 0.48,
+    "iana": "Africa/Lome"
+  },
+  {
+    "id": "country_52__city_2",
+    "text": "卡拉",
+    "zone": 0,
+    "lng": 1.18,
+    "iana": "Africa/Lome"
+  },
+  {
+    "id": "country_52__city_3",
+    "text": "洛美",
+    "zone": 0,
+    "lng": 1.22,
+    "iana": "Africa/Lome"
+  },
+  {
+    "id": "country_52__city_4",
+    "text": "阿塔帕梅",
+    "zone": 0,
+    "lng": 1.13,
+    "iana": "Africa/Lome"
+  },
+  {
+    "id": "country_52__city_5",
+    "text": "索科代",
+    "zone": 0,
+    "lng": 1.15,
+    "iana": "Africa/Lome"
+  }
+]

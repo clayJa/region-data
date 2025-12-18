@@ -1,0 +1,16 @@
+[
+  {
+    "id": "country_40__city_1",
+    "text": "弗里波特/巴哈马自由港",
+    "zone": -5,
+    "lng": -78.7,
+    "iana": "America/Nassau"
+  },
+  {
+    "id": "country_40__city_2",
+    "text": "拿骚",
+    "zone": -5,
+    "lng": -77.33,
+    "iana": "America/Nassau"
+  }
+]

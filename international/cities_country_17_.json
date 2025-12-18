@@ -1,0 +1,86 @@
+[
+  {
+    "id": "country_17__city_1",
+    "text": "巴库",
+    "zone": 4,
+    "lng": 49.84,
+    "iana": "Asia/Baku"
+  },
+  {
+    "id": "country_17__city_2",
+    "text": "斯捷潘纳克特/汉肯德",
+    "zone": 4,
+    "lng": 46.77,
+    "iana": "Asia/Yerevan"
+  },
+  {
+    "id": "country_17__city_3",
+    "text": "明盖恰乌尔",
+    "zone": 4,
+    "lng": 47.03,
+    "iana": "Asia/Baku"
+  },
+  {
+    "id": "country_17__city_4",
+    "text": "阿格贾贝迪",
+    "zone": 4,
+    "lng": 47.45,
+    "iana": "Asia/Baku"
+  },
+  {
+    "id": "country_17__city_5",
+    "text": "哈奇马斯",
+    "zone": 4,
+    "lng": 48.8,
+    "iana": "Asia/Baku"
+  },
+  {
+    "id": "country_17__city_6",
+    "text": "占贾",
+    "zone": 4,
+    "lng": 46.37,
+    "iana": "Asia/Baku"
+  },
+  {
+    "id": "country_17__city_7",
+    "text": "沙马基",
+    "zone": 4,
+    "lng": 48.63,
+    "iana": "Asia/Baku"
+  },
+  {
+    "id": "country_17__city_8",
+    "text": "纳希切万",
+    "zone": 4,
+    "lng": 45.41,
+    "iana": "Asia/Baku"
+  },
+  {
+    "id": "country_17__city_9",
+    "text": "希尔凡",
+    "zone": 4,
+    "lng": 48.92,
+    "iana": "Asia/Baku"
+  },
+  {
+    "id": "country_17__city_10",
+    "text": "苏姆盖特",
+    "zone": 4,
+    "lng": 49.67,
+    "iana": "Asia/Baku"
+  },
+  {
+    "id": "country_17__city_11",
+    "text": "舍基/夏奇",
+    "zone": 4,
+    "lng": 47.17,
+    "iana": "Asia/Baku"
+  },
+  {
+    "id": "country_17__city_12",
+    "text": "连科兰",
+    "zone": 4,
+    "lng": 48.85,
+    "iana": "Asia/Baku"
+  }
+]

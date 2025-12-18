@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_111__city_1",
+    "text": "曼德勒",
+    "zone": 6.5,
+    "lng": 96.08,
+    "iana": "Asia/Yangon"
+  },
+  {
+    "id": "country_111__city_2",
+    "text": "仰光",
+    "zone": 6.5,
+    "lng": 96.17,
+    "iana": "Asia/Yangon"
+  },
+  {
+    "id": "country_111__city_3",
+    "text": "内比都",
+    "zone": 6.5,
+    "lng": 96.1,
+    "iana": "Asia/Yangon"
+  },
+  {
+    "id": "country_111__city_4",
+    "text": "土瓦",
+    "zone": 6.5,
+    "lng": 98.18,
+    "iana": "Asia/Yangon"
+  },
+  {
+    "id": "country_111__city_5",
+    "text": "毛淡棉",
+    "zone": 6.5,
+    "lng": 97.62,
+    "iana": "Asia/Yangon"
+  }
+]

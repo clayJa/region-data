@@ -1,0 +1,44 @@
+[
+  {
+    "id": "country_154__city_1",
+    "text": "马雷",
+    "zone": 5,
+    "lng": 61.85,
+    "iana": "Asia/Ashgabat"
+  },
+  {
+    "id": "country_154__city_2",
+    "text": "阿什哈巴德",
+    "zone": 5,
+    "lng": 58.38,
+    "iana": "Asia/Ashgabat"
+  },
+  {
+    "id": "country_154__city_3",
+    "text": "土库曼纳巴德",
+    "zone": 5,
+    "lng": 63.57,
+    "iana": "Asia/Ashgabat"
+  },
+  {
+    "id": "country_154__city_4",
+    "text": "巴尔坎纳巴德",
+    "zone": 5,
+    "lng": 54.37,
+    "iana": "Asia/Ashgabat"
+  },
+  {
+    "id": "country_154__city_5",
+    "text": "达沙古兹",
+    "zone": 5,
+    "lng": 59.97,
+    "iana": "Asia/Ashgabat"
+  },
+  {
+    "id": "country_154__city_6",
+    "text": "土库曼巴希",
+    "zone": 5,
+    "lng": 53,
+    "iana": "Asia/Ashgabat"
+  }
+]

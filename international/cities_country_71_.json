@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_71__city_1",
+    "text": "班珠尔",
+    "zone": 0,
+    "lng": 16.57,
+    "iana": "Africa/Banjul"
+  },
+  {
+    "id": "country_71__city_2",
+    "text": "法拉芬尼",
+    "zone": 0,
+    "lng": 15.6,
+    "iana": "Africa/Banjul"
+  },
+  {
+    "id": "country_71__city_3",
+    "text": "萨拉昆达",
+    "zone": 0,
+    "lng": 16.68,
+    "iana": "Africa/Banjul"
+  }
+]

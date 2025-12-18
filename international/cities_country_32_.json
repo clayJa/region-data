@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_32__city_1",
+    "text": "彭措林",
+    "zone": 6,
+    "lng": 89.38,
+    "iana": "Asia/Thimphu"
+  },
+  {
+    "id": "country_32__city_2",
+    "text": "帕罗",
+    "zone": 6,
+    "lng": 89.42,
+    "iana": "Asia/Thimphu"
+  },
+  {
+    "id": "country_32__city_3",
+    "text": "萨姆德鲁琼卡尔",
+    "zone": 6,
+    "lng": 91.7,
+    "iana": "Asia/Thimphu"
+  },
+  {
+    "id": "country_32__city_4",
+    "text": "廷布",
+    "zone": 6,
+    "lng": 89.65,
+    "iana": "Asia/Thimphu"
+  }
+]

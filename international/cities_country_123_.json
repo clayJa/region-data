@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_123__city_1",
+    "text": "提吉克贾",
+    "zone": 0,
+    "lng": 11.43,
+    "iana": "Indian/Mayotte"
+  },
+  {
+    "id": "country_123__city_2",
+    "text": "努瓦迪布",
+    "zone": 0,
+    "lng": 17.03,
+    "iana": "Africa/Nouakchott"
+  },
+  {
+    "id": "country_123__city_3",
+    "text": "罗索",
+    "zone": 0,
+    "lng": 15.8,
+    "iana": "Africa/Nouakchott"
+  },
+  {
+    "id": "country_123__city_4",
+    "text": "努瓦克肖特",
+    "zone": 0,
+    "lng": 15.98,
+    "iana": "Africa/Nouakchott"
+  }
+]

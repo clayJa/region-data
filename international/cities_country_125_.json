@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_125__city_1",
+    "text": "比拉德讷格尔",
+    "zone": 5.75,
+    "lng": 87.28,
+    "iana": "Asia/Dhaka"
+  },
+  {
+    "id": "country_125__city_2",
+    "text": "达朗",
+    "zone": 5.75,
+    "lng": 87.28,
+    "iana": "Asia/Riyadh"
+  },
+  {
+    "id": "country_125__city_3",
+    "text": "加德满都",
+    "zone": 5.75,
+    "lng": 85.32,
+    "iana": "Asia/Kathmandu"
+  },
+  {
+    "id": "country_125__city_4",
+    "text": "博卡拉",
+    "zone": 5.75,
+    "lng": 83.98,
+    "iana": "Asia/Kathmandu"
+  }
+]

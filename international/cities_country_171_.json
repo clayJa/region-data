@@ -1,0 +1,184 @@
+[
+  {
+    "id": "country_171__city_1",
+    "text": "设拉子",
+    "zone": 3.5,
+    "lng": 52.53,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_2",
+    "text": "大不里士",
+    "zone": 3.5,
+    "lng": 46.28,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_3",
+    "text": "戈尔甘",
+    "zone": 3.5,
+    "lng": 54.43,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_4",
+    "text": "舒什塔尔",
+    "zone": 3.5,
+    "lng": 48.85,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_5",
+    "text": "贝赫贝汉",
+    "zone": 3.5,
+    "lng": 50.23,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_6",
+    "text": "阿瓦士",
+    "zone": 3.5,
+    "lng": 48.68,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_7",
+    "text": "迪兹富勒",
+    "zone": 3.5,
+    "lng": 48.42,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_8",
+    "text": "克尔曼沙赫",
+    "zone": 3.5,
+    "lng": 47.07,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_9",
+    "text": "德黑兰",
+    "zone": 3.5,
+    "lng": 51.42,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_10",
+    "text": "马哈巴德",
+    "zone": 3.5,
+    "lng": 45.72,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_11",
+    "text": "马什哈德",
+    "zone": 3.5,
+    "lng": 59.6,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_12",
+    "text": "卡尚",
+    "zone": 3.5,
+    "lng": 51.45,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_13",
+    "text": "乌尔米耶",
+    "zone": 3.5,
+    "lng": 45.08,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_14",
+    "text": "卡拉季",
+    "zone": 3.5,
+    "lng": 50.98,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_15",
+    "text": "比尔詹德",
+    "zone": 3.5,
+    "lng": 59.22,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_16",
+    "text": "库姆",
+    "zone": 3.5,
+    "lng": 50.88,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_17",
+    "text": "哈马丹",
+    "zone": 3.5,
+    "lng": 48.53,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_18",
+    "text": "布什尔",
+    "zone": 3.5,
+    "lng": 50.83,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_19",
+    "text": "拉什特",
+    "zone": 3.5,
+    "lng": 49.6,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_20",
+    "text": "亚兹德",
+    "zone": 3.5,
+    "lng": 54.36,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_21",
+    "text": "伊斯法罕",
+    "zone": 3.5,
+    "lng": 51.67,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_22",
+    "text": "萨里市",
+    "zone": 3.5,
+    "lng": 53.07,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_23",
+    "text": "博鲁杰尔德",
+    "zone": 3.5,
+    "lng": 48.75,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_24",
+    "text": "萨南达季",
+    "zone": 3.5,
+    "lng": 47,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_25",
+    "text": "阿巴斯港",
+    "zone": 3.5,
+    "lng": 56.28,
+    "iana": "Asia/Tehran"
+  },
+  {
+    "id": "country_171__city_26",
+    "text": "克尔曼",
+    "zone": 3.5,
+    "lng": 57.07,
+    "iana": "Asia/Tehran"
+  }
+]

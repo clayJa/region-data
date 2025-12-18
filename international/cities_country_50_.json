@@ -1,0 +1,44 @@
+[
+  {
+    "id": "country_50__city_1",
+    "text": "欧登塞",
+    "zone": 1,
+    "lng": 10.38,
+    "iana": "Europe/Copenhagen"
+  },
+  {
+    "id": "country_50__city_2",
+    "text": "奥胡斯",
+    "zone": 1,
+    "lng": 10.22,
+    "iana": "Europe/Copenhagen"
+  },
+  {
+    "id": "country_50__city_3",
+    "text": "海宁",
+    "zone": 1,
+    "lng": 8.97,
+    "iana": "Europe/Copenhagen"
+  },
+  {
+    "id": "country_50__city_4",
+    "text": "奈斯特韦兹",
+    "zone": 1,
+    "lng": 11.75,
+    "iana": "Europe/Copenhagen"
+  },
+  {
+    "id": "country_50__city_5",
+    "text": "奥尔堡",
+    "zone": 1,
+    "lng": 9.92,
+    "iana": "Europe/Copenhagen"
+  },
+  {
+    "id": "country_50__city_6",
+    "text": "哥本哈根",
+    "zone": 1,
+    "lng": 12.57,
+    "iana": "Europe/Copenhagen"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "country_33__city_1",
+    "text": "莫吉廖夫",
+    "zone": 3,
+    "lng": 30.33,
+    "iana": "Europe/Minsk"
+  },
+  {
+    "id": "country_33__city_2",
+    "text": "明斯克",
+    "zone": 3,
+    "lng": 27.55,
+    "iana": "Europe/Minsk"
+  },
+  {
+    "id": "country_33__city_3",
+    "text": "鲍里索夫",
+    "zone": 3,
+    "lng": 28.5,
+    "iana": "Europe/Minsk"
+  },
+  {
+    "id": "country_33__city_4",
+    "text": "巴拉诺维奇",
+    "zone": 3,
+    "lng": 26.02,
+    "iana": "Europe/Minsk"
+  },
+  {
+    "id": "country_33__city_5",
+    "text": "格罗德诺",
+    "zone": 3,
+    "lng": 23.83,
+    "iana": "Europe/Minsk"
+  },
+  {
+    "id": "country_33__city_6",
+    "text": "布列斯特",
+    "zone": 3,
+    "lng": 23.68,
+    "iana": "Europe/Minsk"
+  },
+  {
+    "id": "country_33__city_7",
+    "text": "萨里霍斯克",
+    "zone": 3,
+    "lng": 27.53,
+    "iana": "Europe/Minsk"
+  },
+  {
+    "id": "country_33__city_8",
+    "text": "波洛茨克",
+    "zone": 3,
+    "lng": 28.78,
+    "iana": "Europe/Minsk"
+  },
+  {
+    "id": "country_33__city_9",
+    "text": "维切布斯克",
+    "zone": 3,
+    "lng": 30.2,
+    "iana": "Europe/Minsk"
+  },
+  {
+    "id": "country_33__city_10",
+    "text": "巴布鲁伊斯克",
+    "zone": 3,
+    "lng": 29.22,
+    "iana": "Europe/Minsk"
+  },
+  {
+    "id": "country_33__city_11",
+    "text": "戈麦尔",
+    "zone": 3,
+    "lng": 30.98,
+    "iana": "Europe/Minsk"
+  }
+]

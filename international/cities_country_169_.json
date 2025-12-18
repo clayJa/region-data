@@ -1,0 +1,44 @@
+[
+  {
+    "id": "country_169__city_1",
+    "text": "萨那",
+    "zone": 3,
+    "lng": 44.22,
+    "iana": "Asia/Aden"
+  },
+  {
+    "id": "country_169__city_2",
+    "text": "穆卡拉",
+    "zone": 3,
+    "lng": 49.12,
+    "iana": "Asia/Aden"
+  },
+  {
+    "id": "country_169__city_3",
+    "text": "荷台达",
+    "zone": 3,
+    "lng": 42.95,
+    "iana": "Asia/Aden"
+  },
+  {
+    "id": "country_169__city_4",
+    "text": "哈迪布",
+    "zone": 3,
+    "lng": 54.02,
+    "iana": "Asia/Aden"
+  },
+  {
+    "id": "country_169__city_5",
+    "text": "亚丁",
+    "zone": 3,
+    "lng": 45.03,
+    "iana": "Asia/Aden"
+  },
+  {
+    "id": "country_169__city_6",
+    "text": "塔伊兹",
+    "zone": 3,
+    "lng": 44.02,
+    "iana": "Asia/Aden"
+  }
+]

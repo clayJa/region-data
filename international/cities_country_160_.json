@@ -1,0 +1,107 @@
+[
+  {
+    "id": "country_160__city_1",
+    "text": "基辅",
+    "zone": 2,
+    "lng": 30.52,
+    "iana": "Europe/Kiev"
+  },
+  {
+    "id": "country_160__city_2",
+    "text": "哈尔科夫",
+    "zone": 2,
+    "lng": 36.23,
+    "iana": "Europe/Kiev"
+  },
+  {
+    "id": "country_160__city_3",
+    "text": "辛菲罗波尔",
+    "zone": 2,
+    "lng": 34.1,
+    "iana": "Europe/Simferopol"
+  },
+  {
+    "id": "country_160__city_4",
+    "text": "敖德萨",
+    "zone": 2,
+    "lng": 30.73,
+    "iana": "Europe/Kiev"
+  },
+  {
+    "id": "country_160__city_5",
+    "text": "克里沃罗格",
+    "zone": 2,
+    "lng": 33.38,
+    "iana": "Europe/Kiev"
+  },
+  {
+    "id": "country_160__city_6",
+    "text": "苏梅",
+    "zone": 2,
+    "lng": 34.8,
+    "iana": "Europe/Kiev"
+  },
+  {
+    "id": "country_160__city_7",
+    "text": "赫尔松",
+    "zone": 2,
+    "lng": 32.62,
+    "iana": "Europe/Kiev"
+  },
+  {
+    "id": "country_160__city_8",
+    "text": "扎波罗热",
+    "zone": 2,
+    "lng": 35.13,
+    "iana": "Europe/Kiev"
+  },
+  {
+    "id": "country_160__city_9",
+    "text": "卢甘斯克",
+    "zone": 2,
+    "lng": 39.3,
+    "iana": "Europe/Simferopol"
+  },
+  {
+    "id": "country_160__city_10",
+    "text": "第聂伯罗彼得罗夫斯克",
+    "zone": 2,
+    "lng": 35.05,
+    "iana": "Europe/Kiev"
+  },
+  {
+    "id": "country_160__city_11",
+    "text": "顿涅茨克",
+    "zone": 2,
+    "lng": 37.8,
+    "iana": "Europe/Simferopol"
+  },
+  {
+    "id": "country_160__city_12",
+    "text": "切尔诺贝利",
+    "zone": 2,
+    "lng": 30.21,
+    "iana": "Europe/Kiev"
+  },
+  {
+    "id": "country_160__city_13",
+    "text": "赫梅利尼茨基",
+    "zone": 2,
+    "lng": 26.98,
+    "iana": "Europe/Kiev"
+  },
+  {
+    "id": "country_160__city_14",
+    "text": "利沃夫",
+    "zone": 2,
+    "lng": 24.03,
+    "iana": "Europe/Kiev"
+  },
+  {
+    "id": "country_160__city_15",
+    "text": "乌日霍罗德",
+    "zone": 2,
+    "lng": 22.28,
+    "iana": "Europe/Uzhgorod"
+  }
+]

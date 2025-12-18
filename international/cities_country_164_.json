@@ -1,0 +1,65 @@
+[
+  {
+    "id": "country_164__city_1",
+    "text": "哈塞克",
+    "zone": 3,
+    "lng": 40.75,
+    "iana": "Asia/Damascus"
+  },
+  {
+    "id": "country_164__city_2",
+    "text": "阿勒颇",
+    "zone": 3,
+    "lng": 37.17,
+    "iana": "Asia/Damascus"
+  },
+  {
+    "id": "country_164__city_3",
+    "text": "德拉",
+    "zone": 3,
+    "lng": 36.1,
+    "iana": "Asia/Damascus"
+  },
+  {
+    "id": "country_164__city_4",
+    "text": "大马士革",
+    "zone": 3,
+    "lng": 36.32,
+    "iana": "Asia/Damascus"
+  },
+  {
+    "id": "country_164__city_5",
+    "text": "哈玛",
+    "zone": 3,
+    "lng": 36.75,
+    "iana": "Asia/Damascus"
+  },
+  {
+    "id": "country_164__city_6",
+    "text": "代尔祖尔",
+    "zone": 3,
+    "lng": 40.15,
+    "iana": "Asia/Damascus"
+  },
+  {
+    "id": "country_164__city_7",
+    "text": "拉塔基亚",
+    "zone": 3,
+    "lng": 35.78,
+    "iana": "Asia/Damascus"
+  },
+  {
+    "id": "country_164__city_8",
+    "text": "霍姆斯",
+    "zone": 3,
+    "lng": 36.72,
+    "iana": "Asia/Damascus"
+  },
+  {
+    "id": "country_164__city_9",
+    "text": "拉卡",
+    "zone": 3,
+    "lng": 39,
+    "iana": "Asia/Damascus"
+  }
+]

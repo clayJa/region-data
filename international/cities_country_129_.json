@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_129__city_1",
+    "text": "尼亚美",
+    "zone": 1,
+    "lng": 2.12,
+    "iana": "Africa/Niamey"
+  },
+  {
+    "id": "country_129__city_2",
+    "text": "阿尔利特",
+    "zone": 1,
+    "lng": 7.38,
+    "iana": "Africa/Niamey"
+  },
+  {
+    "id": "country_129__city_3",
+    "text": "阿加德兹",
+    "zone": 1,
+    "lng": 7.98,
+    "iana": "Africa/Niamey"
+  },
+  {
+    "id": "country_129__city_4",
+    "text": "马拉迪",
+    "zone": 1,
+    "lng": 7.1,
+    "iana": "Africa/Niamey"
+  },
+  {
+    "id": "country_129__city_5",
+    "text": "津德尔",
+    "zone": 1,
+    "lng": 8.98,
+    "iana": "Africa/Niamey"
+  }
+]

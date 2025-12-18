@@ -1,0 +1,65 @@
+[
+  {
+    "id": "country_3__city_1",
+    "text": "呵叻府",
+    "zone": 7,
+    "lng": 102.1,
+    "iana": "Asia/Bangkok"
+  },
+  {
+    "id": "country_3__city_2",
+    "text": "北榄坡府",
+    "zone": 7,
+    "lng": 100.13,
+    "iana": "Asia/Bangkok"
+  },
+  {
+    "id": "country_3__city_3",
+    "text": "清迈",
+    "zone": 7,
+    "lng": 98.98,
+    "iana": "Asia/Bangkok"
+  },
+  {
+    "id": "country_3__city_4",
+    "text": "普吉港",
+    "zone": 7,
+    "lng": 98.4,
+    "iana": "Asia/Bangkok"
+  },
+  {
+    "id": "country_3__city_5",
+    "text": "合艾",
+    "zone": 7,
+    "lng": 100.47,
+    "iana": "Asia/Bangkok"
+  },
+  {
+    "id": "country_3__city_6",
+    "text": "曼谷",
+    "zone": 7,
+    "lng": 100.5,
+    "iana": "Asia/Bangkok"
+  },
+  {
+    "id": "country_3__city_7",
+    "text": "坤敬",
+    "zone": 7,
+    "lng": 102.83,
+    "iana": "Asia/Bangkok"
+  },
+  {
+    "id": "country_3__city_8",
+    "text": "乌隆府",
+    "zone": 7,
+    "lng": 102.8,
+    "iana": "Asia/Bangkok"
+  },
+  {
+    "id": "country_3__city_9",
+    "text": "芭堤雅",
+    "zone": 7,
+    "lng": 100.9,
+    "iana": "Asia/Bangkok"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "country_183__city_1",
+    "text": "班巴里",
+    "zone": 1,
+    "lng": 20.67,
+    "iana": "Africa/Bangui"
+  },
+  {
+    "id": "country_183__city_2",
+    "text": "宾博",
+    "zone": 1,
+    "lng": 18.4,
+    "iana": "Africa/Bangui"
+  },
+  {
+    "id": "country_183__city_3",
+    "text": "比劳",
+    "zone": 1,
+    "lng": 22.78,
+    "iana": "Africa/Bangui"
+  },
+  {
+    "id": "country_183__city_4",
+    "text": "卡加班多罗",
+    "zone": 1,
+    "lng": 19.18,
+    "iana": "Africa/Bangui"
+  },
+  {
+    "id": "country_183__city_5",
+    "text": "班吉",
+    "zone": 1,
+    "lng": 18.55,
+    "iana": "Africa/Bangui"
+  },
+  {
+    "id": "country_183__city_6",
+    "text": "奥博",
+    "zone": 1,
+    "lng": 26.5,
+    "iana": "Africa/Bangui"
+  },
+  {
+    "id": "country_183__city_7",
+    "text": "博祖姆",
+    "zone": 1,
+    "lng": 16.38,
+    "iana": "Africa/Bangui"
+  },
+  {
+    "id": "country_183__city_8",
+    "text": "布里亚",
+    "zone": 1,
+    "lng": 21.98,
+    "iana": "Africa/Bangui"
+  },
+  {
+    "id": "country_183__city_9",
+    "text": "贝贝拉蒂",
+    "zone": 1,
+    "lng": 15.78,
+    "iana": "Africa/Bangui"
+  }
+]

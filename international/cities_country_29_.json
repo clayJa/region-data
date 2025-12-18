@@ -1,0 +1,156 @@
+[
+  {
+    "id": "country_29__city_1",
+    "text": "拉合尔",
+    "zone": 5,
+    "lng": 74.3,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_2",
+    "text": "米尔布尔哈斯",
+    "zone": 5,
+    "lng": 69.02,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_3",
+    "text": "白沙瓦",
+    "zone": 5,
+    "lng": 71.55,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_4",
+    "text": "恰夸尔",
+    "zone": 5,
+    "lng": 72.87,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_5",
+    "text": "库沙布",
+    "zone": 5,
+    "lng": 72.35,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_6",
+    "text": "古杰兰瓦拉",
+    "zone": 5,
+    "lng": 74.18,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_7",
+    "text": "木尔坦",
+    "zone": 5,
+    "lng": 71.47,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_8",
+    "text": "卡拉奇",
+    "zone": 5,
+    "lng": 67.03,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_9",
+    "text": "哲伦",
+    "zone": 5,
+    "lng": 73.73,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_10",
+    "text": "萨希瓦尔",
+    "zone": 5,
+    "lng": 73.12,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_11",
+    "text": "古杰拉特",
+    "zone": 5,
+    "lng": 74.08,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_12",
+    "text": "苏库尔",
+    "zone": 5,
+    "lng": 68.87,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_13",
+    "text": "锡亚尔科特",
+    "zone": 5,
+    "lng": 74.53,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_14",
+    "text": "哈内瓦尔",
+    "zone": 5,
+    "lng": 71.93,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_15",
+    "text": "奎达",
+    "zone": 5,
+    "lng": 67.02,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_16",
+    "text": "费萨拉巴德",
+    "zone": 5,
+    "lng": 73.1,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_17",
+    "text": "萨戈达",
+    "zone": 5,
+    "lng": 72.67,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_18",
+    "text": "巴哈瓦尔布尔",
+    "zone": 5,
+    "lng": 71.68,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_19",
+    "text": "哈费扎巴德",
+    "zone": 5,
+    "lng": 73.68,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_20",
+    "text": "伊斯兰堡",
+    "zone": 5,
+    "lng": 73.07,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_21",
+    "text": "拉瓦尔品第",
+    "zone": 5,
+    "lng": 73.05,
+    "iana": "Asia/Karachi"
+  },
+  {
+    "id": "country_29__city_22",
+    "text": "纳罗瓦",
+    "zone": 5,
+    "lng": 74.87,
+    "iana": "Asia/Hebron"
+  }
+]

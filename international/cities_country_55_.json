@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_55__city_1",
+    "text": "门德费拉",
+    "zone": 3,
+    "lng": 38.82,
+    "iana": "Africa/Asmara"
+  },
+  {
+    "id": "country_55__city_2",
+    "text": "阿斯马拉",
+    "zone": 3,
+    "lng": 38.93,
+    "iana": "Africa/Asmara"
+  },
+  {
+    "id": "country_55__city_3",
+    "text": "特瑟内",
+    "zone": 3,
+    "lng": 36.65,
+    "iana": "Africa/Asmara"
+  },
+  {
+    "id": "country_55__city_4",
+    "text": "科伦",
+    "zone": 3,
+    "lng": 38.45,
+    "iana": "Africa/Asmara"
+  },
+  {
+    "id": "country_55__city_5",
+    "text": "阿萨布",
+    "zone": 3,
+    "lng": 42.73,
+    "iana": "Africa/Asmara"
+  }
+]

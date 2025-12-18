@@ -1,0 +1,37 @@
+[
+  {
+    "id": "country_146__city_1",
+    "text": "弗里敦",
+    "zone": 0,
+    "lng": 13.23,
+    "iana": "Africa/Freetown"
+  },
+  {
+    "id": "country_146__city_2",
+    "text": "马卡尼",
+    "zone": 0,
+    "lng": 12.05,
+    "iana": "Africa/Freetown"
+  },
+  {
+    "id": "country_146__city_3",
+    "text": "凯内马",
+    "zone": 0,
+    "lng": 11.18,
+    "iana": "Africa/Freetown"
+  },
+  {
+    "id": "country_146__city_4",
+    "text": "考度",
+    "zone": 0,
+    "lng": 10.97,
+    "iana": "Africa/Freetown"
+  },
+  {
+    "id": "country_146__city_5",
+    "text": "博城",
+    "zone": 0,
+    "lng": 11.73,
+    "iana": "Africa/Freetown"
+  }
+]

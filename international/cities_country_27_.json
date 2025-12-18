@@ -1,0 +1,100 @@
+[
+  {
+    "id": "country_27__city_1",
+    "text": "苏伊士",
+    "zone": 2,
+    "lng": 32.55,
+    "iana": "Africa/Cairo"
+  },
+  {
+    "id": "country_27__city_2",
+    "text": "开罗",
+    "zone": 2,
+    "lng": 31.23,
+    "iana": "Africa/Cairo"
+  },
+  {
+    "id": "country_27__city_3",
+    "text": "艾斯尤特",
+    "zone": 2,
+    "lng": 31.18,
+    "iana": "Africa/Cairo"
+  },
+  {
+    "id": "country_27__city_4",
+    "text": "路克索",
+    "zone": 2,
+    "lng": 32.65,
+    "iana": "Africa/Cairo"
+  },
+  {
+    "id": "country_27__city_5",
+    "text": "扎加齐克",
+    "zone": 2,
+    "lng": 31.5,
+    "iana": "Africa/Cairo"
+  },
+  {
+    "id": "country_27__city_6",
+    "text": "亚历山大",
+    "zone": 2,
+    "lng": 29.95,
+    "iana": "Africa/Cairo"
+  },
+  {
+    "id": "country_27__city_7",
+    "text": "塞得港",
+    "zone": 2,
+    "lng": 32.3,
+    "iana": "Africa/Cairo"
+  },
+  {
+    "id": "country_27__city_8",
+    "text": "吉萨",
+    "zone": 2,
+    "lng": 31.2,
+    "iana": "Africa/Cairo"
+  },
+  {
+    "id": "country_27__city_9",
+    "text": "哈里杰绿洲",
+    "zone": 2,
+    "lng": 30.55,
+    "iana": "Africa/Cairo"
+  },
+  {
+    "id": "country_27__city_10",
+    "text": "锡瓦绿洲",
+    "zone": 2,
+    "lng": 25.52,
+    "iana": "Africa/Cairo"
+  },
+  {
+    "id": "country_27__city_11",
+    "text": "马特鲁港",
+    "zone": 2,
+    "lng": 27.23,
+    "iana": "Africa/Cairo"
+  },
+  {
+    "id": "country_27__city_12",
+    "text": "赫尔格达",
+    "zone": 2,
+    "lng": 33.82,
+    "iana": "Africa/Cairo"
+  },
+  {
+    "id": "country_27__city_13",
+    "text": "沙姆沙伊赫",
+    "zone": 2,
+    "lng": 34.33,
+    "iana": "Africa/Cairo"
+  },
+  {
+    "id": "country_27__city_14",
+    "text": "阿斯旺",
+    "zone": 2,
+    "lng": 32.9,
+    "iana": "Africa/Cairo"
+  }
+]

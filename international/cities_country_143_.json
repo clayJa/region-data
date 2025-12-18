@@ -1,0 +1,16 @@
+[
+  {
+    "id": "country_143__city_1",
+    "text": "卡斯特里",
+    "zone": -4,
+    "lng": -60.98,
+    "iana": "America/St_Lucia"
+  },
+  {
+    "id": "country_143__city_2",
+    "text": "维约堡",
+    "zone": -4,
+    "lng": -60.95,
+    "iana": "America/St_Lucia"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "country_96__city_1",
+    "text": "巴门达",
+    "zone": 1,
+    "lng": 10.15,
+    "iana": "Africa/Douala"
+  },
+  {
+    "id": "country_96__city_2",
+    "text": "加鲁瓦",
+    "zone": 1,
+    "lng": 13.4,
+    "iana": "Africa/Douala"
+  },
+  {
+    "id": "country_96__city_3",
+    "text": "马鲁阿",
+    "zone": 1,
+    "lng": 14.33,
+    "iana": "Africa/Douala"
+  },
+  {
+    "id": "country_96__city_4",
+    "text": "贝尔图阿",
+    "zone": 1,
+    "lng": 13.68,
+    "iana": "Africa/Douala"
+  },
+  {
+    "id": "country_96__city_5",
+    "text": "杜阿拉",
+    "zone": 1,
+    "lng": 9.7,
+    "iana": "Africa/Douala"
+  },
+  {
+    "id": "country_96__city_6",
+    "text": "雅温得",
+    "zone": 1,
+    "lng": 11.52,
+    "iana": "Africa/Douala"
+  },
+  {
+    "id": "country_96__city_7",
+    "text": "恩冈代雷",
+    "zone": 1,
+    "lng": 13.58,
+    "iana": "Africa/Douala"
+  }
+]

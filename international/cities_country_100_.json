@@ -1,0 +1,30 @@
+[
+  {
+    "id": "country_100__city_1",
+    "text": "贝鲁特",
+    "zone": 2,
+    "lng": 35.48,
+    "iana": "Asia/Beirut"
+  },
+  {
+    "id": "country_100__city_2",
+    "text": "西顿",
+    "zone": 2,
+    "lng": 35.37,
+    "iana": "Asia/Beirut"
+  },
+  {
+    "id": "country_100__city_3",
+    "text": "扎赫勒",
+    "zone": 2,
+    "lng": 35.9,
+    "iana": "Asia/Beirut"
+  },
+  {
+    "id": "country_100__city_4",
+    "text": "的黎波里",
+    "zone": 2,
+    "lng": 35.83,
+    "iana": "Africa/Tripoli"
+  }
+]

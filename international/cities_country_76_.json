@@ -1,0 +1,23 @@
+[
+  {
+    "id": "country_76__city_1",
+    "text": "尼克希奇",
+    "zone": 1,
+    "lng": 18.95,
+    "iana": "Europe/Podgorica"
+  },
+  {
+    "id": "country_76__city_2",
+    "text": "普列夫利亚",
+    "zone": 1,
+    "lng": 19.35,
+    "iana": "Europe/Podgorica"
+  },
+  {
+    "id": "country_76__city_3",
+    "text": "波德戈里察",
+    "zone": 1,
+    "lng": 19.27,
+    "iana": "Europe/Podgorica"
+  }
+]
