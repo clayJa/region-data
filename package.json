@@ -1,0 +1,24 @@
+{
+  "name": "clayja-region-data",
+  "version": "1.0.1",
+  "description": "region data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clayJa/region-data.git"
+  },
+  "keywords": [
+    "region",
+    "static",
+    "data"
+  ],
+  "author": "clayja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clayJa/region-data/issues"
+  },
+  "homepage": "https://github.com/clayJa/region-data#readme"
+}
